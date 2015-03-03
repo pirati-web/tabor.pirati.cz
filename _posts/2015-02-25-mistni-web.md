@@ -4,6 +4,7 @@ category: CLANKY
 splash: "http://placehold.it/1600x500"
 title: Místní web
 tags: web
+autor: admin
 ---
 
 

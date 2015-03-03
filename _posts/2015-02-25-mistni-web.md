@@ -7,7 +7,7 @@ tags: web
 ---
 
 
-Pirátské IT prochází velkými změnami a jedno z nich je i rozjíždění webů místních organizací.
+Pirátské IT prochází velkými změnami a jednou z nich je i rozjíždění webů místních organizací.
 V Táboře organizaci zatím nemáme, ale tento web bude sloužit zatím jako infoweb.
 
 Většina článků vznikala, vzniká a bude vznikat na webu [Jinak!](http://www.taborjinak.cz/).

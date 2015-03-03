@@ -1,0 +1,28 @@
+
+<footer class="site-footer row" role="contentinfo">
+<hr/>
+  <div class="large-12 columns">
+
+    <ul class="inline-list right">
+      <li><a href="{{ site.facebookurl }}"><i class="fa fa-facebook"></i>acebook</a></li>
+      {% if site.twitterurl %}<li><a href="{{ site.twitterurl }}">Twitter <i class="fa fa-twitter"></i></a></li>{% endif %}
+    </ul>
+
+    <ul class="inline-list">
+      {% include nav.html %}
+      <li><a class='rss' href='/blog.rss'><i class="fa fa-rss-square"></i> RSS</a></li>
+    </ul>
+
+    <p class="quiet copyright">
+      Všechna práva vyhlazena. Obsah této stránky můžete volně šířit podle licence
+      <a href="http://creativecommons.org/licenses/by/4.0/">
+        <img src="https://licensebuttons.net/l/by/4.0/80x15.png" alt="Creative commons Uveďte autora 4.0"/>
+      </a>
+    </p>
+
+    <div class="right">
+      <a href="#"><i class="fa fa-angle-up"></i> Nahoru (Top)</a>
+    </div>
+
+  </div>
+</footer>

@@ -1,0 +1,15 @@
+title: Piráti Tábor
+baseurl:
+permalink: pretty
+markdown: kramdown
+facebookurl: https://www.facebook.com/otevrenamesta
+twitterurl: https://www.facebook.com/otevrenamesta
+gems:
+  - jekyll-sitemap
+
+
+# see. best practices DOs and DONTs for details about following section
+# http://www.elegantthemes.com/blog/tips-tricks/best-practices-for-using-categories-and-tags-in-wordpress
+avail_tags: transparence, it, kultura, sport, jordan, krizikac, web
+avail_cats: AKCE, JEDNANI, CLANKY
+avail_filecats: SMLOUVY, ZAPISY, VYKRESY, GRAFIKA

@@ -12,7 +12,7 @@ section: blog
 			<div data-alert class="alert-box secondary">
 				<p>
 					Není ti lhostejné veřejné dění?
-					Je ti blýzký pirátský program?
+					Je ti blízký pirátský program?
 					A chceš pomoct pirátům v Táboře?
 				</p>
 

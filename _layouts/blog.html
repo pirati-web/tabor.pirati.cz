@@ -8,7 +8,10 @@ section: blog
 
   <h2>{{ page.title }}</h2>
 
-  <span class='date'>{{page.date | date:"%b %d"}}</span>
+  <h6>
+    {% if page.autor %}<autor class="radius label">{{ page.autor }}</autor> | {% endif %}
+    <i class="fa fa-clock-o"></i> <time datetime="{{post.date|date:"%F"}}">{{page.date|date:"%b %d, %Y"}}</time>
+  </h6>
 
   {% if page.splash %}
     {% if page.splash contains 'http' %}
@@ -17,11 +20,13 @@ section: blog
       {% capture url %}{{site.baseurl}}{{page.splash}}/{% endcapture %}
     {% endif %}
 
-  <img src='{{url}}' alt='splash image' class="img-responsive" />
+  <img src='{{url}}' alt='splash image' class="img-responsive splash" />
 
   {% endif %}
 
   {{content}}
+
+  <span class="category"><i class="fa fa-tags"></i> {{ page.tags | category_links }}</span>
 
 </div>
 

@@ -28,10 +28,5 @@ section: blog
 ## Aktuality <i class="fa fa-newspaper-o"></i>
 
 {% for post in site.posts limit:20 %}  
-<article>
-	<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-	<h6>{{ post.date | date_to_string }}</h6>
-	{% if post.splash %}<img src="{{ post.splash }}"/>{% endif %}
-	{{ post.excerpt }}
-</article>
+{% include articlesumary.html %}
 {% endfor %}  

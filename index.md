@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Město ?
 section: blog
 ---
 

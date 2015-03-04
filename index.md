@@ -16,7 +16,7 @@ section: blog
 				</p>
 
 				<div>
-					<a href="/lide" class="primary button test">Kontaktuj nás →</a>
+					<a href="/lide/" class="primary button test">Kontaktuj nás →</a>
 				</div>
 			</div>
 

@@ -5,7 +5,9 @@ layout: default
 
 <div class="small-12 large-8 columns {{ page.style }}">
 
-  <section role="main">
+  <h2>{{page.title}}</h2>
+
+  <section role="main" {% if page.style %}class="{{ page.style }}"{% endif %}>
     {{content}}
   </section>
 

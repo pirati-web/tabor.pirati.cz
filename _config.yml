@@ -6,6 +6,7 @@ facebookurl: https://www.facebook.com/otevrenamesta
 twitterurl: https://www.facebook.com/otevrenamesta
 gems:
   - jekyll-sitemap
+baseurl: tabor.pirati.cz
 
 
 # see. best practices DOs and DONTs for details about following section

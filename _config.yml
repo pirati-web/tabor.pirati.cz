@@ -2,8 +2,7 @@ title: Piráti Tábor
 baseurl:
 permalink: pretty
 markdown: kramdown
-facebookurl: https://www.facebook.com/otevrenamesta
-twitterurl: https://www.facebook.com/otevrenamesta
+facebookurl: https://www.facebook.com/piratitabor
 gems:
   - jekyll-sitemap
 

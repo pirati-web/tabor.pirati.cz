@@ -1,6 +1,8 @@
 ---
 title: O nás
 layout: page
+description: Základní programové teze a něco z historie táborských pirátů.
+keywords: program, transparence, radnice, svobodný software, demokracie
 ---
 
 
@@ -8,10 +10,11 @@ layout: page
 
 Pirátská buňka v Táboře se zformovala po serii demonstrací [pirátské strany](http://www.pirati.cz)
 proti smlouvě [ACTA](http://cs.wikipedia.org/wiki/Anti-Counterfeiting_Trade_Agreement).
+Momentálně je [nás](/lide/) málo a uvítali bychom posily.
 
 V roce 2014 začíná spolupráce s lokálním hnutím [Jinak!](http://www.taborjinak.cz/).
 Je to uskupení nestraníků a zelených, s nimiž nacházíme širokou programovou shodu.
-My v jeho rámci tlačíme na pirátská témata (následují níže), především pak na transparentnost.
+My v jeho rámci tlačíme na pirátská témata.
 
 
 ## Programové teze
@@ -24,6 +27,9 @@ Všechno na internetu! Přehledně zaškatulkované a strojově čitelné.
 > nezáleží na tom, jestli je to prezident, náměstek nebo poradce či podpodporadce.
 > [Karel Kryl](http://www.kryl.kat.cz/citaty.htm)
 
+Piráti vždy bránili právo na svobodné šíření informace.
+Pro demokratické principy jsou informace o správě věcí veřejných naprosto zásadní.
+
 
 ### Radnice 21.století
 
@@ -34,7 +40,11 @@ Všechno na internetu! Přehledně zaškatulkované a strojově čitelné.
 
 ### [Přímá demokracie](http://cs.wikipedia.org/wiki/P%C5%99%C3%ADm%C3%A1_demokracie)
 
+Město je tu pro lidi a především ti by měli říct, jak bude vypadat.
+Lidé musí mít možnost:
+
 - možnost rozhodnout co se bude stavět, kam pujdou peníze skrz [participativní rozpočet](http://www.participativnirozpocet.cz/)
 - komentovat rozpracované a navrhovat zlepšení
 
-Toto vše samozřejmě především po internetu.
+a jejich rozhodnutí musí být pro politiky závazné.
+Toto vše samozřejmě především po internetu = rychle, levně a efektivně.

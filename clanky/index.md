@@ -1,6 +1,8 @@
 ---
 title: Články
 layout: page
+description: Články o táborské politice s nádechem pirátkých myšlenek
+keywords: články, tábor, politika, pohled
 ---
 
 

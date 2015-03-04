@@ -1,7 +1,7 @@
 ---
 layout: blog
 category: CLANKY
-splash: "http://placehold.it/1600x500"
+splash: "/static/media/web_na_notebooku.jpg"
 title: Místní web
 tags: web
 autor: admin

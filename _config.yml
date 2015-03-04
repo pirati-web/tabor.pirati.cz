@@ -5,6 +5,7 @@ markdown: kramdown
 facebookurl: https://www.facebook.com/piratitabor
 gems:
   - jekyll-sitemap
+baseurl: tabor.pirati.cz
 
 
 # see. best practices DOs and DONTs for details about following section

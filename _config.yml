@@ -1,12 +1,13 @@
 title: Piráti Tábor
 baseurl:
+default_locale: "cs"
 permalink: pretty
 markdown: kramdown
 facebookurl: https://www.facebook.com/piratitabor
 gems:
   - jekyll-sitemap
-baseurl: tabor.pirati.cz
-paginate: 1
+  - i18n
+paginate: 7
 paginate_path: "/clanky/:num/"
 
 

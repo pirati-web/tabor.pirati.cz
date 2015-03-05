@@ -14,13 +14,9 @@ section: blog
   </h6>
 
   {% if page.splash %}
-    {% if page.splash contains 'http' %}
-      {% capture url %}{{page.splash}}{% endcapture %}
-    {% else %}
-      {% capture url %}{{site.baseurl}}{{page.splash}}/{% endcapture %}
-    {% endif %}
+  <img src='{{page.splash}}' alt='splash image' class="img-responsive splash" />
+  {% endif %}
 
-  <img src='{{url}}' alt='splash image' class="img-responsive splash" />
 
   {% endif %}
 

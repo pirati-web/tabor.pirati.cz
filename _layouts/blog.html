@@ -17,12 +17,22 @@ section: blog
   <img src='{{page.splash}}' alt='splash image' class="img-responsive splash" />
   {% endif %}
 
-
-  {% endif %}
-
   {{content}}
 
   <span class="category"><i class="fa fa-tags"></i> {{ page.tags | category_links }}</span>
+
+  <hr>
+
+  {% if page.previous %}
+    <a rel="prev" class="left button round" href="{{ page.previous.url }}">
+      <i class="fa fa-arrow-left"></i> Předchozí článek
+    </a>
+  {% endif %}
+  {% if page.next %}
+    <a rel="next" class="right button round" href="{{ page.next.url }}">
+      Další článek <i class="fa fa-arrow-right"></i>
+    </a>
+  {% endif %}
 
 </div>
 

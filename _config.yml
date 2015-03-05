@@ -6,6 +6,8 @@ facebookurl: https://www.facebook.com/piratitabor
 gems:
   - jekyll-sitemap
 baseurl: tabor.pirati.cz
+paginate: 1
+paginate_path: "/clanky/:num/"
 
 
 # see. best practices DOs and DONTs for details about following section

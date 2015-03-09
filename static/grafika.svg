@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="jinak.svg">
+   sodipodi:docname="grafika.svg">
   <defs
      id="defs4">
     <inkscape:perspective
@@ -58,6 +58,66 @@
          width="1"
          height="1" />
     </clipPath>
+    <clipPath
+       id="SVGID_8_">
+      <use
+         xlink:href="#SVGID_7_"
+         overflow="visible"
+         id="use294"
+         style="overflow:visible"
+         x="0"
+         y="0"
+         width="910.15503"
+         height="591.78302" />
+    </clipPath>
+    <clipPath
+       id="clipPath3167">
+      <use
+         xlink:href="#SVGID_7_"
+         overflow="visible"
+         id="use3169"
+         style="overflow:visible"
+         x="0"
+         y="0"
+         width="910.15503"
+         height="591.78302" />
+    </clipPath>
+    <clipPath
+       id="clipPath3171">
+      <use
+         xlink:href="#SVGID_7_"
+         overflow="visible"
+         id="use3173"
+         style="overflow:visible"
+         x="0"
+         y="0"
+         width="910.15503"
+         height="591.78302" />
+    </clipPath>
+    <clipPath
+       id="clipPath3175">
+      <use
+         xlink:href="#SVGID_7_"
+         overflow="visible"
+         id="use3177"
+         style="overflow:visible"
+         x="0"
+         y="0"
+         width="910.15503"
+         height="591.78302" />
+    </clipPath>
+    <clipPath
+       id="SVGID_6_-9">
+      <use
+         xlink:href="#SVGID_5_-2"
+         overflow="visible"
+         id="use284"
+         style="overflow:visible"
+         x="0"
+         y="0"
+         width="910.15503"
+         height="591.78302" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -66,9 +126,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.2410176"
-     inkscape:cx="175.8614"
-     inkscape:cy="828.02865"
+     inkscape:zoom="0.87753196"
+     inkscape:cx="196.05724"
+     inkscape:cy="879.272"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -272,6 +332,170 @@
          clip-path="url(#SVGID_6_)"
          inkscape:connector-curvature="0"
          transform="matrix(0.53034338,0,0,0.53034338,98.287727,76.158585)" />
+    </g>
+    <g
+       id="g3128"
+       transform="matrix(2.74258,0,0,2.2666985,411.01748,-324.25527)">
+      <rect
+         y="76.147179"
+         x="-99.917999"
+         height="62.851646"
+         width="72.924026"
+         id="rect3113"
+         style="fill:#000000;fill-opacity:1;stroke:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text3109"
+         y="95.042961"
+         x="-96.059464"
+         style="font-size:22.73306465px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         xml:space="preserve"><tspan
+           style="fill:#ffffff;font-family:Mortal Kombat 4;-inkscape-font-specification:Mortal Kombat 4"
+           y="95.042961"
+           x="-96.059464"
+           id="tspan3111"
+           sodipodi:role="line">Piráti</tspan></text>
+      <g
+         transform="translate(-90.651415,-95.515108)"
+         id="g3095">
+        <path
+           style="fill:#ffffff;fill-opacity:1;stroke:none"
+           d="m 7.3014623,219.9859 c -6.59788003,0 -11.96875,5.23463 -11.96875,11.6875 l 3.1562499,0 c 0,-4.74674 3.9590901,-8.59375 8.8125001,-8.59375 4.8533997,0 8.7812497,3.84701 8.7812497,8.59375 l 3.15625,0 c 0,-6.45287 -5.33963,-11.6875 -11.9374997,-11.6875 z"
+           id="path3062"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="sccsccs" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path3084"
+           d="m 28.25201,219.9859 c -6.59788,0 -11.96875,5.23463 -11.96875,11.6875 l 3.15625,0 c 0,-4.74674 3.95909,-8.59375 8.8125,-8.59375 4.853397,0 8.781247,3.84701 8.781247,8.59375 l 3.15625,0 c 0,-6.45287 -5.33963,-11.6875 -11.937497,-11.6875 z"
+           style="fill:#ffffff;fill-opacity:1;stroke:none"
+           sodipodi:nodetypes="sccsccs" />
+        <path
+           style="fill:#ffffff;fill-opacity:1;stroke:none"
+           d="m 49.188079,219.9859 c -6.59788,0 -11.96875,5.23463 -11.96875,11.6875 l 3.15625,0 c 0,-4.74674 3.95909,-8.59375 8.8125,-8.59375 4.853401,0 8.781251,3.84701 8.781251,8.59375 l 3.15625,0 c 0,-6.45287 -5.33963,-11.6875 -11.937501,-11.6875 z"
+           id="path3086"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="sccsccs" />
+        <path
+           sodipodi:nodetypes="sccsccs"
+           inkscape:connector-curvature="0"
+           id="path3088"
+           d="m 37.720043,209.30918 c -6.59788,0 -11.968753,5.23463 -11.968753,11.6875 l 3.156253,0 c 0,-4.74674 3.95909,-8.59375 8.8125,-8.59375 4.853401,0 8.781251,3.84701 8.781251,8.59375 l 3.15625,0 c 0,-6.45287 -5.33963,-11.6875 -11.937501,-11.6875 z"
+           style="fill:#ffffff;fill-opacity:1;stroke:none" />
+        <path
+           style="fill:#ffffff;fill-opacity:1;stroke:none"
+           d="m 16.366602,209.30918 c -6.5978794,0 -11.9687594,5.23463 -11.9687594,11.6875 l 3.15626,0 c 0,-4.74674 3.9590894,-8.59375 8.8124994,-8.59375 4.8534,0 8.78125,3.84701 8.78125,8.59375 l 3.15625,0 c 0,-6.45287 -5.33963,-11.6875 -11.9375,-11.6875 z"
+           id="path3090"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="sccsccs" />
+        <path
+           sodipodi:nodetypes="sccsccs"
+           inkscape:connector-curvature="0"
+           id="path3092"
+           d="m 26.438982,198.22957 c -6.597883,0 -11.968763,5.23463 -11.968763,11.6875 l 3.15626,0 c 0,-4.74674 3.95909,-8.59375 8.812503,-8.59375 4.8534,0 8.78125,3.84701 8.78125,8.59375 l 3.15625,0 c 0,-6.45287 -5.33963,-11.6875 -11.9375,-11.6875 z"
+           style="fill:#ffffff;fill-opacity:1;stroke:none" />
+      </g>
+      <rect
+         y="138.99884"
+         x="-99.918007"
+         height="25.382395"
+         width="72.924026"
+         id="rect3126"
+         style="fill:#d70810;fill-opacity:1;stroke:none" />
+      <path
+         sodipodi:nodetypes="scsssssscssssssscccccsscssssssscccsssscccscccssssssssssssssccssc"
+         inkscape:connector-curvature="0"
+         id="rect3105"
+         d="m -79.192173,143.28253 c -1.998475,0.0172 -2.628178,0.25581 -2.860061,0.86002 -0.210059,0.5474 -0.03623,1.43443 0.400009,1.96004 0.653716,0.78768 0.506346,1.18527 -0.860019,2.26005 -1.004699,0.7903 -1.822541,2.24229 -2.080044,3.68008 -0.520197,2.9046 -1.918082,4.60009 -3.78008,4.60009 -2.102944,0 -3.640148,-2.07432 -3.400072,-4.58009 0.201546,-2.10371 0.257592,-2.14852 3.600076,-2.34005 3.08765,-0.17694 3.381653,-0.32395 3.200068,-1.60004 -0.169367,-1.19031 -0.679797,-1.43377 -3.28007,-1.60003 -2.602429,-0.1664 -3.161033,-0.43483 -3.680078,-1.80004 -0.393416,-1.03475 -1.001544,-1.5374 -1.720036,-1.40003 -0.942913,0.18027 -1.156108,1.07873 -1.300028,5.66012 -0.142262,4.52877 0.04077,5.76784 1.120024,7.52016 2.004695,3.25489 5.197435,4.13451 8.600183,2.36005 1.64397,-0.8573 2.111116,-0.87137 3.840081,-0.06 1.165126,0.54678 3.547147,0.8761 5.820124,0.80002 l 3.840079,-0.12 0,-7.98017 0,-7.98017 -4.980104,-0.18001 c -1.005806,-0.0379 -1.813894,-0.0657 -2.480052,-0.06 z m 10.700225,0.04 c -0.0838,-0.004 -0.167569,0.003 -0.260006,0.02 -0.9016,0.17269 -1.085335,1.30757 -1.240026,7.52016 -0.10015,4.02235 -0.03712,7.67864 0.140003,8.14017 0.452342,1.17879 6.966554,1.09711 9.320198,-0.12 1.028105,-0.53165 2.209429,-1.59278 2.620055,-2.36005 0.73967,-1.38209 0.757213,-1.38964 1.780038,-0.14 5.264451,6.43184 12.880274,3.07321 12.880274,-5.68012 0,-3.83419 -0.968559,-4.52813 -5.780123,-4.18009 -3.264869,0.23616 -4.149355,0.60436 -5.940126,2.34005 l -2.120045,2.04004 -1.42003,-1.64003 c -1.787763,-2.05611 -4.307382,-3.01485 -6.56014,-2.52006 -1.557684,0.34213 -1.790246,0.15474 -2.180046,-1.62003 -0.266943,-1.2154 -0.653428,-1.77203 -1.240026,-1.80004 z m 29.740631,3.14007 c -0.330918,0.007 -0.681244,0.0324 -1.020022,0.06 l -2.520053,0.2 -0.200004,5.72012 c -0.211569,6.47632 0.05287,7.58196 1.640035,7.28016 0.914566,-0.1739 1.179173,-1.09221 1.44003,-5.00011 l 0.320007,-4.8001 2.060044,-0.20001 c 1.537293,-0.14839 2.501921,0.22188 3.720079,1.44004 1.974665,1.97466 3.500074,2.1282 3.500074,0.34 0,-2.95698 -3.976426,-5.14393 -8.94019,-5.0401 z m -24.94053,3.16006 c 0.809285,0.0328 1.686238,0.42622 2.520054,1.26003 1.540462,1.54046 1.596751,2.46018 0.280006,4.34009 -0.743145,1.06099 -1.637622,1.42003 -3.520075,1.42003 -2.510069,0 -2.520053,-0.0193 -2.520053,-2.52005 0,-2.86807 1.459647,-4.57237 3.240068,-4.5001 z m -14.080296,0.08 c 0.224101,-0.006 0.462019,-0.003 0.700015,0.02 1.909442,0.18295 2.157108,0.43061 2.34005,2.34005 0.369595,3.85771 -3.445014,6.08874 -5.860125,3.42008 -2.254761,-2.49149 -0.541458,-5.69065 2.82006,-5.78013 z m 28.040593,0.02 c 0.234271,-0.008 0.472701,-6.4e-4 0.720015,0.02 2.163982,0.18209 2.240189,0.27307 2.160046,2.70006 -0.131331,3.97735 -3.395554,5.54464 -6.040128,2.90006 -2.320069,-2.32007 -0.353992,-5.50593 3.160067,-5.62012 z"
+         style="fill:#ffffff;fill-opacity:1;stroke:none" />
+    </g>
+    <g
+       id="g278"
+       transform="matrix(0.26075037,0,0,0.26075037,-24.411368,91.795148)"
+       inkscape:export-filename="/home/vencax/prg/pirati/tabor.pirati.cz/static/logo.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <defs
+         id="defs280">
+        <path
+           id="SVGID_5_-2"
+           d="m 65.683,298.829 c 0,74.134 60.097,134.232 134.231,134.232 73.695,0 133.52,-59.392 134.225,-132.919 v -2.625 c -0.705,-73.528 -60.53,-132.919 -134.225,-132.919 -74.134,0 -134.231,60.098 -134.231,134.231"
+           inkscape:connector-curvature="0" />
+      </defs>
+      <clipPath
+         id="clipPath3184">
+        <use
+           xlink:href="#SVGID_5_-2"
+           overflow="visible"
+           id="use3186"
+           style="overflow:visible"
+           x="0"
+           y="0"
+           width="910.15503"
+           height="591.78302" />
+      </clipPath>
+      <path
+         clip-path="url(#SVGID_6_-9)"
+         d="m 199.914,433.061 c 74.132,0 134.225,-60.097 134.225,-134.229 0,-74.136 -60.093,-134.233 -134.225,-134.233 -74.132,0 -134.233,60.097 -134.233,134.233 0,74.132 60.101,134.229 134.233,134.229"
+         id="path286"
+         style="fill:#ffffff"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g288"
+       transform="matrix(0.26075037,0,0,0.26075037,-24.411368,91.795148)"
+       inkscape:export-filename="/home/vencax/prg/pirati/tabor.pirati.cz/static/logo.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <defs
+         id="defs290">
+        <path
+           id="SVGID_7_"
+           d="m 150.07,174.157 c -33.971,13.596 -61.098,40.682 -74.747,74.627 v 100.091 c 13.593,33.807 40.554,60.811 74.331,74.459 h 100.519 c 33.782,-13.649 60.74,-40.648 74.333,-74.461 V 248.786 C 310.857,214.837 283.732,187.754 249.757,174.157 H 150.07 z"
+           inkscape:connector-curvature="0" />
+      </defs>
+      <clipPath
+         id="clipPath3192">
+        <use
+           xlink:href="#SVGID_7_"
+           overflow="visible"
+           id="use3194"
+           style="overflow:visible"
+           x="0"
+           y="0"
+           width="910.15503"
+           height="591.78302" />
+      </clipPath>
+      <path
+         clip-path="url(#SVGID_8_)"
+         d="m 199.916,416.399 c -64.979,0 -117.656,-52.676 -117.656,-117.655 0,-64.98 52.676,-117.656 117.656,-117.656 64.98,0 117.655,52.676 117.655,117.656 0,64.98 -52.675,117.655 -117.655,117.655"
+         id="path296"
+         style="fill:#ffffff"
+         inkscape:connector-curvature="0" />
+      <circle
+         clip-path="url(#SVGID_8_)"
+         cx="199.916"
+         cy="298.74399"
+         r="117.656"
+         id="circle298"
+         sodipodi:cx="199.916"
+         sodipodi:cy="298.74399"
+         sodipodi:rx="117.656"
+         sodipodi:ry="117.656"
+         style="fill:none;stroke:#000000;stroke-width:11.73789978"
+         d="m 317.572,298.74399 c 0,64.97961 -52.67639,117.656 -117.656,117.656 -64.97961,0 -117.655998,-52.67639 -117.655998,-117.656 0,-64.97962 52.676388,-117.656 117.655998,-117.656 64.97961,0 117.656,52.67638 117.656,117.656 z" />
+      <path
+         clip-path="url(#SVGID_8_)"
+         d="m 141.025,233.985 c 12.947,-3.775 67.545,3.658 56.389,56.471 -4.06,19.222 -26.338,28.584 -37.132,36.672 -25.562,19.14 -3.548,64.602 -3.548,64.602 0,0 -11.91,-35.362 14.612,-52.092 24.396,-15.392 108.515,-8.157 108.226,-55.632 -0.551,-90.959 -142.286,-58.148 -138.547,-50.021"
+         id="path300"
+         inkscape:connector-curvature="0" />
+      <rect
+         x="151.91299"
+         y="207.97099"
+         clip-path="url(#SVGID_8_)"
+         width="10.782"
+         height="133.73399"
+         id="rect302" />
     </g>
   </g>
 </svg>

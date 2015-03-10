@@ -6,22 +6,22 @@ keywords: piráti, tábor, organizace, transparence, politika
 ---
 
 
-<section class="hero">
+<section class="hero alert-box secondary">
 	<div class="row">
-		<div class="small-12 columns">
+		<div class="small-8 columns">
+			<p>
+				Není ti lhostejné veřejné dění v Táboře?<br/>
+				Je ti blízký pirátský program / ideje?<br/>
+				Máš kuráž a taky chceš transparentnější a modernější radnici?<br/>
+				Tak buď táborský pirát!
+			</p>
 
-			<div data-alert class="alert-box secondary">
-				<p>
-					Není ti lhostejné veřejné dění?
-					Je ti blízký pirátský program?
-					A chceš pomoct pirátům v Táboře?
-				</p>
+			<a href="/lide/" class="primary button test">Ozvi se nám →</a>
 
-				<div>
-					<a href="/lide/" class="primary button test">Kontaktuj nás →</a>
-				</div>
-			</div>
+		</div>
 
+		<div class="small-4 columns">
+			<img src="/static/budpirat-small.png" alt="buď pirát - ucle sam grafika" />
 		</div>
 	</div>
 </section>

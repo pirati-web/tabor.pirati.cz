@@ -1,16 +1,16 @@
 ---
 origin: /
-title: Blog
-description: Occasional Blog Posts
+title: Piráti tábor | blog
+description: Táborská politika viděna pirátskýma očima
 ---
 
 <?xml version='1.0' encoding='utf-8' ?>
-<rss version='2.0' xml:base='{{page.url}}' xmlns:dc='http://purl.org/dc/elements/1.1/'>
+<rss version='2.0' xml:base='{{site.url}}' xmlns:dc='http://purl.org/dc/elements/1.1/'>
 <channel>
   <title>{{page.title}}</title>
   <link>{{site.baseurl}}</link>
   <description>{{page.description}}</description>
-  <language>en</language>
-  {% for item in site.categories.blog limit:40 %}{% include rss-item.xml %}{% endfor %}
+  <language>cs</language>
+  {% for item in site.posts limit:40 %}{% include rss-item.xml %}{% endfor %}
 </channel>
 </rss>

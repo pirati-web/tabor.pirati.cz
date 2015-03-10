@@ -13,7 +13,7 @@ Pirátské IT prochází velkými změnami a jednou z nich je i rozjíždění w
 V Táboře organizaci zatím nemáme, ale tento web bude sloužit zatím jako infoweb.
 
 Většina článků vznikala, vzniká a bude vznikat na webu [Jinak!](http://www.taborjinak.cz/).
-Ty nové budou linkovány v rámci [článků](/clanky/), [RSS feed](-rss) <i class="fa fa-rss-square"></i> je k dispozici
+Ty nové budou linkovány v rámci [článků](/clanky/), [RSS feed](/blog.rss) <i class="fa fa-rss-square"></i> je k dispozici
 Ty hotové jsou zde:
 
 - [Zveřejňování informací a rada města](http://www.taborjinak.cz/index.php/v-mediich/23-clanky/223-zverejnovani-informaci-a-rada-mesta)

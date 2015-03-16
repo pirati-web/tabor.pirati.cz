@@ -1,0 +1,6 @@
+[submodule "_layouts"]
+	path = _layouts
+	url = https://github.com/pirati-web/layouts
+[submodule "_includes"]
+	path = _includes
+	url = https://github.com/pirati-web/partials

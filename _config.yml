@@ -1,5 +1,5 @@
 title: Piráti Tábor
-baseurl:
+baseurl: http://tabor.pirati.cz
 default_locale: "cs"
 permalink: pretty
 markdown: kramdown

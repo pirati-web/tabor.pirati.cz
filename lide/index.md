@@ -11,7 +11,7 @@ keywords: lide, piráti, tábor, podpora
 
 ### Václav Klecanda
 
-*programátor/admin na volné noze*
+*[programátor/admin](http://www.vxk.cz) na volné noze*
 
 [Občan 2.0](http://frankbold.org/obcandvanula),
 fascinován [DIY](http://cs.wikipedia.org/wiki/Do_it_yourself) kulturou,
@@ -19,6 +19,7 @@ amaterský [permakulturista](http://cs.wikipedia.org/wiki/Permakultura) a kucha�
 Více na [pirátském profilu](http://www.pirati.cz/lide/vaclav_klecanda).
 
 <a href="mailto:vencax@centrum.cz"><i class="fa fa-envelope-o"></i></a>
+<a href="http://www.vxk.cz"><i class="fa fa-external-link"></i></a>
 <a href="https://www.facebook.com/vaclav.klecanda"><i class="fa fa-facebook-square"></i></a>
 <a href="https://plus.google.com/u/0/116355855439950582212/posts"><i class="fa fa-google-plus-square"></i></a>
 <a href="https://twitter.com/vencax77"><i class="fa fa-twitter"></i></a>

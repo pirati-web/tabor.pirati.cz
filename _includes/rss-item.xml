@@ -1,8 +1,0 @@
-<item>
-  <title>{{item.title | xml_escape}}</title>
-  <link>{{site.baseurl}}{{item.url}}</link>
-  <description>{{item.excerpt | xml_escape}}...</description>
-  <pubDate>{{item.date | date_to_xmlschema}}</pubDate>
-  <dc:creator>{% if item.autor %}{{item.autor}}{% else %}{{site.title}}{% endif %}</dc:creator>
-  <guid isPermaLink="true">{{site.baseurl}}{{item.url}}</guid>
-</item>

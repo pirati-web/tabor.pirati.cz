@@ -6,7 +6,10 @@
 	url = https://github.com/pirati-web/partials
 [submodule "_data/people"]
 	path = _data/people
-	url = git@github.com:pirati-web/people.git
+	url = https://github.com/pirati-web/people.git
 [submodule "images"]
 	path = images
-	url = git@github.com:pirati-web/images.git
+	url = https://github.com/pirati-web/images.git
+[submodule "_data/--force"]
+	path = _data/--force
+	url = https://github.com/pirati-web/people.git

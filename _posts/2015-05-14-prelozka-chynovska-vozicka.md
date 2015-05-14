@@ -59,8 +59,11 @@ A to všchno, ne za 10, ani za 50, ale za pouhých 100 MEGA !!! A to se vyplatí
 
 Něco mi říká, že není pravda, že stát prachy nemá, ale že je neumí vůbec, ale vůbec rozumně použít.
 Možná to vidím jak Hurvajz válku, ale bylo by snazší a rozumější použít hlavu, media a vyjednávací prostředky
-a udělat sjezd na dálnici (červeně), která se v úseku od napojení od Písku k napojení na Jihlavu zpomalí (zeleně).
+a udělat sjezd na dálnici (červeně), která se v úseku od napojení od Písku k napojení na Jihlavu zpomalí a nezpoplatní (zeleně).
 
 ![Sjezd, co to všechno vyřeší](/static/media/sjezd.png)
+
+To zpomalení by nebylo velký problém, protože dálnice zdaleka není tak vytížená, aby se tam tvořily kolony.
+O případném nezpoplatnění tohoto úseku se [psalo](http://ekonomika.idnes.cz/tok-navrhne-pet-useku-dalnic-kde-se-nebude-platit-mytne-pg1-/eko-doprava.aspx?c=A150510_120110_domaci_cen) už několikrat. 
 
 Myslím, že stále stojí za to zabojovat za zdravý rozum, hm?

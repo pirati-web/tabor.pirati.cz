@@ -10,10 +10,10 @@ autor: Václav Klecanda
 
 
 V poslední době se dost mluví a víří emocemi [okolo plánované přeložky silnic Chýnovská - Vožická (PCHV)](http://www.taborcz.eu/dp/p1=11859&id_ktg=2073).
-Zůčastněných stran je už moc, ale informací opět zoufale málo a situace, aspoň pro mne, začíná být nepřehledná.
+Zúčastněných stran je už moc, ale informací opět zoufale málo a situace, aspoň pro mne, začíná být nepřehledná.
 Proto bych informace, které mám rád shrnul v tomto článku.
 
-Někdy v pravěku, přiblyžně před 10 lety, někdo zapomněl použít hlavü a selský rozum.
+Někdy v pravěku, přibližně před 10 lety, někdo zapomněl použít hlavü a selský rozum.
 A tak se naplánovala PCHV, která asi zřejmě měla napojit plánovanou průmyslovou zonu (na obrázku hnědá)
 na příjezdové silnice (HPS) (silnici z Mladé Vožice, tah na Písek, Humpolec a na České Budějovice).
 

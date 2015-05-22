@@ -20,7 +20,17 @@ na příjezdové silnice (HPS) (silnici z Mladé Vožice, tah na Písek, Humpole
 V té době jsem o veřejné dění moc zájmu neměl, ale od rodičů vím,
 že s místními záměr nikdo zrovna moc nekonzultoval natož, aby jim ukazoval projekt.
 Vše hladce a samozřejmě NEtransparentně prošlo přes místní přiměstský výbor.
-Ať tömu bylo jakkoli, jisté je, že kdyby lidé viděli projekt, tak ho odmítnou na celé čáře.
+
+> EDIT 21.5.15: ze schůze místní samospravy vyplynulo:
+> Záměr spojit Chýnovskou a Vožickou se řešil v roce 2006.
+> Tehdy se mluvilo o malé účelové komunikaci. I přesto existoval odpor místních.
+> Místní samospráva ho ale jen tak přešla a její přeseda napsal, že se záměrem souhlasí.
+> Dnes argumentuje tím, že dotyční měli přece možnost odvolání v zákonné lhůtě (eee?!).
+> Na základě tohoto "souhlasu" záměr postupně vybobtnal až na současnou ůroveň.
+> Změna územního plánu kvuli nabobtnání záměru byla projednávána v roce 2011.
+> Detaily tohoto projednávání zůstaly nedořešeny, protože se rozproudily emoce.
+
+Ať tömu bylo jakkoli, jisté je, že kdyby lidé viděli projekt tak jak se ma dnes realizovat, tak ho odmítnou na celé čáře.
 
 Nestalo se tak. Projet je od té doby stále na stole.
 Proběhly výkupy pozemků, příprava dokumentace a já nevím co, ale vše krásně v tichosti, na tajňáčka na radnici.

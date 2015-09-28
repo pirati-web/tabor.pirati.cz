@@ -21,7 +21,7 @@ keywords: piráti, tábor, organizace, transparentnost, politika
 		</div>
 
 		<div class="small-4 columns">
-			<img src="/static/budpirat-small.png" alt="buď pirát - ucle sam grafika" />
+			<img src="/static/budpirat-small.png" alt="buď pirát - ucle sam grafika" title="buď pirát" />
 		</div>
 	</div>
 </section>

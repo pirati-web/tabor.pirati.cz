@@ -2,7 +2,7 @@
 layout: page
 section: blog
 description: Stránka táborské pirátské buňky s nejnovějšími články a základním rozcestníkem.
-keywords: piráti, tábor, organizace, transparence, politika
+keywords: piráti, tábor, organizace, transparentnost, politika
 ---
 
 

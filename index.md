@@ -9,14 +9,15 @@ keywords: piráti, tábor, organizace, transparentnost, politika
 <section class="hero alert-box secondary">
 	<div class="row">
 		<div class="small-8 columns">
-			<p>
-				Není ti lhostejné veřejné dění v Táboře?<br/>
-				Je ti blízký pirátský program / ideje?<br/>
-				Máš kuráž a taky chceš transparentnější a modernější radnici?<br/>
-				Tak buď táborský pirát!
-			</p>
+			<ul>
+				<li>Není ti lhostejné veřejné dění v Táboře?</li>
+				<li>Máš kuráž a taky chceš transparentnější a modernější radnici?</li>
+				<li>Je ti blízký pirátský program / ideje?</li>
+			</ul>
 
-			<a href="/lide/" class="primary button test">Ozvi se nám →</a>
+			<h3>
+				<a href="/lide/" class="primary">Ozvi se →</a> a buď táborský pirát!
+			</h3>
 
 		</div>
 

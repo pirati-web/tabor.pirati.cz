@@ -1,9 +1,9 @@
 [submodule "_layouts"]
 	path = _layouts
-	url = https://github.com/pirati-web/layouts
+	url = https://github.com/pirati-web/layouts.git
 [submodule "_includes"]
 	path = _includes
-	url = https://github.com/pirati-web/partials
+	url = https://github.com/pirati-web/partials.git
 [submodule "_data/people"]
 	path = _data/people
 	url = https://github.com/pirati-web/people.git

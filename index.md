@@ -6,7 +6,7 @@ keywords: piráti, tábor, organizace, transparentnost, politika
 ---
 
 
-<section class="hero alert-box secondary">
+<section class="hero callout large primary">
 	<div class="row">
 		<div class="small-8 columns">
 			<ul>
@@ -16,7 +16,7 @@ keywords: piráti, tábor, organizace, transparentnost, politika
 			</ul>
 
 			<h3>
-				<a href="/lide/" class="primary">Ozvi se →</a> a buď táborský pirát!
+				<a href="mailto:vaclav.klecanda@pirati.cz" class="primary">Ozvi se →</a> a buď táborský pirát!
 			</h3>
 
 		</div>
@@ -28,7 +28,7 @@ keywords: piráti, tábor, organizace, transparentnost, politika
 </section>
 
 
-## Aktuality <i class="fa fa-newspaper-o"></i>
+## Vybrané články <i class="fi-page-multiple"></i>
 
 {% for post in site.posts limit:20 %}  
 {% include articlesumary.html %}

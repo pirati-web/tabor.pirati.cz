@@ -1,6 +1,6 @@
 ---
 title: Lidé
-layout: page
+layout: page_related_in_sidebar
 style: portrets
 description: Základní informace o jednotlivých táborských pirátech. Přidáš se k nám?
 keywords: lide, piráti, tábor, podpora

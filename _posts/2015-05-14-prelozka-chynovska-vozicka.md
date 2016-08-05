@@ -60,7 +60,7 @@ Vše je připraveno, pozemky vykoupeny, stavební a projektová dokumentace hoto
 Investor je kraj a [předpokládaná cena je 105 000 000 Kč](http://www.taborcz.eu/VismoOnline_ActionScripts/File.ashx?id_org=16470&id_dokumenty=2850).
 Jo ten kilometr a půl se plánuje na 100 mega !!!
 
-Takže podtrženo, sečteno: absolutně netransparentním způsobem PCHV byla dotlačena až těsně pře realizaci.
+Takže podtrženo, sečteno: absolutně netransparentním způsobem PCHV byla dotlačena až těsně před realizaci.
 Propojí průmyslovou zonu, kde jsou stejně jen sklady nebo montovny.
 Ty usmrknou pár pracovních míst s absolutně nulovou jistotou že tam budou ještě za 2 roky.
 Dále umožní autum, které jedou z jihu na vožici nejet [Zavadilskou](http://www.mapy.cz/zakladni?x=14.6850300&y=49.4128021&z=17&source=pubt&id=15270757).
@@ -74,6 +74,6 @@ a udělat sjezd na dálnici (červeně), která se v úseku od napojení od Pís
 ![Sjezd, co to všechno vyřeší](/static/media/sjezd.png)
 
 To zpomalení by nebylo velký problém, protože dálnice zdaleka není tak vytížená, aby se tam tvořily kolony.
-O případném nezpoplatnění tohoto úseku se [psalo](http://ekonomika.idnes.cz/tok-navrhne-pet-useku-dalnic-kde-se-nebude-platit-mytne-pg1-/eko-doprava.aspx?c=A150510_120110_domaci_cen) už několikrat. 
+O případném nezpoplatnění tohoto úseku se [psalo](http://ekonomika.idnes.cz/tok-navrhne-pet-useku-dalnic-kde-se-nebude-platit-mytne-pg1-/eko-doprava.aspx?c=A150510_120110_domaci_cen) už několikrat.
 
 Myslím, že stále stojí za to zabojovat za zdravý rozum, hm?

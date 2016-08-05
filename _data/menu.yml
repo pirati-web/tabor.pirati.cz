@@ -1,8 +1,8 @@
 -
   title: O nás
   url: /o-nas/
-  icon: fa-paperclip
+  icon: fi-compass
 -
   title: Články
   url: /clanky/
-  icon: fa-newspaper-o
+  icon: fi-clipboard-notes

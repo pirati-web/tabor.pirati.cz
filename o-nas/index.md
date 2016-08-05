@@ -1,6 +1,6 @@
 ---
 title: O nás
-layout: page
+layout: page_related_in_sidebar
 description: Základní programové teze a něco z historie táborských pirátů.
 keywords: program, transparence, radnice, svobodný software, demokracie
 ---

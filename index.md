@@ -25,12 +25,6 @@ keywords: piráti, tábor, organizace, transparentnost, politika
 </section>
 
 <section>
-	<div class="row">
-		<div class="small-12 columns">
-			<h2>Vybrané články <i class="fi-page-multiple"></i></h2>
-		</div>
-	</div>
-
   <div class="row small-up-1 medium-up-2">
   {% for post in site.posts limit:4 %}
     <div class="column">

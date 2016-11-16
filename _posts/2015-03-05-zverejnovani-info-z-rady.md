@@ -1,7 +1,7 @@
 ---
 layout: blog
 category: CLANKY
-splash: "/static/media/rada.png"
+image: "/static/media/rada.png"
 title: Zveřejňování jmenovitého hlasování rady
 description: V Táboře mají transparentní jmenovitá hlasování rady. Zamená to konec politickým dealům? Ne nutně.
 tags: transparence

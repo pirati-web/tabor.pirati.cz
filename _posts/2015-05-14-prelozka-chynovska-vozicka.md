@@ -1,7 +1,7 @@
 ---
 layout: blog
 category: CLANKY
-splash: "/static/media/prelozka.png"
+image: "/static/media/prelozka.png"
 title: Shrnutí projektu přeložka silnic Chýnovská - Vožická
 description:
 tags: doprava, investice

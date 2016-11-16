@@ -39,6 +39,11 @@ body {
 
 .myfooter {
   margin-top: 2em;
+  padding: 1em;
+}
+
+.copyright {
+  padding: .5em;
 }
 
 /* candidate list */

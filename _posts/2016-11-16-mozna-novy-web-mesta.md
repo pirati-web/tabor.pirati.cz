@@ -2,7 +2,7 @@
 layout: blog
 category: CLANKY
 image: "/static/media/web.jpg"
-title: Aféra: web města, několikáté dějství
+title: Aféra! Web města - několikáté dějství
 description: Web města nestojí za nic a ani sami úřednící neví nic o tom, jak to změnit
 tags: web, IT
 autor: Václav Klecanda

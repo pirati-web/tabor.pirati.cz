@@ -19,10 +19,12 @@ Bohužel za celou tu dobu se kromě přidání vyhledavacího boxíku, který po
 Je mi z toho nějak smutno. Ale abych byl aspon malinko pozitivní mám pro město jednoduchou radu:
 
 > KDYŽ VAŠE IT ODDĚLENÍ NENÍ SCHOPNÉ ZAJISTIT MODERNÍ A FUNKČNÍ WEB,
+OTEVŘETE SE, NECHTE SI PORADIT A PŘESTAŇTE SI NEUSTÁLE NĚCO PÉCT ZA ZÁDY VEŘEJNOSTI.
 NAJMĚTE SI ODBORNÍKY NA OTEVŘENÝ SOFTWARE A WEBDESIGN,
 AŤ UDĚLAJÍ JEDNODUŠE SPRAVOVATELNÝ WEB POSTAVENÝ NA [OTEVŘENÉM SOFTWARE](https://cs.wikipedia.org/wiki/Otev%C5%99en%C3%BD_software).
 NEBUDETE PAK NUCENI JEDNAT S AMATERY, OD KTERÝCH JSTE SI KOUPILI WEB,
 ALE KTERÝ [UMÍ SPRAVOVAT A ROZŠIŘOVAT JEN ONI](https://cs.wikipedia.org/wiki/Propriet%C3%A1rn%C3%AD_uzam%C4%8Den%C3%AD).
+
 
 Pro kompletnost vznáším otázku na co město má IT oddělení, když má takovýto web?
 A přidávám mojí korespondenci, aby bylo jasné, co tam sedí za odborníky.

@@ -18,8 +18,11 @@ Bohužel za celou tu dobu se kromě přidání vyhledavacího boxíku, který po
 
 Je mi z toho nějak smutno. Ale abych byl aspon malinko pozitivní mám pro město jednoduchou radu:
 
-> NAJMĚTE SI ODBORNÍKY NA OTEVŘENÝ SOFTWARE A WEBDESIGN, AŤ UDĚLAJÍ JEDNODUŠE SPRAVOVATELNÝ WEB POSTAVENÝ NA OTEVŘENÉM SOFTWARE.
-NEBUDETE PAK NUCENI JEDNAT S AMATERY, OD KTERÝCH JSTE SI KOUPILI WEB, ALE UMI HO SPRAVOVAT JEN ONI :)
+> KDYŽ VAŠE IT ODDĚLENÍ NENÍ SCHOPNÉ ZAJISTIT MODERNÍ A FUNKČNÍ WEB,
+NAJMĚTE SI ODBORNÍKY NA OTEVŘENÝ SOFTWARE A WEBDESIGN,
+AŤ UDĚLAJÍ JEDNODUŠE SPRAVOVATELNÝ WEB POSTAVENÝ NA OTEVŘENÉM SOFTWARE.
+NEBUDETE PAK NUCENI JEDNAT S AMATERY, OD KTERÝCH JSTE SI KOUPILI WEB,
+ALE KTERÝ UMÍ SPRAVOVAT A UPRAVOVAT JEN ONI.
 
 Pro kompletnost vznáším otázku na co město má IT oddělení, když má takovýto web?
 A přidávám mojí korespondenci, aby bylo jasné, co tam sedí za odborníky.

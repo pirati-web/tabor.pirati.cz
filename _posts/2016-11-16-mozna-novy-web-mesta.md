@@ -22,7 +22,7 @@ Je mi z toho nějak smutno. Ale abych byl aspon malinko pozitivní mám pro měs
 NAJMĚTE SI ODBORNÍKY NA OTEVŘENÝ SOFTWARE A WEBDESIGN,
 AŤ UDĚLAJÍ JEDNODUŠE SPRAVOVATELNÝ WEB POSTAVENÝ NA OTEVŘENÉM SOFTWARE.
 NEBUDETE PAK NUCENI JEDNAT S AMATERY, OD KTERÝCH JSTE SI KOUPILI WEB,
-ALE KTERÝ UMÍ SPRAVOVAT A UPRAVOVAT JEN ONI.
+ALE KTERÝ [UMÍ SPRAVOVAT A ROZŠIŘOVAT JEN ONI](https://cs.wikipedia.org/wiki/Propriet%C3%A1rn%C3%AD_uzam%C4%8Den%C3%AD).
 
 Pro kompletnost vznáším otázku na co město má IT oddělení, když má takovýto web?
 A přidávám mojí korespondenci, aby bylo jasné, co tam sedí za odborníky.

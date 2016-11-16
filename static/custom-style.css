@@ -23,6 +23,23 @@ body {
   color: $primary-color;
 }
 
+
+.callout {
+  background-image: url("/static/heroback.jpg");
+  background-color: black;
+  background-position: center top;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  border: none;
+  margin-bottom: 2em;
+}
+
+.faded {
+  background-color:rgba(0, 0, 0, 0.8);
+  padding: 2em;
+  color: white;
+}
+
 /* candidate list */
 
 div.candidatecolumn {padding-left:0px !important;}

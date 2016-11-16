@@ -5,24 +5,21 @@ description: Stránka táborské pirátské buňky s nejnovějšími články a 
 keywords: piráti, tábor, organizace, transparentnost, politika
 ---
 
-
-<section class="hero callout large primary">
+<section class="callout large">
 	<div class="row">
-		<div class="small-8 columns">
+		<div class="small-12 faded medium-8 columns">
+			<h1>Piráti Tábor</h1>
+      <h2 class="subheader">táborská politika očima pirátů</h2>
 			<ul>
-				<li>Není ti lhostejné veřejné dění v Táboře?</li>
-				<li>Máš kuráž a taky chceš transparentnější a modernější radnici?</li>
-				<li>Je ti blízký pirátský program / ideje?</li>
+				<li>není ti lhostejné veřejné dění v Táboře?</li>
+				<li>máš kuráž a taky chceš transparentnější a modernější radnici?</li>
+				<li>je ti blízký pirátský program / ideje?</li>
 			</ul>
 
 			<h3>
-				<a href="mailto:vaclav.klecanda@pirati.cz" class="primary">Ozvi se →</a> a buď táborský pirát!
+				<a href="mailto:vaclav.klecanda@pirati.cz" class="primary">ozvi se →</a> a buď táborský pirát!
 			</h3>
 
-		</div>
-
-		<div class="small-4 columns">
-			<img src="/static/budpirat-small.png" alt="buď pirát - ucle sam grafika" title="buď pirát" />
 		</div>
 	</div>
 </section>

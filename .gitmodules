@@ -2,7 +2,7 @@
 	path = _layouts
 	url = https://github.com/pirati-web/layouts.git
 [submodule "_includes"]
-	path = _includes
+	path = _includes/shared
 	url = https://github.com/pirati-web/partials.git
 [submodule "_data/people"]
 	path = _data/people

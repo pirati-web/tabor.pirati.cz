@@ -17,12 +17,9 @@ body {
   margin-left: 20px;
   height: 30px;
 }
-.hero {
-  font-size: 18px;
-  background: white;
-  color: $primary-color;
+.top-bar-title {
+  margin-top: .5em;
 }
-
 
 .callout {
   background-image: url("/static/heroback.jpg");
@@ -38,6 +35,10 @@ body {
   background-color:rgba(0, 0, 0, 0.8);
   padding: 2em;
   color: white;
+}
+
+.myfooter {
+  margin-top: 2em;
 }
 
 /* candidate list */

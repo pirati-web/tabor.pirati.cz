@@ -11,6 +11,6 @@ description: Táborská politika viděna pirátskýma očima
   <link>{{site.baseurl}}</link>
   <description>{{page.description}}</description>
   <language>cs</language>
-  {% for item in site.posts limit:40 %}{% include rss-item.xml %}{% endfor %}
+  {% for item in site.posts limit:40 %}{% include shared/rss-item.xml %}{% endfor %}
 </channel>
 </rss>

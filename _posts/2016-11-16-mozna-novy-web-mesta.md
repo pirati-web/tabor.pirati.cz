@@ -2,7 +2,7 @@
 layout: blog
 category: CLANKY
 image: "/static/media/web.jpg"
-title: Aféra! Web města - několikáté dějství
+title: Web města aneb špatný vtip
 description: Web města nestojí za nic a ani sami úřednící neví nic o tom, jak to změnit
 tags: web, IT
 autor: Václav Klecanda
@@ -13,12 +13,13 @@ Na toto konto jsem si vyměnil pár emailů s panem utajovačem, totiž tajeník
 
 [Proč je web města Tábora špatný](http://www.taborjinak.cz/index.php/v-mediich/23-clanky/219-proc-je-web-mesta-tabora-spatny) jsem popsal už před 2 roky.
 Bohužel za celou tu dobu se kromě přidání vyhledavacího boxíku, který používá google místo obskurního vyhledávání "systému" vismo, nestalo ale __vůůůůůbec__ nic.
-Místo toho __město stále vyjednává__ s dodavatelem dosavadního řesení __o kosmetických úpravách, které mají stát desítky tisíc__!
+
+> Místo toho __město stále vyjednává__ s dodavatelem dosavadního řesení __o kosmetických úpravách, které mají stát desítky tisíc__, ale které problém nevyřeší!
 
 Je mi z toho nějak smutno. Ale abych byl aspon malinko pozitivní mám pro město jednoduchou radu:
 
-> NAJMĚTE SI ODBORNÍKY NA OTEVŘENÝ SOFTWARE A WEBDESIGN, AŤ UDĚLAJÍ JEDNODUŠE SPRAVOVATELNÝ WEB POSTAVENÝ NA OTEVŘENÉM SOFTWARE, AŤ NEJSTE NUCENI JEDNAT S
-AMATERY, OD KTERÝCH JSTE SI KOUPILI WEB, ALE UMI HO SPRAVOVAT JEN ONI :)
+> NAJMĚTE SI ODBORNÍKY NA OTEVŘENÝ SOFTWARE A WEBDESIGN, AŤ UDĚLAJÍ JEDNODUŠE SPRAVOVATELNÝ WEB POSTAVENÝ NA OTEVŘENÉM SOFTWARE.
+NEBUDETE PAK NUCENI JEDNAT S AMATERY, OD KTERÝCH JSTE SI KOUPILI WEB, ALE UMI HO SPRAVOVAT JEN ONI :)
 
 Pro kompletnost vznáším otázku na co město má IT oddělení, když má takovýto web?
 A přidávám mojí korespondenci, aby bylo jasné, co tam sedí za odborníky.
@@ -30,7 +31,7 @@ Zajimali by me uvazovane alternativy a kriteria, na jejichz zaklade se
 bude nove reseni vybirat.
 dekuji, s pozdravem Vaclav Klecanda
 
-(POZN.: byla to místostarostka Bláhová, která s evidentním nadšením uznamovala "web se bude měnit!!")
+*(POZN.: byla to paní, která s evidentním nadšením uznamovala "web se bude měnit!!")*
 
 Dobrý den.
 Nyní se vytváří samostatný web TURISTA a následně bude předělán i

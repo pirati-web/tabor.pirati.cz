@@ -9,7 +9,8 @@ gems:
   - i18n
 paginate: 7
 paginate_path: "/clanky/:num/"
-
+keywords: tábor,piráti
+url: https://tabor.pirati.cz
 
 # see. best practices DOs and DONTs for details about following section
 # http://www.elegantthemes.com/blog/tips-tricks/best-practices-for-using-categories-and-tags-in-wordpress

@@ -24,10 +24,12 @@ AŤ UDĚLAJÍ JEDNODUŠE SPRAVOVATELNÝ WEB POSTAVENÝ NA [OTEVŘENÉM SOFTWARE]
 NEBUDETE PAK NUCENI JEDNAT S AMATERY, OD KTERÝCH JSTE SI KOUPILI WEB,
 ALE KTERÝ [UMÍ SPRAVOVAT A ROZŠIŘOVAT JEN ONI](https://cs.wikipedia.org/wiki/Propriet%C3%A1rn%C3%AD_uzam%C4%8Den%C3%AD).
 
-*(POZN.: po zvážení reakcí uvedu seznam vlastností, které uživatelsky příjemný a moderní web MUSÍ splňovat. Bude doplněno...)
+*(POZN.: po zvážení reakcí uvedu seznam vlastností, které uživatelsky příjemný a moderní web MUSÍ splňovat. Bude doplněno...)*
 
 Pro kompletnost vznáším otázku na co město má IT oddělení, když má takovýto web?
 A přidávám mojí korespondenci, aby bylo jasné, co tam sedí za odborníky.
+
+### korespondence s panem tajemníkem
 
 > Dobry den,
 na vcerejsim foru zaznelo (uz nevim z kterych ust a zda to byla

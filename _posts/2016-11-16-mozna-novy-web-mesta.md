@@ -87,4 +87,4 @@ a zřejmě neumožňuje to, co moderní web žádá
 který doporučí jiné, __hlavně otevřené řešení__ a zajistí jeho:
   - zprovoznění (za plné podpory IT odboru)
   - zaškolení IT odboru, aby jeho "odborní" pracovníci byli shopni sami odstraňovat problémy, které mohou nastat
-  - zaškolit i jednotlivé pracovníky (editory), kteří budou s novým redakčním systémem pracovat __+ garanty__, tj. vyčleněné pracovníky IT odboru, kteří budou provádět zaškolování nově příchozích editorů.
+  - zaškolit i jednotlivé pracovníky (editory), kteří budou s novým redakčním systémem pracovat __+ garanty__, tj. vyčleněné pracovníky IT odboru, kteří budou odpovědni za zaškolování nově příchozích editorů.

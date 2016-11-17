@@ -9,14 +9,13 @@ autor: Václav Klecanda
 ---
 
 Jeden s problémů, který dostal na foru města celkem podporu je __lepší web mesta__.
-Na toto konto jsem si vyměnil pár emailů s panem utajovačem, totiž tajeníkem :)
-
-[Proč je web města Tábora špatný](http://www.taborjinak.cz/index.php/v-mediich/23-clanky/219-proc-je-web-mesta-tabora-spatny) jsem popsal už před 2 roky.
-Bohužel za celou tu dobu se kromě přidání vyhledavacího boxíku, který používá google místo obskurního vyhledávání "systému" vismo, nestalo ale __vůůůůůbec__ nic.
+Na toto konto jsem si vyměnil pár emailů s panem tajeníkem.
+[Proč je web města Tábora špatný a co udělat, aby byl lepší a užitečnější](http://www.taborjinak.cz/index.php/v-mediich/23-clanky/219-proc-je-web-mesta-tabora-spatny) jsem popsal už před 2 roky.
+Bohužel za celou tu dobu se kromě přidání vyhledavacího boxíku, který používá google místo obskurního vyhledávání "systému" vismo, __nestalo vůbec nic__.
 
 > Místo toho __město stále vyjednává__ s dodavatelem dosavadního řesení __o kosmetických úpravách, které mají stát desítky tisíc__, ale které problém nevyřeší!
 
-Je mi z toho nějak smutno. Ale abych byl aspon malinko pozitivní mám pro město jednoduchou radu:
+Je mi z toho nějak smutno. Ale abych byl aspoň malinko pozitivní mám pro město jednoduchou radu:
 
 > KDYŽ VAŠE IT ODDĚLENÍ NENÍ SCHOPNÉ ZAJISTIT MODERNÍ A FUNKČNÍ WEB,
 OTEVŘETE SE, NECHTE SI PORADIT A PŘESTAŇTE SI NEUSTÁLE NĚCO PÉCT ZA ZÁDY VEŘEJNOSTI.
@@ -25,6 +24,7 @@ AŤ UDĚLAJÍ JEDNODUŠE SPRAVOVATELNÝ WEB POSTAVENÝ NA [OTEVŘENÉM SOFTWARE]
 NEBUDETE PAK NUCENI JEDNAT S AMATERY, OD KTERÝCH JSTE SI KOUPILI WEB,
 ALE KTERÝ [UMÍ SPRAVOVAT A ROZŠIŘOVAT JEN ONI](https://cs.wikipedia.org/wiki/Propriet%C3%A1rn%C3%AD_uzam%C4%8Den%C3%AD).
 
+*(POZN.: po zvážení reakcí uvedu seznam vlastností, které uživatelsky příjemný a moderní web MUSÍ splňovat. Bude doplněno...)
 
 Pro kompletnost vznáším otázku na co město má IT oddělení, když má takovýto web?
 A přidávám mojí korespondenci, aby bylo jasné, co tam sedí za odborníky.

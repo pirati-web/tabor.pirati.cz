@@ -24,12 +24,10 @@ AŤ UDĚLAJÍ JEDNODUŠE SPRAVOVATELNÝ WEB POSTAVENÝ NA [OTEVŘENÉM SOFTWARE]
 NEBUDETE PAK NUCENI JEDNAT S AMATERY, OD KTERÝCH JSTE SI KOUPILI WEB,
 ALE KTERÝ [UMÍ SPRAVOVAT A ROZŠIŘOVAT JEN ONI](https://cs.wikipedia.org/wiki/Propriet%C3%A1rn%C3%AD_uzam%C4%8Den%C3%AD).
 
-*(POZN.: po zvážení reakcí uvedu seznam vlastností, které uživatelsky příjemný a moderní web MUSÍ splňovat. Bude doplněno...)*
+### korespondence s panem tajemníkem
 
 Pro kompletnost vznáším otázku na co město má IT oddělení, když má takovýto web?
 A přidávám mojí korespondenci, aby bylo jasné, co tam sedí za odborníky.
-
-### korespondence s panem tajemníkem
 
 > Dobry den,
 na vcerejsim foru zaznelo (uz nevim z kterych ust a zda to byla
@@ -64,3 +62,29 @@ DObre, chapu, ze zatim o zmene redakcniho systemu neuvazujete. Doufam,
 ze paklize dospejete k tomu, ze je na case se posunout dal, tak
 doufam, ze se to verejnost dozvi driv, nez koupite "jine vismo".
 s pozdravem, V.Klecanda
+
+### cesta k nápravě
+
+*(POZN.:
+tento odstavec vznikl v reakci na výtku,
+že článek dostatečně nepopsal co je problém a nenabízí jasné řešení)*
+
+Podle mého názoru moderní a hlavně přehledný web musí:
+
+- být [responzivní](https://cs.wikipedia.org/wiki/Responzivn%C3%AD_web_design)
+- informace co nejvíce třídít = používat [tagy (štítky)](http://www.adaptic.cz/znalosti/slovnicek/tag/)
+- umožňovat [RSS odběry](https://cs.wikipedia.org/wiki/RSS) a to i na úrovni jednotlivých tagů
+- prezentovat informace v __TEXTOVÉ PODOBĚ__ nikoli v PDFkách nebo nedejbože naskenovaných obrázcích
+- informace vzájemně linkovat (odkazovat)
+
+Táborský web z tohoto seznamu nenabízí prakticky nic.
+A co tedy udělat, aby se to změnilo?
+
+- rozloučit se se stávajícím provozovatelem, jehož redakční systém
+(tj. část webu sloužící pro přidávání informací) je zastaralý
+a zřejmě neumožňuje to, co moderní web žádá
+- vypsat __transparentní__ výběrové řízení na IT konzultanta,
+který doporučí jiné, __hlavně otevřené řešení__ a zajistí jeho:
+  - zprovoznění (za plné podpory IT odboru)
+  - zaškolení IT odboru, aby jeho "odborní" pracovníci byli shopni sami odstraňovat problémy, které mohou nastat
+  - zaškolit i jednotlivé pracovníky (editory), kteří budou s novým redakčním systémem pracovat __+ garanty__, tj. vyčleněné pracovníky IT odboru, kteří budou provádět zaškolování nově příchozích editorů.

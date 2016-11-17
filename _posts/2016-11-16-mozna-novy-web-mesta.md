@@ -88,3 +88,7 @@ který doporučí jiné, __hlavně otevřené řešení__ a zajistí jeho:
   - zprovoznění (za plné podpory IT odboru)
   - zaškolení IT odboru, aby jeho "odborní" pracovníci byli shopni sami odstraňovat problémy, které mohou nastat
   - zaškolit i jednotlivé pracovníky (editory), kteří budou s novým redakčním systémem pracovat __+ garanty__, tj. vyčleněné pracovníky IT odboru, kteří budou odpovědni za zaškolování nově příchozích editorů.
+- pak už jen dodržovat jednoduché pravidlo při publikování: __dbát na použití správných tagů__
+
+Budování přehledného webu, který prezentuje takové množství, jak taborský, není jednoduché.
+Proto je potřeba mu věnovat náležitou péči, definovat zodpovědnosti, použít správný software ale hlavně: neusnout a neustále sledovat trendy a nejlepší postupy.

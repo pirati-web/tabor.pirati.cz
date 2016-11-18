@@ -12,8 +12,13 @@ Jeden z problémů, který dostal na fóru města celkem podporu, byl __lepší 
 Na toto konto jsem si vyměnil pár emailů s panem tajemníkem.
 [Proč je web města Tábora špatný a co udělat, aby byl lepší a užitečnější](http://www.taborjinak.cz/index.php/v-mediich/23-clanky/219-proc-je-web-mesta-tabora-spatny) jsem popsal už před dvěma roky.
 Za celou tu dobu se kromě přidání vyhledavacího boxíku, který používá google místo obskurního vyhledávání "systému" vismo, __nestalo vůbec nic__.
+Nepřehlednost, špatná struktura, absence třídění prezentovaných informací stále přetrvávají.
 
 > Místo toho __město stále vyjednává__ s dodavatelem dosavadního řesení __o kosmetických úpravách, které mají stát desítky tisíc__, ale problém nevyřeší!
+
+Přitom existuje tolik pozitivních příkladů.
+Za všechny lze uvést [Nové Město na Moravě](https://www.nmnm.cz/),
+[Brno střed](http://www.brno-stred.cz/) nebo velice zajímavý [Liberec](http://www.liberec.cz/cz/).
 
 Je mi z toho nějak smutno. Ale abych byl aspoň malinko pozitivní, mám pro město jednoduchou radu:
 
@@ -86,7 +91,7 @@ a zřejmě neumožňuje to, co moderní web žádá
 - vypsat __transparentní__ výběrové řízení na IT konzultanta,
 který doporučí jiné, __hlavně otevřené řešení__ a zajistí jeho:
   - zprovoznění (za plné podpory IT odboru)
-  - zaškolení IT odboru, aby jeho „odborní" pracovníci byli schopni sami odstraňovat problémy, které mohou nastat
+  - zaškolení IT odboru, aby jeho "odborní" pracovníci byli schopni sami odstraňovat problémy, které mohou nastat
   - zaškolit i jednotlivé pracovníky (editory), kteří budou s novým redakčním systémem pracovat __+ garanty__, tj. vyčleněné pracovníky IT odboru, kteří budou odpovědni za zaškolování nově příchozích editorů.
 - pak už jen dodržovat jednoduché pravidlo při publikování: __dbát na použití správných tagů__
 

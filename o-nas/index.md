@@ -41,7 +41,7 @@ Pro demokratické principy jsou informace o správě věcí veřejných naprosto
 
 Město je tu pro lidi a především ti by měli říct, jak bude vypadat.
 Víme, co je [Přímá demokracie](http://cs.wikipedia.org/wiki/P%C5%99%C3%ADm%C3%A1_demokracie) a máme za to,
-některé prvky se dají aplikovat na fungování lokílní politiky.
+některé prvky se dají aplikovat na fungování lokální politiky.
 Lidé musí mít možnost:
 
 - možnost rozhodnout co se bude stavět, kam pujdou peníze.

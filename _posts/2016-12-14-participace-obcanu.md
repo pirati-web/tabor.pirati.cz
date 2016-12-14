@@ -22,7 +22,7 @@ Metodu nazývá __vícekolová moderovaná veřejná diskuse__ (setkání s mož
 
 V Táboře se pořádájí fóra zdravého města.
 Je to akce, kterou město koná ve spolupráci s [Národní síťí Zdravých měst ČR](http://www.nszm.cz).
-To je organizace zaměřená na monitorování naplňování cílů [místní agendy 21](TODO).
+To je organizace zaměřená na monitorování naplňování cílů [místní agendy 21](http://www.ma21.cz).
 Scénář akce je následovný:
 - lidé obcházejí několik stolů; každý stůl se věnuje jednomu tématu
 - u každého stolu se zapisují problémy, které lidé k tématu uvedou
@@ -30,8 +30,7 @@ Scénář akce je následovný:
 - každý má dvě nálepky, které pak nalepí (zahlasuje) pro ty, které považuje za největší; 10 z nich, s nevíce hlasy je _10P města_
 - několik dní na to se pak ještě (údajně) dělá průzkum na ulici, zda je těchto _10P_ stejně důležite pro respondenty jako pro účastníky fora
 
-Uspořádání akce přijde ročně město na TODO.
-Bohužel co celé akci dává punc nesmyslu je závaznost řešení _10P_.
+Uspořádání akce přijde ročně město na TODO: čekám na info od města.
 Každý ročník akce se vyhodnotí (vy)řešení 10P z předešlého.
 Letos jsme se setkali pouze s narychlo sesmolenou powerpointovou prezentací, jak loňských _10P_ nejde, není nutné, je drahé řešit.
 Škoda, pak celá akce je jen přátelské zalamentování si v noblesním prostředí s rautem.
@@ -42,7 +41,7 @@ Pro mě a pro piráty obecně je ale možnost se aktivně účastnit politickéh
 Chceme instituce, které jsou nejen transparentní, ale přijímají zpětnou vazbu zvenku.
 Chceme ji ale získávat metodami 21. století, levně, rychle a efektivně, tj. po internetu.
 Existuje už mnoho nástrojů, které to umožňují.
-Nejjednodušší např. [google forms](TODO), které __by město mohlo začít pro získávání názoru lidí používat hned teď, kdyby chtělo__.
+Nejjednodušší např. [google forms](https://www.google.com/forms/about/), které __by město mohlo začít pro získávání názoru lidí používat hned teď, kdyby chtělo__.
 Je jasné, že ne všichni chtějí/mohou/umí využívat online možností (jejich počet je ale malý a bude se ještě zmenšovat).
 Pro ty je možné zachovat nějakou offline formu a obě pak vhodně zkombinovat.
 
@@ -65,3 +64,4 @@ Jestli chceme zapojit mladé a obecně více lidí, je potřeba:
 Nic víc, nic míň :)
 
 A jak je participace důležitá pro tebe? Díky za názor ..
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfvIZvSE1Gi2whlGysgl-R8KcZkJEsy1_Fx1glsZkht8DuYzg/viewform?embedded=true" width="500" height="500" frameborder="0" marginheight="0" marginwidth="0">nahrávám...</iframe>

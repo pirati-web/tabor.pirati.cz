@@ -1,7 +1,7 @@
 ---
 layout: blog
 category: CLANKY
-image: "/static/media/web.jpg"
+image: "/static/media/ruce.jpg"
 title: Participace občanů
 description: Lidé a především mladí lidé přestali chodit volit. Mají pocit, že svým jednáním nemohou nic změnit a radnice jsou pro ně černé, neprůhledné krabičky co nepřijímají žádnou zpětnou vazbu.
 tags: participace, komunikace
@@ -61,7 +61,6 @@ Jestli chceme zapojit mladé a obecně více lidí, je potřeba:
 - nabídnout jednoduchý a rychlý způsob, jak to udělat
 - ukázat, že výsledky danou instituci (město) zajímají a řídí se jimi (aspoň trochu)
 
-Nic víc, nic míň :)
+Nic víc, nic míň.
 
-A jak je participace důležitá pro tebe? Díky za názor ..
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfvIZvSE1Gi2whlGysgl-R8KcZkJEsy1_Fx1glsZkht8DuYzg/viewform?embedded=true" width="500" height="500" frameborder="0" marginheight="0" marginwidth="0">nahrávám...</iframe>
+A jak je participace důležitá pro tebe? [Hlasuj ZDE](https://docs.google.com/forms/d/e/1FAIpQLSfvIZvSE1Gi2whlGysgl-R8KcZkJEsy1_Fx1glsZkht8DuYzg/viewform), díky za názor :)

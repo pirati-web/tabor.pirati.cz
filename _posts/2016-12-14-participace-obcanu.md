@@ -24,6 +24,7 @@ V Táboře se pořádájí fóra zdravého města.
 Je to akce, kterou město koná ve spolupráci s [Národní síťí Zdravých měst ČR](http://www.nszm.cz).
 To je organizace zaměřená na monitorování naplňování cílů [místní agendy 21](http://www.ma21.cz).
 Scénář akce je následovný:
+
 - lidé obcházejí několik stolů; každý stůl se věnuje jednomu tématu
 - u každého stolu se zapisují problémy, které lidé k tématu uvedou
 - hlasováním se vyberou dva od každého stolu, které postupují na tabuli
@@ -58,6 +59,7 @@ V článku o [tekuté demokracii](http://www.piratskelisty.cz/clanek-1626-tekuta
 Na foru zdravého města padaly nápady na lepší propagaci akce, aby přilákala více mladých (věkový průměr byl odhadem 50).
 Já říkám - mladé nepřitáhne lepší propagace, ani raut, ani modré z nebe.
 Jestli chceme zapojit mladé a obecně více lidí, je potřeba:
+
 - nabídnout jednoduchý a rychlý způsob, jak to udělat;
 - ukázat, že výsledky danou instituci (město) zajímají a řídí se jimi (aspoň trochu).
 

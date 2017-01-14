@@ -31,7 +31,20 @@ Scénář akce je následovný:
 - každý má dvě nálepky, které pak nalepí (zahlasuje) pro ty, které považuje za největší; 10 z nich, s nevíce hlasy je _10P města_
 - několik dní na to se pak ještě (údajně) dělá průzkum na ulici, zda je těchto _10P_ stejně důležite pro respondenty jako pro účastníky fóra
 
-Uspořádání akce přijde ročně město na TODO: čekám na info od města.
+<a name="costs">Uspořádání akce</a> přijde ročně město na:
+
+- Nájemné Střelnice a občerstvení 26 tisíc Kč
+- Propagace – plakáty – 10 tisíc Kč včetně výlepů Rengl, MHD
+- banner TGM – 1 600 Kč
+- NTR, web, FB města – v rámci běžného provozu
+- Hlídání dětí – 3 tisíce Kč
+- Moderátorka – zdarma v rámci služeb NSZM, zaměstnanci v rámci svých agend
+- Ověřovací anketa – v ulicích zdarma (studenti Střední školy spojů a informatiky) web města, městská knihovna, Infocentrum – vše v rámci agendy zaměstnanců
+- Tombola – zdarma – sponzorské dary
+
+Celkem tedy cca __40.000 Kc__.
+A to ještě nemám info, kolik stojí spolupráce s NSZM.
+
 Každý ročník akce se vyhodnotí (vy)řešení _10P_ z předešlého.
 Letos jsme se setkali pouze s narychlo sesmolenou powerpointovou prezentací, jak loňských _10P_ nejde, není nutné, je drahé řešit.
 Škoda, pak je celá akce jen přátelské zalamentování si v noblesním prostředí s rautem.

@@ -13,3 +13,6 @@
 [submodule "_data/--force"]
 	path = _data/--force
 	url = https://github.com/pirati-web/people.git
+[submodule "admin"]
+	path = admin
+	url = https://github.com/pirati-web/admin

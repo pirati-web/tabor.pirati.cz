@@ -3,7 +3,7 @@ autor: Václav Klecanda
 layout: blog
 category: CLANKY
 title: Web města aneb špatný vtip
-date: 11/16/2016 3:41 PM
+date: 2016-11-16T13:41:51.341Z
 author: Václav Klecanda
 image: /static/media/web.jpg
 description: 'Web města nestojí za nic a ani sami úřednící neví nic o tom, jak to změnit'

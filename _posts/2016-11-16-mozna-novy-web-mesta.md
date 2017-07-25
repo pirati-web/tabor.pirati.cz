@@ -1,11 +1,13 @@
 ---
+autor: Václav Klecanda
 layout: blog
 category: CLANKY
-image: "/static/media/web.jpg"
 title: Web města aneb špatný vtip
-description: Web města nestojí za nic a ani sami úřednící neví nic o tom, jak to změnit
-tags: web, IT
-autor: Václav Klecanda
+date: 2017-07-25T13:41:51.341Z
+author: Václav Klecanda
+image: /static/media/web.jpg
+description: 'Web města nestojí za nic a ani sami úřednící neví nic o tom, jak to změnit'
+tags: 'web, IT'
 ---
 
 Jeden z problémů, který dostal na fóru města celkem podporu, byl __lepší městský web__.
@@ -97,3 +99,4 @@ který doporučí jiné, __hlavně otevřené řešení__ a zajistí jeho:
 
 Budování přehledného webu, který prezentuje takové množství, jako táborský, není jednoduché.
 Proto je potřeba mu věnovat náležitou péči, definovat zodpovědnosti, použít správný software, ale hlavně neusnout a neustále sledovat trendy a nejlepší postupy.
+

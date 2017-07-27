@@ -5,6 +5,7 @@ image: "/static/media/ruce.jpg"
 title: Participace občanů
 description: Lidé a především mladí lidé přestali chodit volit. Mají pocit, že svým jednáním nemohou nic změnit a radnice jsou pro ně černé, neprůhledné krabičky co nepřijímají žádnou zpětnou vazbu.
 tags: participace, komunikace
+date: 2016-12-14T13:41:51.341Z
 autor: Václav Klecanda
 ---
 

@@ -6,6 +6,7 @@ title: Shrnutí projektu přeložka silnic Chýnovská - Vožická
 description:
 tags: doprava, investice
 autor: Václav Klecanda
+date: 2015-05-14T13:41:51.341Z
 ---
 
 

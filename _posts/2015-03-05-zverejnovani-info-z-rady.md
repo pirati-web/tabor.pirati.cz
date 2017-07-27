@@ -6,6 +6,7 @@ title: Zveřejňování jmenovitého hlasování rady
 description: V Táboře mají transparentní jmenovitá hlasování rady. Zamená to konec politickým dealům? Ne nutně.
 tags: transparence
 autor: vencax
+date: 2015-03-05T13:41:51.341Z
 ---
 
 

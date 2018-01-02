@@ -14,6 +14,7 @@ collections: # A list of collections the CMS should be able to edit
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
+      - {label: "Publikováno", name: "published", widget: "boolean", default: true}
       - {label: "Category", name: "category", widget: "hidden", default: "CLANKY"}
       - {label: "Titulek", name: "title", widget: "string", tagname: "h1", required: true}
       - {label: "Publikovano", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mma", required: true}

@@ -31,9 +31,9 @@ Vše hladce a samozřejmě NEtransparentně prošlo přes místní přiměstský
 > Změna územního plánu kvuli nabobtnání záměru byla projednávána v roce 2011.
 > Detaily tohoto projednávání zůstaly nedořešeny, protože se rozproudily emoce.
 
-Ať tömu bylo jakkoli, jisté je, že kdyby lidé viděli projekt tak jak se ma dnes realizovat, tak ho odmítnou na celé čáře.
+Ať tomu bylo jakkoli, jisté je, že kdyby lidé viděli projekt tak jak se ma dnes realizovat, tak ho odmítnou na celé čáře.
 
-Nestalo se tak. Projet je od té doby stále na stole.
+Nestalo se tak. **Projet je od té doby stále na stole**.
 Proběhly výkupy pozemků, příprava dokumentace a já nevím co, ale vše krásně v tichosti, na tajňáčka na radnici.
 
 > 02/10/2014

@@ -1,6 +1,7 @@
 ---
 title: Program
 layout: page
+published: false
 style: portrets
 description: Politický program a vize táborských pirátů
 keywords: program, piráti, tábor, vize

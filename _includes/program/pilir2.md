@@ -11,7 +11,7 @@
 </a>
 <div id="pilir2" style="display:none" markdown="1">
   Chytré město nebo dnes tzv. [smart city](https://cs.wikipedia.org/wiki/Smart_City) nejsou předražené lavičky.
-  Je to způsob, jak využít moderní technologie, jak sbírat data a adekvatně na ně reagovat. Nemusí to být jen [inteligentní veřejné osvětlení](https://youtu.be/fxEG0NDhogg?t=8) s detekcí pohubu a automatickým pohasínáním.
+  Je to způsob, jak využít moderní technologie, jak sbírat data a adekvatně na ně reagovat. Nemusí to být jen [inteligentní veřejné osvětlení](https://vimeo.com/68833939#t=0m44s) s detekcí pohubu a automatickým pohasínáním.
 
   Po světě běhá spoustu nápadů.
   Jde o to je sledovat, inspirovat se a především spolupracovat.

@@ -16,9 +16,10 @@ keywords: program, piráti, tábor, vize
 <a href="javascript:void" onClick="$('#pilir1').toggle()">
   Chci vědět víc / proč? ...
 </a>
-<div id="pilir1" style="display:none">
+<div id="pilir1" style="display:none" markdown="1">
   Transparence je stav, kdy není potřeba žádat o žádnou informaci, protože všechny jsou volně a přehledně k dispozici.
   Tomu se chceme přiblížit jako jen to je možné.
+
   Transparence buduje důvěru mezi občany a institucemi.
   Důvěřuj ale prověřuj a proto je potřeba mít vše k dispozici.
   A kde jinde než na internetu.
@@ -33,24 +34,32 @@ keywords: program, piráti, tábor, vize
 <a href="javascript:void" onClick="$('#pilir2').toggle()">
   Chci vědět víc / proč? ...
 </a>
-<div id="pilir2" style="display:none">
-- pořizování dotovanych elektromobilu - dobíjecí infrastruktura pro elektromobily, úsporné veřejné osvětlení ?????????
+<div id="pilir2" style="display:none" markdown="1">
+  Chytré město nebo dnes tzv. [smart city](https://cs.wikipedia.org/wiki/Smart_City) nejsou předražené lavičky.
+  Je to způsob, jak využít moderní technologie, jak sbírat data a adekvatně na ně reagovat. Nemusí to být jen [inteligentní veřejné osvětlení](https://youtu.be/fxEG0NDhogg?t=8) s detekcí pohubu a automatickým pohasínáním.
+
+  Po světě běhá spoustu nápadů.
+  Jde o to je sledovat, inspirovat se a především spolupracovat.
 </div>
 
 ## atraktivní a bezpečné město
 - nové multifunkční kulturní centrum - výstavy, workshopy, koncerty (vzor: [depo2015](https://www.depo2015.cz/))
-- revitalizace přírodního amfiteatru Pintovka
+- revitalizace [přírodního amfiteatru Pintovka](https://en.mapy.cz/zakladni?x=14.6509106&y=49.4055455&z=19&m3d=1&height=180&yaw=14.31&pitch=-31.874&3dr=1&pano=1&base=ophoto)
 - podpora MHD zdarma
 - efetivní řízení městské policie - zesílit pěší hlídky v rizikových oblastech
 
 <a href="javascript:void" onClick="$('#pilir3').toggle()">
   Chci vědět víc / proč? ...
 </a>
-<div id="pilir3" style="display:none">
- - senior cohousing (architektonická soutěž studentů s důrazem na co nejjednodušší konstrukci a cenu -> maximalizaci kapacity)
- - na významných lokalitách WIFI zdarma + uzamykatelné skříně na dobíjení mobilních telefonů
-- vyhrazene, striktne oddelene jizdni pruhy pro kola
- je třeba zesílit pěší hlídky v rizikových oblastech
+<div id="pilir3" style="display:none" markdown="1">
+
+Pro zvýšení přitažlivosti města (nejen pro turisty) lze udělat mnohem víc.
+Stačí se rozhlédnout a prostě ["okopírovat"](https://wiki.pirati.cz/copyheart) dobré nápady:
+ - [senior cohousing](https://cs.wikipedia.org/wiki/Cohousing) (s realizací spjatá architektonická soutěž studentů s důrazem na co nejjednodušší konstrukci a cenu a tudíž maximalizaci kapacity)
+ - na významných lokalitách WIFI zdarma
+ - pro turisty ve světě bězné [uzamykatelné skříně na dobíjení mobilních telefonů](http://www.charge-box.cz/cs/)
+ - vyhrazené, striktně oddělené jízdní pruhy pro kola
+ - s čím dalším přijdou lidé až dostanou slovo? Určitě to bude bomba! :)
 </div>
 
 ## chytré a živé město
@@ -62,8 +71,7 @@ keywords: program, piráti, tábor, vize
 <a href="javascript:void" onClick="$('#pilir4').toggle()">
   Chci vědět víc / proč? ...
 </a>
-<div id="pilir4" style="display:none">
-- kulturní akce - podpora neziskových a alternativních akcí, záštita města nad mainstream akcema.
-- podpora činnosti spolků - spíše než finance tak zapůjčky prostor na činnost
-- skoly: opustit frontalni vyuku - cesta z praveku
+<div id="pilir4" style="display:none" markdown="1">
+- kulturní akce - podpora neziskových a alternativních akcí, mainstream akce město můžezáštita města nad .
+- podpora činnosti spolků - spíše než finance, zapůjčky prostor na činnost
 </div>

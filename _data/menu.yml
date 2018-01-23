@@ -1,6 +1,10 @@
 -
   title: O nás
   url: /o-nas/
+  icon: fi-users
+-
+  title: Program
+  url: /program/
   icon: fi-compass
 -
   title: Články

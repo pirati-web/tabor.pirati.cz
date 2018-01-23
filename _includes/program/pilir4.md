@@ -1,5 +1,5 @@
 <div markdown="1">
-## chytré a živé město
+## chytré a živé město <i class="fi-lightbulb" aria-hidden="true"></i>
 - revize projektu silničních přeložek - chceme data
 - sběr otevřených dat a jejich využití pro efektivnější plánování servisních akcí (odvoz odpadu, jízdní řády MHD, rajony strážníků)
 - rovná podpora všem sportovním odvětvím, finance především do dětí a mládeže

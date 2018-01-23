@@ -1,6 +1,6 @@
 
 <div markdown="1">
-## transparentní město
+## transparentní město <i class="fi-eye" aria-hidden="true"></i>
 - všechny smlouvy na internetu + transparentní účet
 - online klikací a srozumitelný rozpočet až na úroveň faktur
 - všechna data ve strojově čitelné formě a otevřených formátech ([OPEN data](https://cs.wikipedia.org/wiki/Otev%C5%99en%C3%A1_data)), [otagované](http://wiki.knihovna.cz/index.php/Tagging) a s [odběrovými kanály](https://cs.wikipedia.org/wiki/RSS)

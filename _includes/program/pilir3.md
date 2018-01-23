@@ -1,5 +1,5 @@
 <div markdown="1">
-## atraktivní a bezpečné město
+## atraktivní a bezpečné město <i class="fi-music" aria-hidden="true"></i>
 - nové multifunkční kulturní centrum - výstavy, workshopy, koncerty (vzor: [depo2015](https://www.depo2015.cz/))
 - revitalizace [přírodního amfiteatru Pintovka](https://en.mapy.cz/zakladni?x=14.6509106&y=49.4055455&z=19&m3d=1&height=180&yaw=14.31&pitch=-31.874&3dr=1&pano=1&base=ophoto)
 - podpora MHD zdarma

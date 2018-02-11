@@ -79,4 +79,12 @@ Jestli chceme zapojit mladé a obecně více lidí, je potřeba:
 
 Nic víc, nic míň.
 
-A jak je participace důležitá pro tebe? [Hlasuj ZDE](https://docs.google.com/forms/d/e/1FAIpQLSfvIZvSE1Gi2whlGysgl-R8KcZkJEsy1_Fx1glsZkht8DuYzg/viewform), díky za názor :)
+A jak je participace důležitá pro tebe?
+
+UPDATE: Z ankety plyne:
+- mne vůbec nezajímá: **9.1%**
+- je pro mne naprosto stěžejní, snažím se aktivně se účastnit bez ohledu na možnosti, které mi radnice nabízí: **12.1%**
+- participace je pro mne důležitá, ale z časových důvodů nemám možnost.
+Uvítám online nástroje, které mi účast zjednodušší: **78.8%**
+
+![participace anketa graf](/static/media/participace_graf.png)

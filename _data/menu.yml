@@ -3,10 +3,6 @@
   url: /o-nas/
   icon: fi-users
 -
-  title: Program
-  url: /program/
-  icon: fi-compass
--
   title: Články
   url: /clanky/
   icon: fi-clipboard-notes

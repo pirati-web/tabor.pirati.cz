@@ -11,7 +11,7 @@ tags: 'volby,jinak,příprava'
 ---
 
 V polovině ledna se konalo první letošní posezení s Piráty.
-Uskutečnilo se jako obvykle v hospůdce Na Sadech a k překvapení stálých účastníků se na něm objevilo i nečekaně nových tváří.
+Uskutečnilo se jako obvykle v hospůdce Na Kurtech a k překvapení stálých účastníků se na něm objevilo i nečekaně nových tváří.
 Nikdo z nás popravdě takovou účast nečekal.
 Nejen proto, ale i díky výsledku voleb do Poslanecké sněmovny ČR, se Piráti Tábor nakonec rozhodli ukončit spolupráci s Jinak! a kandidovat sami s vlastní kandidátkou.
 

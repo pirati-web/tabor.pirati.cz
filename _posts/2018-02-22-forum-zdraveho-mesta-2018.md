@@ -55,11 +55,11 @@ Za to jsme byli šťastni, protože obě tyto priority jsou obsaženy v dlouhod
 Čím to bylo zapříčiněno nevím, ale zřejmě tím, že mladší generace buď nemá zájem o podobná fóra a nebo čas konání akce, kdy spousta lidí je ještě v zaměstnání a nebo má jiné povinnosti a hodilo by se jim konání v pozdějších hodinách.
 Možná i tím je ovlivněn výčet priorit.
 
+Václav Klecanda dodává:
+
 > Mne se organizace fora [nelíbí už dlouho](clanky/2016/12/14/participace-obcanu/#forum-zdravého-města).
 Stojí dost peněz, koná se pouze jednou za rok a není zhodnoceno, zda vzniklé náměty jsou realizovatelné.
-Ale je to celkem jedno, protože již několik ročníků se ve vyhodnocení setkáváme pouze s odůvodněním, proč ten který úkol nebyl splněn.
+Ale je to celkem jedno, protože již několik ročníků se ve vyhodnocení setkáváme spíše s odůvodněním, proč ten který úkol nemohl být splněn.
 Kdyby se forum konalo několikrát do roka na půdě městského úřadu v jednací síni, náměty se vždy posoudily, zda jsou realizovatelné a o průběhu realizace by město informovalo, považoval bych to za přínosné.
-
-Říká Václav Klecanda.
 
 Bližší informace z průběhu fóra naleznete buď ve videu anebo v [tiskové zprávě z konání fóra](http://www.taborcz.eu/forum-zdraveho-mesta-2018/d-54953).

@@ -20,22 +20,22 @@ Ten je ve formě ankety na [městském webu](http://taborcz.eu/vismo/formulare2.
 
 (tučně označené jsou priority z vítězného desatera)
 
-1. Aktivní role městského architekta - vznik koncepce veřejného prostoru
-2. Dostavba fotbalového stadionu v Kvapilově ulici
-3. Nesouhlas s výstavbou věznice na Všechově – aktivní postoj města
-4. Obchvat Tesco – Slapy
+1. __Aktivní role městského architekta - vznik koncepce veřejného prostoru__
+2. __Dostavba fotbalového stadionu v Kvapilově ulici__
+3. __Nesouhlas s výstavbou věznice na Všechově – aktivní postoj města__
+4. __Obchvat Tesco – Slapy__
 5. Opatřit bio-popelnice pro bytové domy
-6. Oživit Noviny táborské radnice
-7. [Participativní rozpočet](http://www.participativnirozpocet.cz/o%20participativn%C3%ADm%20rozpo%C4%8Dtu) - vyčlenění financí na občanské projekty, o jejichž realizaci rozhodují sami občané
+6. __Oživit Noviny táborské radnice__
+7. __[Participativní rozpočet](http://www.participativnirozpocet.cz/o%20participativn%C3%ADm%20rozpo%C4%8Dtu) - vyčlenění financí na občanské projekty, o jejichž realizaci rozhodují sami občané__
 8. Podpořit projekty neziskových organizací v oblasti kultury a cestovního ruchu
 9. Podpořit spolupráci organizací pro seniory
-10. Přidat hřiště na pétanque do stávajícího Fit parku na Sídlišti Nad Lužnicí
+10. __Přidat hřiště na pétanque do stávajícího Fit parku na Sídlišti Nad Lužnicí__
 11. Regulovat reklamu ve veřejném prostoru historického centra města
-12. Řešit znečištění od havranů v ulici Sokolovská
+12. __Řešit znečištění od havranů v ulici Sokolovská__
 13. Sprejeři - poškozování majetku a veřejných prostor
-14. Urychlit výstavbu domova se zvláštním režimem
+14. __Urychlit výstavbu domova se zvláštním režimem__
 15. Zavést inteligentní zastávky MHD (= elektronické informační panely, zobrazující časy příjezdů a odjezdů a čísla projíždějících linek)
-16. Zvýšit dohled na autobusovém nádraží po 17. hodině
+16. __Zvýšit dohled na autobusovém nádraží po 17. hodině__
 
 Na fóru nechyběli ani zástupci táborských pirátů, kteří byli automaticky posazeni k takzvanému stolu mladých.
 Stolů bylo celkem osm, kde každý měl vlastní tematickou oblast.

@@ -4,7 +4,7 @@ published: true
 category: CLANKY
 title: Fórum zdravého města Tábor 2018
 date: 2018-02-22
-author: Jirka Rouba
+author: Jiří Roubíček
 image: /static/media/forum.jpg
 description: 'Ve středu 14. února se konalo jubilejní desáté Veřejné Fórum Zdravého města Tábora. Ale dopadlo to jako vždy.'
 tags: participace

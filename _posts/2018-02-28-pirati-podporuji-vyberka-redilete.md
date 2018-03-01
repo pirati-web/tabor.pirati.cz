@@ -19,7 +19,7 @@ Ti se mohou přihlásit také a obhájit své místo.
 Jedná se o snahu dát prostor těm nejlepším, kteří přinesou modernější, lepší a odbornější vizi, a posunou tak školu dál.
 Prodlužováním funkčního období stávajících ředitelů politickým rozhodnutím toho jistě nedosáhneme.
 
-Jako piráti chceme, aby se vedoucí pracovníci rozvíjeli a rozvíjeli koncepci i samotné fungování škol a ne, aby se školství zabetonovalo ve statusu quo.
+Jako Piráti chceme, aby se vedoucí pracovníci rozvíjeli a rozvíjeli koncepci i samotné fungování škol a ne, aby se školství zabetonovalo ve statusu quo.
 Všichni bychom pak měli chtít, aby vedení našich škol aktivně sledovalo moderní trendy ve vzdělávání.
 A nejedná se jen o trendy ve vzdělávání žáků samotných, ale především učitelů.
 

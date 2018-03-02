@@ -16,7 +16,7 @@ Bohužel se ale často se „smartováním“ pojí i, dle našeho názoru v ne
 Příkladem budiž nejen novinami propraná [wi-fi v lanovce na pražský Petřín](https://prazsky.denik.cz/zpravy_region/v-lanovce-na-petrin-bude-wi-fi-prahu-zaplati-asi-2-3-milionu-20171003.html), ale třeba i ty naše [„smart“ lavičky v Táboře](/clanky/2017/09/08/smart-lavicka/).
 Obecně ale pro tyto někdy až úsměvné projekty platí [ČÍM DRAŽŠÍ, TÍM LEPŠÍ](https://neovlivni.cz/smart-cities-v-rezii-ano-cim-drazsi-tim-lepsi/) :(
 
-Byl bych moc rád, kdyby se Tábor takovýmto excesům vyhnul a proto jsem se začal zajímat,
+Byl bych moc rád, kdyby se Tábor takovýmto excesům vyhnul, a proto jsem se začal zajímat,
 co si pod takovým pojmem 'smart city' vlastně úřad představuje:
 
 #### Dopis Janě Lorencové, kontaktu uvedeném na [taborudrzitelne.cz](http://www.taborudrzitelne.cz/)
@@ -64,11 +64,10 @@ S pozdravem, Ing. Jiří Fišer, Starosta
 Dobrá, nezbývá než doufat, že výsledný dokument opravdu nebude závazný,
 že k dalšímu vytváření dlouhodobější koncepce 'Smart city' budou přizváni i odborníci z řad veřejnosti a že se nebude péct někde za zavřenými dveřmi.
 
-My Piráti máme celkem jasnou představu o tom, jak takové „Smart City“ vypadá:
-
-Na radnici i v jiných institucích a městských společnostech se používají na míru postavené informační systémy, přesně implementující jednotlivé procesy a umožňující:
+My, Piráti, máme celkem jasnou představu o tom, jak takové „Smart City“ vypadá:
+ na radnici i v jiných institucích a městských společnostech se používají na míru postavené informační systémy, přesně implementující jednotlivé procesy a umožňující:
   - vstup veřejnosti přes jednoduché formuláře (např. žádost o pronájem, aj.)
-  - automaticky zpřístupňující data ve strojově čitelné formě, řádně oštítkované pro snadné hledání.
+  - automatické zpřístupnění dat ve strojově čitelné formě, řádně oštítkované pro snadné hledání.
   Jedná se nejen např. o strukturované materiály pro jednání orgánů,
   správně provázané na jednotlivá jmenovitá hlasování,
   ale i o otevřená data z GIS systémů o tom,

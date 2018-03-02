@@ -23,7 +23,7 @@ co si pod takovým pojmem 'smart city' vlastně úřad představuje:
 
 Dobry den,
 muzete prosim poskytnout vice detailu ohledne smartcity koncepce nez
-najdu na http://www.taborudrzitelne.cz/smart-city/ms-1001/p1=1001
+najdu na [http://www.taborudrzitelne.cz/smart-city/ms-1001/p1=1001](http://www.taborudrzitelne.cz/smart-city/ms-1001/p1=1001)
 dekuji, V.Klecanda
 
 > V současné době se dokončuje materiál ke Smart City Tábor.

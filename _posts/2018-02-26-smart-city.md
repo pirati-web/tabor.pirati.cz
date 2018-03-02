@@ -19,7 +19,7 @@ Obecně ale pro tyto někdy až úsměvné projekty platí [ČÍM DRAŽŠÍ, TÍ
 Byl bych moc rád, kdyby se Tábor takovýmto excesům vyhnul a proto jsem se začal zajímat,
 co si pod takovým pojmem 'smart city' vlastně úřad představuje:
 
-## Dopis Janě Lorencové, kontaktu uvedeném na [taborudrzitelne.cz](http://www.taborudrzitelne.cz/)
+#### Dopis Janě Lorencové, kontaktu uvedeném na [taborudrzitelne.cz](http://www.taborudrzitelne.cz/)
 
 Dobry den,
 muzete prosim poskytnout vice detailu ohledne smartcity koncepce nez
@@ -42,7 +42,7 @@ s pozdravem, V.Klecanda
 
 ...
 
-## Dotaz na starostu města
+#### Dotaz na starostu města
 
 Dobry den,
 rad bych videl koncepci "smart city" pred tim, nez se bude projednavat v rade mesta.
@@ -59,6 +59,7 @@ Po věcných a jazykových korekturách Vám mohu dokument poslat, nicméně vyh
 jej projednávat, a to zejména v souladu s předchozím usnesením samosprávy města.
 S pozdravem, Ing. Jiří Fišer, Starosta
 
+#### Pirátsky "smart" city
 
 Dobrá, nezbývá než doufat, že výsledný dokument opravdu nebude závazný,
 že k dalšímu vytváření dlouhodobější koncepce 'Smart city' budou přizváni i odborníci z řad veřejnosti a že se nebude péct někde za zavřenými dveřmi.
@@ -79,6 +80,8 @@ Na radnici i v jiných institucích a městských společnostech se používají
   - data/dokumenty digitálně podepisovat a jednoduše archivovat
   - neustále se zlepšovat a části procesů dokonce automatizovat
   - sdílet, protože jednotlivé procesy nejsou o mnoho jiné než v jiných městech
+
+#### Závěr
 
 Teprve až město takové systémy bude mít, je možné o něm říct, že je SMART.
 Do té doby projekty jako lavičky se zásuvkou, inteligentní osvětlení,

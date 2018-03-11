@@ -3,11 +3,16 @@ title: Dlouhodobý program táborských Pirátů
 layout: page
 published: true
 style: portrets
-description: Dlouhodobý politický program, stanoviska a vize táborských pirátů
+description: Dlouhodobá koncepce: Tábor jako moderní město, které se dívá do budoucnosti
 keywords: program, piráti, tábor, vize
 ---
 
 
+Chceme, aby Tábor byl městem, kde je radost žít. 
+A nejen dnes, ale také v budoucnosti. 
+K tomu je třeba, aby rozvíjel na základě koncepce, která vznikne ve spolupráci odborníků a občanů města.
+
+Zde je devět kapitol, které obsahují nápady a opatření, jak toho dosáhnout:
 1. Město budoucnosti (koncepční řízení, rozvoj)
 2. Moderní město
 3. Finance a investice

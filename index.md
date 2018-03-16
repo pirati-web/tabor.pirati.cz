@@ -5,29 +5,32 @@ description: Stránka táborské pirátské buňky s nejnovějšími články a 
 keywords: organizace,transparence,politika
 ---
 
-<section class="callout large">
+<section class="callout">
 	<div class="row">
 		<div class="small-12 faded medium-8 columns">
-			<h1>Piráti Tábor</h1>
-      <h2 class="subheader">oficiální web táborské organizace</h2>
+			<h1>JSME <b>PIRÁTI TÁBOR</b></h1>
+      <h2 class="subheader">A POMÁHÁME NAŠEMU MĚSTU</h2>
+      <p>
+      Naším cílem je obec, kde může každý člověk prožít svůj život svobodně a naplno. Klíčem k prosperitě naší společnosti je otevřenost, kvalitní vzdělání a veřejné služby, použití nových technologií a zapojení občanů do rozhodování.
+      </p>
 		</div>
 	</div>
 </section>
 
-<section>
-  <div class="row small-up-1 medium-up-2">
+<div class="row">
+  <section class="small-12 medium-6 columns">
   {% for post in site.posts limit:2 %}
     <div class="column">
     {% include shared/articlesumary.html %}
     </div>
   {% endfor %}
-  </div>
-</section>
+    <h3><a href="/clanky/">Ostatní články ...</a></h3>
+  </section>
 
-<section>
-  <div class="row">
-    <div class="columns small-12">
-      <h3><a href="/clanky/">Ostatní články ...</a></h3>
-    </div>
-  </div>
-</section>
+  <section id="program" class="small-12 medium-6 columns">
+    <h3><a href="/program/">Komunální program</a></h3>
+    {% capture my_include %}{% include program/list.md %}{% endcapture %}
+    {{ my_include | markdownify }}
+
+    <h3><a href="/program/">PODROBNÝ PROGRAM ...</a></h3>
+  </section>

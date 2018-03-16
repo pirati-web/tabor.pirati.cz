@@ -6,3 +6,7 @@
   title: Články
   url: /clanky/
   icon: fi-clipboard-notes
+-
+  title: Program
+  url: /program/
+  icon: fi-users

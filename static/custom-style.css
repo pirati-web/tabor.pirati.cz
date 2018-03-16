@@ -83,6 +83,14 @@ ul#candidatelist {margin-left:0px;list-style-type: none;}
   }
 }
 
+.callout .subheader {
+  font-size: 24px;
+}
+
+.callout p {
+  font-size: 14px;
+}
+
 div.perex {
   margin-bottom: 20px;
   font-size: 120%;

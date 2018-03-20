@@ -1,9 +1,9 @@
-1. Město budoucnosti (koncepční řízení, rozvoj)
-2. Moderní město
-3. Finance a investice
-5. Vyvážená doprava (Doprava a vozidla, veřejná doprava)
-6. Bydlení a majetek (Stavební řízení, byty a nemovitosti města)
-4. Bezpečné město
-7. Atraktivni město pro všechny (Životní prostředí, Sociální oblast)
-8. Město sportu a vzdělání ( Sport, vzdělávání, mládež)
-9. Živé město (Kultura a cestovní ruch)
+1. [Město budoucnosti (koncepční řízení, rozvoj)](/program/#c1)
+2. [Moderní město](/program/#c2)
+3. [Finance a investice](/program/#c3)
+5. [Vyvážená doprava (Doprava a vozidla, veřejná doprava)](/program/#c4)
+6. [Bydlení a majetek (Stavební řízení, byty a nemovitosti města)](/program/#c5)
+4. [Bezpečné město](/program/#c6)
+7. [Atraktivni město pro všechny (Životní prostředí, Sociální oblast)](/program/#c7)
+8. [Město sportu a vzdělání ( Sport, vzdělávání, mládež)](/program/#c8)
+9. [Živé město (Kultura a cestovní ruch)](/program/#c9)

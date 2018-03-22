@@ -1,3 +1,13 @@
+body {
+  font-family: 'Mina', sans-serif;
+}
+
+.blog blockquote {
+  font-style: italic;
+  padding-left: 1em;
+  border-left: 3px solid #383076;
+}
+
 .middle-bar h1 {
   color: white;
 }
@@ -187,4 +197,8 @@ article {
 }
 article h3 a {
   color: #383076;
+  text-transform: uppercase;
+}
+.blog h1 {
+  text-transform: uppercase;
 }

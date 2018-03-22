@@ -1,0 +1,24 @@
+---
+title: Akce
+layout: page
+description: Články o táborské politice s nádechem pirátkých myšlenek
+keywords: články, tábor, politika, pohled
+---
+
+<div class="row">
+  <div class="col-sm-12 col-lg-8">
+
+    <section id="main">
+      <div class="row small-up-1 medium-up-2">
+      {% for item in site.events %}
+        {% include shared/eventsummary.html item=item %}
+      {% endfor %}
+      </div>
+    </section>
+
+  </div>
+
+  <div class="col-sm-12 col-lg-4">
+    {% include rightbar.html %}
+  </div>
+</div>

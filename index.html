@@ -1,0 +1,69 @@
+---
+layout: default
+section: blog
+description: Stránka táborské pirátské buňky s nejnovějšími články a základním rozcestníkem.
+keywords: organizace,transparence,politika
+---
+
+<div class="callout">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12 col-lg-7 offset-lg-1">
+        <h1>JSME PIRÁTI TÁBOR</h1>
+        <h2>A POMÁHÁME NAŠEMU MĚSTU</h2>
+        <p id="calloutpopis">
+          Naším cílem je obec, kde může každý člověk prožít svůj život svobodně a naplno.
+          Klíčem k prosperitě naší společnosti je otevřenost,
+          kvalitní vzdělání a veřejné služby,
+          použití nových technologií a zapojení občanů do rozhodování.
+        </p>
+        <!-- <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more &raquo;</a></p> -->
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+
+  <div class="row">
+    <div class="col-sm-12 col-lg-8">
+      <section id="posts">
+      {% for post in site.posts limit:2 %}
+        <div class="column">
+        {% include shared/articlesumary.html %}
+        </div>
+      {% endfor %}
+        <h3><a href="/clanky/">Ostatní články ...</a></h3>
+      </section>
+    </div>
+
+    <div class="col-sm-12 col-lg-4">
+      <section id="program">
+        <div class="card">
+          <div class="card-header text-white" style="background-color: #383076;">
+            <h3>Komunální program</h3>
+          </div>
+          <ol class="list-group list-group-flush">
+            {% include program/list.html class="list-group-item" %}
+          </ol>
+          <div class="card-footer">
+            <h3><a href="/program/">PODROBNÝ PROGRAM ...</a></h3>
+          </div>
+        </div>
+      </section>
+
+      <section id="facebook">
+        <div class="card mt-3">
+          <div class="card-header text-white" style="background-color: #4260b4;">
+            <h3>sleduj nás na facebooku</h3>
+          </div>
+          <div class="card-body">
+            Naše faceboková stránka je:
+            <h3><a href="{{ site.facebookurl }}" target="_blank">Piráti Tábor</a></h3>
+          </div>
+        </div>
+      </section>
+    </div>
+  </div>
+
+</div>

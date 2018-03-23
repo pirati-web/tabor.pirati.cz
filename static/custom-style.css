@@ -1,9 +1,13 @@
 body {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Mina', sans-serif;
 }
 
+.blog blockquote {
+  font-style: italic;
+  padding-left: 1em;
+  border-left: 3px solid #383076;
+}
 
-// ten cernej radek s napisem mistniho sdruzeni
 .middle-bar h1 {
   color: white;
 }
@@ -21,14 +25,52 @@ body {
   margin-top: .5em;
 }
 
+.summaryperex {
+  font-size: smaller;
+}
+
+.metadata {
+  font-size: 14px;
+  color: #777;
+}
+.metadata autor {
+  padding: 4px;
+  color: white;
+}
+
+.card-header h3 {
+  text-transform: uppercase;
+  margin: 0;
+}
+
+#downlinks a {
+  margin-left: 2em;
+}
+
+#footer {
+  color: #19182b;
+}
+
 .callout {
-  background-image: url("/static/heroback.jpg");
+  color: white;
+  padding: 3em 0;
+  background-image: url("/static/banner.jpg");
   background-color: black;
   background-position: center top;
   background-size: 100%;
   background-repeat: no-repeat;
   border: none;
   margin-bottom: 2em;
+  border-radius: 0;
+}
+.callout h1 {
+  font-size: 50px;
+}
+.callout h2 {
+  font-size: 24px;
+}
+#calloutpopis {
+  font-size: 16px;
 }
 
 .faded {
@@ -43,7 +85,31 @@ body {
 }
 
 .copyright {
-  padding: .5em;
+  font-size: 14px;
+  color: #aaa;
+}
+
+#downmenu {
+  float: right;
+  margin-bottom: 1em;
+}
+#downmenu li {
+  list-style-type: none;
+}
+#downmenu a {
+  color: white;
+}
+.skret {
+  font-size: small;
+  color: #444;
+}
+
+.navbar .nav-item {
+  border-left: 1px solid #999;
+  padding: 0 2em;
+}
+.navbar .nav-item:first-child {
+  border-left: none;
 }
 
 /* candidate list */
@@ -102,6 +168,10 @@ h1 small {
   margin-top: 10px;
 }
 
+.card-body, .list-group-item {
+  background-color: #f3f3f3;
+}
+
 
 /* blog */
 img.blog {float: right;
@@ -109,7 +179,7 @@ margin-bottom: 10px;
 margin-left: 10px;}
 
 .splash {
-  margin-bottom: 20px;
+  width: 100%;
 }
 
 .portrets img {
@@ -124,4 +194,11 @@ margin-left: 10px;}
 
 article {
   margin-bottom: 2em;
+}
+article h3 a {
+  color: #383076;
+  text-transform: uppercase;
+}
+.blog h1 {
+  text-transform: uppercase;
 }

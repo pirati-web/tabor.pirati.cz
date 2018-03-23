@@ -4,10 +4,11 @@ permalink: pretty
 markdown: kramdown
 facebookurl: https://www.facebook.com/piratitabor
 logo: /static/logo.png
+
 gems:
-  - jekyll-sitemap
-  - i18n
   - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
 paginate: 7
 paginate_path: "/clanky/:num/"
 keywords: tábor,piráti

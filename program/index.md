@@ -14,8 +14,9 @@ K tomu je třeba, aby rozvíjel na základě koncepce, která vznikne ve spolupr
 
 Zde je devět kapitol, které obsahují nápady a opatření, jak toho dosáhnout:
 
-{% capture my_include %}{% include program/list.md %}{% endcapture %}
-{{ my_include | markdownify }}
+<ol>
+{% include program/list.html %}
+</ol>
 
 ## <a name="c1">Město budoucnosti</a>
 - Prosadíme koncepční řízení města - zpracování dílčích koncepcí fungování města za pomoci odborníků i odborné veřejnosti.

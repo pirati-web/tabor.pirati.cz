@@ -75,8 +75,9 @@ S jeho realizací bude spjatá architektonická soutěž studentů s důrazem na
 Budeme se snažit o jeho pravidelné aktualizování
 
 ## <a name="c8">Město sportu a vzdělání</a>
-- Budeme prosazovat férové a vyvážené rozdělování dotací mezi jednotlivé, předevsím dětí a mládeže, od nejmenších po nejstarší.
-- S podporou bude spojená také kontrola využití prostředků a zpětná analýza.
+- Budeme prosazovat férové a vyvážené rozdělování dotací mezi jednotlivé sporty.
+  Cíl je podpoit sportování předevsím dětí a mládeže, od nejmenších po nejstarší.
+- S podporou bude spojená kontrola využití prostředků a zpětná analýza.
 - Zmodernizujeme školství - budeme městem zřizované školy podporovat v modernizaci výuky, včetně alternativ.
 - Podpoříme rekonstrukce škol a školek.
 - Zachováme současnou výši podpory výkonnostního sportu. Ale zavedeme kontrolu využití dotací.

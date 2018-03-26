@@ -37,36 +37,22 @@ keywords: organizace,transparence,politika
         {% include shared/articlesumary.html %}
         </div>
       {% endfor %}
-        <h3><a href="/clanky/">Ostatní články ...</a></h3>
+        <h4><a href="/clanky/">Ostatní články ...</a></h4>
       </section>
+
+      <section id="akce" class="mt-3">
+        <h2>nejbližší akce</h2>
+
+        {% for item in site.events limit:3 %}
+        {% include shared/eventsummary.html item=item %}
+        {% endfor %}
+
+      </section>
+
     </div>
 
     <div class="col-sm-12 col-lg-4">
-      <section id="program">
-        <div class="card">
-          <div class="card-header text-white" style="background-color: #383076;">
-            <h3>Komunální program</h3>
-          </div>
-          <ol class="list-group list-group-flush">
-            {% include program/list.html class="list-group-item" %}
-          </ol>
-          <div class="card-footer">
-            <h3><a href="/program/">PODROBNÝ PROGRAM ...</a></h3>
-          </div>
-        </div>
-      </section>
-
-      <section id="facebook">
-        <div class="card mt-3">
-          <div class="card-header text-white" style="background-color: #4260b4;">
-            <h3>sleduj nás na facebooku</h3>
-          </div>
-          <div class="card-body">
-            Naše faceboková stránka je:
-            <h3><a href="{{ site.facebookurl }}" target="_blank">Piráti Tábor</a></h3>
-          </div>
-        </div>
-      </section>
+      {% include rightbar.html %}
     </div>
   </div>
 

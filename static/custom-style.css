@@ -8,6 +8,11 @@ body {
   border-left: 3px solid #383076;
 }
 
+.splashdiv {
+  height: 10em;
+  overflow: hidden;
+}
+
 .middle-bar h1 {
   color: white;
 }
@@ -41,6 +46,7 @@ body {
 .card-header h3 {
   text-transform: uppercase;
   margin: 0;
+  font-size: 25px;
 }
 
 #downlinks a {
@@ -57,7 +63,7 @@ body {
   background-image: url("/static/banner.jpg");
   background-color: black;
   background-position: center top;
-  background-size: 100%;
+  background-size: auto;
   background-repeat: no-repeat;
   border: none;
   margin-bottom: 2em;
@@ -192,13 +198,22 @@ margin-left: 10px;}
   clear: both;
 }
 
+.card .list-group-item {
+  font-size: 16px;
+}
+
+article .perex {
+  font-size: 14px;
+}
 article {
   margin-bottom: 2em;
 }
 article h3 a {
   color: #383076;
   text-transform: uppercase;
+  font-size: 25px;
 }
 .blog h1 {
   text-transform: uppercase;
+  font-size: 25px;
 }

@@ -67,7 +67,7 @@ Chceme efektivní, měřitelnou a vyhodnotitelnou činnost.
 - Posílíme kontrolu méně bezpečných míst.
 
 ## <a name="c7">Atraktivni město pro všechny</a>
-- Podpoříme mladé rodiny – výstabu startovacích bytů.
+- Podpoříme mladé rodiny – výstavbu startovacích bytů.
 - Zasadíme se o dokončení pečovatelského domu u Nemocnice pod transparentním dohledem
 - Budeme aktivně pomáhat seniorům - mj. navrhneme [senior cohousing](https://www.cohousing.cz/senior-cohousing2/).
 S jeho realizací bude spjatá architektonická soutěž studentů s důrazem na co nejjednodušší konstrukci a cenu a tudíž maximalizaci kapacity
@@ -76,7 +76,7 @@ Budeme se snažit o jeho pravidelné aktualizování
 
 ## <a name="c8">Město sportu a vzdělání</a>
 - Budeme prosazovat férové a vyvážené rozdělování dotací mezi jednotlivé sporty.
-  Cíl je podpoit sportování předevsím dětí a mládeže, od nejmenších po nejstarší.
+  Cíl je podpořit sportování především dětí a mládeže, od nejmenších po nejstarší.
 - S podporou bude spojená kontrola využití prostředků a zpětná analýza.
 - Zmodernizujeme školství - budeme městem zřizované školy podporovat v modernizaci výuky, včetně alternativ.
 - Podpoříme rekonstrukce škol a školek.

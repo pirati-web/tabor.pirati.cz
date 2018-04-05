@@ -10,7 +10,7 @@ keywords: program, piráti, tábor, vize
 
 Chceme, aby Tábor byl městem, kde je radost žít.
 A nejen dnes, ale také v budoucnosti.
-K tomu je třeba, aby rozvíjel na základě koncepce, která vznikne ve spolupráci odborníků a občanů města.
+K tomu je třeba, aby se rozvíjel na základě koncepce, která vznikne ve spolupráci odborníků a občanů města.
 
 Zde je devět kapitol, které obsahují nápady a opatření, jak toho dosáhnout:
 

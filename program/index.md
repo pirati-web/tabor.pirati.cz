@@ -10,7 +10,7 @@ keywords: program, piráti, tábor, vize
 
 Chceme, aby Tábor byl městem, kde je radost žít.
 A nejen dnes, ale také v budoucnosti.
-K tomu je třeba, aby rozvíjel na základě koncepce, která vznikne ve spolupráci odborníků a občanů města.
+K tomu je třeba, aby se rozvíjel na základě koncepce, která vznikne ve spolupráci odborníků a občanů města.
 
 Zde je devět kapitol, které obsahují nápady a opatření, jak toho dosáhnout:
 
@@ -67,16 +67,16 @@ Chceme efektivní, měřitelnou a vyhodnotitelnou činnost.
 - Posílíme kontrolu méně bezpečných míst.
 
 ## <a name="c7">Atraktivni město pro všechny</a>
-- Podpoříme mladé rodiny – výstabu startovacích bytů.
-- Zasadíme se o dokončení pečovatelského domu u Nemocnice pod transparentním dohledem
+- Podpoříme mladé rodiny – výstavbu startovacích bytů.
+- Zasadíme se o dokončení pečovatelského domu u Nemocnice pod transparentním dohledem.
+- Budeme řešit nedostatečný počet ordinací praktiků, zubařů a pediatrů.
 - Budeme aktivně pomáhat seniorům - mj. navrhneme [senior cohousing](https://www.cohousing.cz/senior-cohousing2/).
-S jeho realizací bude spjatá architektonická soutěž studentů s důrazem na co nejjednodušší konstrukci a cenu a tudíž maximalizaci kapacity
-- Podporujeme stávající akční plán sociálních služeb.
-Budeme se snažit o jeho pravidelné aktualizování
+S jeho realizací bude spjatá architektonická soutěž studentů s důrazem na co nejjednodušší konstrukci a cenu a tudíž maximalizaci kapacity.
+- Podporujeme stávající akční plán sociálních služeb a budeme se snažit o jeho pravidelnou aktualizaci.
 
 ## <a name="c8">Město sportu a vzdělání</a>
 - Budeme prosazovat férové a vyvážené rozdělování dotací mezi jednotlivé sporty.
-  Cíl je podpoit sportování předevsím dětí a mládeže, od nejmenších po nejstarší.
+  Cíl je podpořit sportování především dětí a mládeže, od nejmenších po nejstarší.
 - S podporou bude spojená kontrola využití prostředků a zpětná analýza.
 - Zmodernizujeme školství - budeme městem zřizované školy podporovat v modernizaci výuky, včetně alternativ.
 - Podpoříme rekonstrukce škol a školek.

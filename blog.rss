@@ -1,7 +1,7 @@
 ---
 origin: /
 title: Piráti Tábor | blog
-description: Táborská politika viděna pirátskýma očima
+description: Dění okolo politiky a pirátů v Táboře
 ---
 
 <?xml version='1.0' encoding='utf-8' ?>
@@ -12,5 +12,6 @@ description: Táborská politika viděna pirátskýma očima
   <description>{{page.description}}</description>
   <language>cs</language>
   {% for item in site.posts limit:40 %}{% include shared/rss-item.xml %}{% endfor %}
+  {% for item in site.data.akce limit:3 %}{% include shared/rss-item.xml %}{% endfor %}
 </channel>
 </rss>

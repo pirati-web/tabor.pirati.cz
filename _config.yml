@@ -5,9 +5,6 @@ markdown: kramdown
 facebookurl: https://www.facebook.com/piratitabor
 logo: /static/logo.png
 
-collections:
-  - events
-
 gems:
   - jekyll-paginate
   - jekyll-sitemap

@@ -5,7 +5,7 @@ category: CLANKY
 title: Lídrem kandidátky komunálek 2018 bude Václav Klecanda
 date: '2018-04-12'
 author: Martin Mareda
-image: /static/media/vk_leader.png
+image: /static/media/vk_leader.jpg
 description: Lídrem Pirátů do komunálních voleb 2018 byl zvolen programátor Václav Klecanda
 tags: 'volby,tz'
 ---

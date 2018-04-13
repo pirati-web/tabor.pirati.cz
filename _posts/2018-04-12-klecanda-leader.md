@@ -10,10 +10,11 @@ description: Lídrem Pirátů do komunálních voleb 2018 byl zvolen programáto
 tags: 'volby,tz'
 ---
 
-Na včerejším setkání Táborských Pirátů se, jako hlavní téma, řešila osoba lídra kandidátky pro podzimní  komunální volby.
-Lídrem Pirátů do komunálních voleb 2018 byl zvolen Václav Klecanda, programátor, systémový architekt a fanda transparence a moderního přístupu k veřejné správě.
-Muž plný ideálů s technickým vhledem na téma otevřenosti a "chytrosti" měst.
-Zároveň člověk nijak nenapojený na některou z podnikatelských či politických "part".
+Na včerejším setkání Táborských Pirátů se, jako hlavní téma, řešila osoba lídra kandidátky pro podzimní komunální volby.
+Po krátké debatě byl zvolen Mgr. Václav Klecanda, programátor a systémový architekt,
+mladý muž s širokým technickým přehledem v problematice otevřenosti a „chytrosti“ měst. 
+Mimo to je velkým fandou transparence a moderního přístupu k fungování veřejných institucí. 
+Zároveň je to člověk nenapojený na žádnou z podnikatelských či politických "part".
 
 > Miloš Tuháček: mám z této volby radost.
 I s ohledem na čtyři roky osvědčovanou názorovou shodu mezi pirátskou částí JINAK! a mnou jsem se pak sám rozhodl rovněž podpořit Piráty svou kandidaturou.

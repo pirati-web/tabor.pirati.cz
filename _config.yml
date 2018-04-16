@@ -9,7 +9,7 @@ gems:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-feed
-paginate: 7
+paginate: 4
 paginate_path: "/clanky/:num/"
 keywords: tábor,piráti
 url: https://tabor.pirati.cz

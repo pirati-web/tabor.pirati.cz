@@ -45,6 +45,7 @@ body {
 .metadata autor {
   padding: 4px;
   color: white;
+  background-color: #383076
 }
 
 .card-header h3 {

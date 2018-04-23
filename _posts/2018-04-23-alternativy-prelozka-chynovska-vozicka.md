@@ -16,7 +16,7 @@ a nenutit veškerou kamionovou dopravu jezdit některou částí města,
 nepochopitelně tlačilo tuto přeložku.
 Stavět de-facto obchvat města uprostřed obydlené části města ve 21. století není štastné.
 Je to ta nejhorší, nejdražší a nejkontroverznější varianta,
-které bez své další etapy, která je ale v nedohlednu, nepovede k řešení.
+která bez své další etapy, která je ale v nedohlednu, nepovede k řešení.
 Přitom napojit průmyslové zóny v Táboře na D3 není žádná věda.
 
 <img src="/static/media/s_prelozkou.jpg"
@@ -29,7 +29,7 @@ Doprava ze všech směrů, tzn. od Písku, Prahy, Pelhřimova - D1 a od Českýc
 se v posledním úseku sleje,
 aby kolem celých Měšic následně sjela směrem do města a vystoupala kopec k hasičům
 a následně novou přeložkou do PZ (tmavě modrá).
-Do PZ2 se ale nedostanou jinak než přes družstevní ulici v Čekanicích (hnědá).
+Do PZ2 se ale nedostanou jinak, než přes Družstevní ulici v Čekanicích (hnědá).
 
 ## Alternativa
 
@@ -44,7 +44,7 @@ a tudíž město Tábor může o přesné trase rozhodovat bez kraje.
 Nejlepším řešením se zdá být změnit trasu tohoto záměru podle obrázku vlevo.
 
 Toto řešení využívá staré silnice mezi Čekanicemi a silnicí na Hlinici (I/137).
-Jak je vidět, svádí veškerou dopravu (s vyjímkou směru od Vožice) na kruhový objezd
+Jak je vidět, svádí veškerou dopravu (s výjímkou směru od Vožice) na kruhový objezd
 u nájezdu na D3 (písmeno K).
 Z něj se pak odděluje doprava do PZ2 (úsek S) a do PZ (úsek A).
 Do obou průmyslových zón se tak lze dostat bez průjezdu obydlenými částmi.
@@ -57,7 +57,7 @@ Oba úseky zároveň leží na pozemcích města a území je v [územním plán
 Stačí tedy vypracovat projekt a všechny studie s ním související, a zároveň spolupracovat s Jihočeským krajem.
 Veškeré tyto akce se můžou dít souběžně, aby se realizace neprotahovala.
 
-Shrneme-li výhody oproti městem plánovanému řešení, toto je:
+Shrneme-li výhody oproti městem plánovanému řešení, tak toto je:
 - nesrovnatelně levnější
 - jednodušší co do výkupu pozemků
 - dál od města, tudíž to nepostihne žádnou z obydlených oblastí

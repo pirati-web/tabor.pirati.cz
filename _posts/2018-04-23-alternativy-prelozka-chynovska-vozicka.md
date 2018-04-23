@@ -1,9 +1,9 @@
 ---
 layout: blog
-published: false
+published: true
 category: CLANKY
 image: /static/media/alternativy_prelozky.png
-title: Jak napojit průmyslové zony v Táboře není žádná věda
+title: Alternativy přeložky Chýnovská - Vožická
 description: 'Rozebrání několika variant jak napojit průmyslové zony v Táboře'
 tags: doprava, investice
 author: Václav Klecanda
@@ -17,6 +17,7 @@ nepochopitelně tlačilo tuto přeložku.
 Stavět de-facto obchvat města uprostřed obydlené části města ve 21. století není štastné.
 Je to ta nejhorší, nejdražší a nejkontroverznější varianta,
 které bez své další etapy, která je ale v nedohlednu, nepovede k řešení.
+Přitom napojit průmyslové zóny v Táboře na D3 není žádná věda.
 
 <img src="/static/media/s_prelozkou.jpg"
   alt="Dopravní toky po výstavbě přeložky Chýnovská-Vožická"
@@ -48,9 +49,19 @@ u nájezdu na D3 (písmeno K).
 Z něj se pak odděluje doprava do PZ2 (úsek S) a do PZ (úsek A).
 Do obou průmyslovýc zón se tak lze dostat bez průjezdu obydlenými částmi.
 
-Oba úseky zároveň leží na pozemcích města, a území je v [územním plánu Tábora](http://www.taborcz.eu/uzemni-plan-mesta-tabor/d-37476) vyhrazeno pro dopravní stavby.
+<img src="/static/media/uzemni_plan_cekanice_2018.jpg"
+  alt="Dopravní toky po realizaci spravného napojení průmyslové zony"
+  style="float: right; margin-left: 1em; width: 40%" />
+
+Oba úseky zároveň leží na pozemcích města, a území je v [územním plánu Tábora](http://www.taborcz.eu/uzemni-plan-mesta-tabor/d-37476) (obrázek vpravo) vyhrazeno pro dopravní stavby.
 Stačí tedy vypracovat projekt a všechny studie s ním související, a zároveň spolupracovat s Jihočeským krajem.
 Veškeré tyto akce se můžou dít souběžně, aby se realizace neprotahovala.
+
+Shrneme-li výhody oproti městem plánovanému řešení, toto je:
+- nesrovnatelně levnější
+- jednodušší co do výkupu pozemků
+- dál od města, tudíž to nepostihne žádnou z obydlených oblastí
+- koncepční - řeší napojení průmyslové zony z vnějšku města
 
 ## Závěr
 

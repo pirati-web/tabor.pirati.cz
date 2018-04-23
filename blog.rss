@@ -11,7 +11,13 @@ description: Dění okolo politiky a pirátů v Táboře
   <link>{{site.baseurl}}</link>
   <description>{{page.description}}</description>
   <language>cs</language>
-  {% for item in site.posts limit:40 %}{% include shared/rss-item.xml %}{% endfor %}
-  {% for item in site.data.akce limit:3 %}{% include shared/rss-item.xml %}{% endfor %}
+  {% for item in site.posts limit:40 %}
+    {% include shared/rss-item.xml %}
+    <p>{{ item.url }}</p>
+  {% endfor %}
+  {% for item in site.data.akce limit:3 %}
+    {% include shared/rss-item.xml %}
+    <p>{{ item.url }}</p>
+  {% endfor %}
 </channel>
 </rss>

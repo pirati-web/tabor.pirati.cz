@@ -44,8 +44,7 @@ mel bych odborny dotaz: v clanku 229. v 1.aktualizaci ZUR se pise, ze "úseky D2
 Znamena to, ze hlavnim planovacem v tomto by mel byt celek mensi nez
 krajske urovne, tedy v tomto pripade mesto Tabor?__
 
-> Klása Jiří: Dobrý den,
-citovaný text si je potřeba vykládat tak, že tyto záměry nemusí být před svou realizací vymezeny v Zásadách územního rozvoje Jihočeského kraje, ale postačí jejich vymezení v územním plánu města Tábor. Neznamená to však, že město Tábor je může vymezit libovolně, ale musí tak učinit v dohodě s vlastníkem komunikace a s dotčenými orgány, které hájí zájmy podle zvláštních předpisů a na základě zpracovaných podkladů (vyhledávácí studie apod).
+> citovaný text si je potřeba vykládat tak, že tyto záměry nemusí být před svou realizací vymezeny v Zásadách územního rozvoje Jihočeského kraje, ale postačí jejich vymezení v územním plánu města Tábor. Neznamená to však, že město Tábor je může vymezit libovolně, ale musí tak učinit v dohodě s vlastníkem komunikace a s dotčenými orgány, které hájí zájmy podle zvláštních předpisů a na základě zpracovaných podkladů (vyhledávácí studie apod).
 
 > __Dekuji za odpověď,
 chápu ji správne tedy tak, ze tímto město Tábor získalo možnost
@@ -53,17 +52,20 @@ managementu daného záměru a JCK se tímto managementu sprostil?
 Abych osvětlil o co mi jde. Snažím se rozkličovat, na čem tento záměr
 ztroskotal.__
 
-> Klása Jiří: o "ztroskotání" záměru nemůže být řeč.  Stavba přeložky silnice II/137 Čekanice - Hlinice je stále součástí schváleného Programu investiční výstavby a oprav na silnicích II. a IIII. třídy na území Jihočeského kraje, který stanovuje prioritu výstavby těchto komunikací.  Tábor pouze získal právo obchvat vymezit ve svém územním plánu, aniž by byl předem vymezen v ZUR, ale vymezení musí dohodnout s krajem.  Tato situace by měla naopak realizaci záměru urychlit, protože nebude muset být řešen napřed v ZUR a teprve následně v ÚP.
+> o "ztroskotání" záměru nemůže být řeč.  Stavba přeložky silnice II/137 Čekanice - Hlinice je stále součástí schváleného Programu investiční výstavby a oprav na silnicích II. a IIII. třídy na území Jihočeského kraje, který stanovuje prioritu výstavby těchto komunikací.  Tábor pouze získal právo obchvat vymezit ve svém územním plánu, aniž by byl předem vymezen v ZUR, ale vymezení musí dohodnout s krajem. Tato situace by měla naopak realizaci záměru urychlit, protože nebude muset být řešen napřed v ZUR a teprve následně v ÚP.
 
 > __kdo urcuje poradi, v jakem se stavby
 realizuji? Je to politicke vyjednavani mesto vs. kraj nebo koordinace
 jednotlivych dopravnich odboru, nebo jiny mechanismus?__
 
-> Klása Jiří: v rámci všech stavebních akcí, které se realizují v oblasti dopravy je několik parametrů/podmínek, které musí být splněny, aby byla příslušná "akce" realizována. První parametr je priorita stanovená v příslušných Programech ([jeden z nich uvádíte v odkazu](http://www.kraj-jihocesky.cz/1226/programy_vystavby_a_oprav_na_silnicich_ii_a_iii_tridy_na_uzemi_kraje.htm)), a další základní podmínkou je stav přípravy stavby. Jak je zjevné z Programu, tak je připravována projekčně celá řada staveb. Základní podmínkou pro realizaci je, aby bylo získáno na stavbu pravomocné stavební povolení.  Třetím důležitým parametrem je zdroj financování akce.  Ačkoliv se to možná obecně neví, tak kraj financuje své dopravní stavby z různých zdrojů, namátkou např. pouze z vlastního rozpočtu, z fondu investic Správy a údržby silnic, z Integrovaného regionálního operačního programu, ze Státního fondu dopravní infrastruktury, z Operačního programu přeshraniční spolupráce atd. Každý z mimorozpočtových zdrojů má bohužel svá vlastní pravidla a je skutečností, že co se dá financovat z jednoho zdroje z druhého nelze.  Lze tedy konstatovat, že okamžik realizace je svázán právě i se zdrojem financování. Vedle těchto základních parametrů však existují i další dílčí, zpravidla specifické okolnosti k urychlení nebo posunutí realizace, kterými jsou např. vázaní zahájení realizace na financování stavebních objektů dotčeného Města či Obce. Velmi často se stává, že Města a Obce shánějí na své objekty (chodníky, překládky inženýrských sítí atp.) své vlastní dotace a Jihočeský kraj samozřejmě musí koordinovat zahájení staveb s jejich zajištění. Další okolností je zpravidla i nutná koordinace několika staveb v dotčeném území, aby nedošlo z důvodu několika uzavírek k nekontrolovatelnému zastavení dopravy v území.
+> v rámci všech stavebních akcí, které se realizují v oblasti dopravy je několik parametrů/podmínek, které musí být splněny, aby byla příslušná "akce" realizována. První parametr je priorita stanovená v příslušných Programech ([jeden z nich uvádíte v odkazu](http://www.kraj-jihocesky.cz/1226/programy_vystavby_a_oprav_na_silnicich_ii_a_iii_tridy_na_uzemi_kraje.htm)), a další základní podmínkou je stav přípravy stavby. Základní podmínkou pro realizaci je, aby bylo získáno na stavbu pravomocné stavební povolení. Třetím důležitým parametrem je zdroj financování akce. Lze tedy konstatovat, že okamžik realizace je svázán právě i se zdrojem financování.
+Přípravné práce v rozsahu projekčních prací si kraj zpravidla zajišťuje sám, i když existují případy, kdy se Město či Obec rozhodne, že s projektem kraji pomůže a  připraví  ho samo. To je nakonec i případ Tábora.
 
-Z konverzace tedy plyne, že priority staveb mělo největší možnost definovat město Tábor,
-jakožto subjekt připravující projektovou dokumentaci, výkupy pozemků a
-v neposlední řadě i územní plán.
+Z konverzace tedy plyne, že:
+- priority staveb mělo město Tábor možnost ovlivnit tím,
+že se, v koordinaci s krajem, rozhodlo připravit projektovou dokumentaci, výkupy pozemků a v neposlední řadě i územní plán.
+- záměr D29/8 (DZ) je stále na stole, akorát nemá prioritu
+
 
 ## historie PCHV - záměr D29/7
 

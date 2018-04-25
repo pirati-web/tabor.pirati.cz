@@ -85,6 +85,7 @@ S jeho realizací bude spjatá architektonická soutěž studentů s důrazem na
 ## <a name="c9">Živé město</a>
 - Zřídíme nové multifunkční kulturní centrum, kde se budou pořádat výstavy, workshopy, koncerty (vzorem je pro nás: [depo2015](https://www.depo2015.cz/)).
 - Připravíme revitalizaci přírodního amfiteátru Pintovka.
+- Zachováme samosprávné orgány příměstských částí - sousedská setkání
 - Budeme provádět důkladný výběr městem podpořených akcí.
 Součástí podpory bude také zpětná analýza účelnosti využití dotace.
 - Zpřístupníme legální graffiti plochy pro [velkoplošné malby](https://cs.wikipedia.org/wiki/Mural_art) a ve spolupráci s veřejností podpoříme i jiné současné formy umění.

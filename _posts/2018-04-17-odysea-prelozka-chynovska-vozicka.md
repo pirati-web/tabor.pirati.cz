@@ -18,7 +18,7 @@ Přesto se stále projektuje a připravuje stavba PCHV.
 Pojďme se tedy podívat, na příběh, jak jsem se chtěl dopátrat kterak se k plánům na PCHV dospělo a zda někdo řešil alternativy.
 
 Na [webu města](http://taborcz.eu/napojeni-prumyslove-zony-vozicka/ds-2073/archiv=0&p1=66503) se píše, že jedním z cílů PCHV je napojení průmyslových areálů na D3.
-Proto jsem se zajímal zda proběhlo nějaké [jednání o možnostech napojeni silnice 137 na D3](https://www.infoprovsechny.cz/request/jednani_o_moznostech_napojeni_si#incoming-11795).
+Proto jsem se zajímal zda proběhlo nějaké [jednání o možnostech napojeni silnice 137 na D3](https://www.infoprovsechny.cz/request/jednani_o_moznostech_napojeni_si#outgoing-8634).
 
 Odpovědí mi byla obecná konstatování, bez odkazů na příslušné zápisy a jiné dokumenty.
 Mj.:
@@ -67,7 +67,7 @@ Z konverzace tedy plyne, že:
 - záměr D29/8 (DZ) je stále na stole, akorát nemá prioritu
 
 
-## historie PCHV - záměr D29/7
+## Historie PCHV - záměr D29/7
 
 <img src="/static/media/stara_alomerace.jpg"
   alt="výkres zmeny č.5 Uzemniho planu sidelniho utvaru aglomerace Tabor"

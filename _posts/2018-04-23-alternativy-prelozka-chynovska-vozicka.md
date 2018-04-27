@@ -2,7 +2,7 @@
 layout: blog
 published: true
 category: CLANKY
-image: /static/media/alternativy_prelozky.png
+image: /static/media/alternativy_prelozky.jpg
 title: Alternativy přeložky Chýnovská - Vožická
 description: 'Rozebrání několika variant jak napojit průmyslové zóny v Táboře'
 tags: doprava, investice
@@ -24,10 +24,10 @@ Přitom napojit průmyslové zóny v Táboře na D3 není žádná věda.
   style="float: right; margin-left: 1em; width: 60%" />
 
 Na obrázku nahoře máme situaci i s nástinem jednotlivých variant.
-Pojďme si ukázat, jak by to fungovalo, kdyby se PCHV postavila.
+Pojďme si ale ukázat (obr. vpravo), jak by to fungovalo, kdyby se PCHV postavila.
 Doprava ze všech směrů, tzn. od Písku, Prahy, Pelhřimova - D1 a od Českých Budějovic
 se v posledním úseku sleje,
-aby kolem celých Měšic následně sjela směrem do města a vystoupala kopec k hasičům
+aby kolem celých Měšic následně sjela směrem do města, vystoupala kopec k hasičům
 a následně novou přeložkou do PZ (tmavě modrá).
 Do PZ2 se ale nedostanou jinak, než přes Družstevní ulici v Čekanicích (hnědá).
 
@@ -41,21 +41,31 @@ Z ["Odysey"](/clanky/2018/04/17/odysea-prelozka-chynovska-vozicka/) mj. plyne,
 že bylo uvažováno o prodloužení silnice z Písku až do Zaluží.
 Tento záměr vypadl ze Zásad územního rozvoje Jihočeského kraje
 a tudíž město Tábor může o přesné trase rozhodovat bez kraje.
-Nejlepším řešením se zdá být změnit trasu tohoto záměru podle obrázku vlevo.
 
-Toto řešení využívá staré silnice mezi Čekanicemi a silnicí na Hlinici (I/137).
+Nejlepším řešením je, podle Pirátů, na základě dostupných informací, změnit trasu tohoto záměru podle obrázku vlevo.
+Toto řešení využívá staré silnice mezi Čekanicemi a Vožickou (II/137).
 Jak je vidět, svádí veškerou dopravu (s výjímkou směru od Vožice) na kruhový objezd
 u nájezdu na D3 (písmeno K).
 Z něj se pak odděluje doprava do PZ2 (úsek S) a do PZ (úsek A).
 Do obou průmyslových zón se tak lze dostat bez průjezdu obydlenými částmi.
+
+<img src="/static/media/kruhac_zD3.jpg"
+  alt="Návrh kruhové křižovatky"
+  style="float: left; margin-right: 1em; width: 40%" />
+
+Úsek by mohl být napojen na I/19 kruhovým objezdem s jedním průběžným pruhem (obj.vlevo).
+Ten by umožnil plynule pokračovat po sjezdu z D3.
+
+Na Vožickou silnici úsek ústí hned za mostem přes D3.
+Ze směru z Tábora je toto místo viditelné již z dálky.
+Z opačného směru však je za horizontem a je tak potencionálně nebezpečné.
+Proto je v návrhu "zpomalovací" kruhový objezd K3, který je naopak dobře vidět z druhé strany.
 
 <img src="/static/media/uzemni_plan_cekanice_2018.jpg"
   alt="Dopravní toky po realizaci správného napojení průmyslové zóny"
   style="float: right; margin-left: 1em; width: 40%" />
 
 Oba úseky zároveň leží na pozemcích města a území je v [územním plánu Tábora](http://www.taborcz.eu/uzemni-plan-mesta-tabor/d-37476) (obrázek vpravo) vyhrazeno pro dopravní stavby.
-Stačí tedy vypracovat projekt a všechny studie s ním související, a zároveň spolupracovat s Jihočeským krajem.
-Veškeré tyto akce se můžou dít souběžně, aby se realizace neprotahovala.
 
 Shrneme-li výhody oproti městem plánovanému řešení, tak toto je:
 - nesrovnatelně levnější

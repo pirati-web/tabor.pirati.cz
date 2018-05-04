@@ -1,0 +1,40 @@
+
+socials:
+  -
+    url: https://www.facebook.com/pirati.jck/
+    title: Piráti jih
+    icon: fa-facebook
+  -
+    url: https://www.youtube.com/channel/UC1ng92Mw2Ris_hofy95624Q
+    title: Piráti jih
+    icon: fa-youtube
+
+sidebar:
+  youtube:
+    channel: https://www.youtube.com/channel/UC1ng92Mw2Ris_hofy95624Q
+    video: https://www.youtube.com/embed/GWQZ9PbQgko
+  facebook:
+    url: https://www.facebook.com/pirati.jck/
+    title: Piráti Českobudějovicko
+  lide:
+    link: '/kontakt/'
+    items:
+      - photo: /assets/img/people/lukas_kolarik.jpg
+        link: https://www.pirati.cz/lide/lukas_kolarik
+        name: Lukáš Kolářík
+        desc: volební leader
+      - photo: https://www.pirati.cz/_media/lide/jana_rohova.jpg?w=300
+        link: https://www.pirati.cz/lide/jana_rohova
+        name: Bc. Jana Rohová
+        desc: kontaktní osoba, koordinátorka
+
+joinactionurl: https://formspree.io/vencax77@gmail.com
+
+footer:
+  kontakty:
+    - title: Media
+      name: Jana Rohová
+      email: jana.rohova@pirati.cz
+    - title: Dobrovolníci
+      name: Jana Rohová
+      email:  jana.rohova@pirati.cz

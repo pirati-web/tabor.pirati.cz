@@ -222,3 +222,7 @@ article h3 a {
   text-transform: uppercase;
   font-size: 25px;
 }
+
+form[name="joinform"] {
+  margin-bottom: 2em;
+}

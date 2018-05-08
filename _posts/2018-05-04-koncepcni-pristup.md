@@ -4,7 +4,7 @@ published: true
 category: CLANKY
 image: /static/media/koncepce.jpg
 title: Koncepční přístup
-description: Mít koncepci u velké organizace je stěžejní. V článku je popis co by měla obsahovat. Je uveden příklad koncepce IT.
+description: Mít koncepci je pro velké organizace stěžejní. V článku je popis, co by měla obsahovat. Je uveden příklad koncepce IT.
 tags: it, nazory, koncepce
 author: Václav Klecanda
 date: 2018-05-06

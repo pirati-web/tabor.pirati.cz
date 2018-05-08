@@ -59,7 +59,7 @@ Ten by umožnil plynule pokračovat po sjezdu z D3.
 Na Vožickou silnici úsek ústí hned za mostem přes D3.
 Ze směru z Tábora je toto místo viditelné již z dálky.
 Z opačného směru však je za horizontem a je tak potencionálně nebezpečné.
-Proto je v návrhu "zpomalovací" kruhový objezd K3, který je naopak dobře vidět z druhé strany.
+Proto jsou v návrhu "zpomalovací" pásy (Z) které dojez na horizont zpomalí.
 
 <img src="/static/media/uzemni_plan_cekanice_2018.jpg"
   alt="Dopravní toky po realizaci správného napojení průmyslové zóny"

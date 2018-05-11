@@ -63,3 +63,7 @@ Na veškerých krocích lze spolupracovat s ostatními městy,
 protože historicky mají stejné nebo podobné softwarové vybavení a stejný cíl.
 Spolupracovat na koordinovaném vývoji software lze v rámci společné organizace,
 například účastí v organizaci [www.otevrenamesta.cz](https://www.otevrenamesta.cz/cile/).
+
+## Závěr
+Vytvoření i takto jednoduché koncepce umožňuje jasně ukázat, kde jsme, kam se chceme posunout a jaké konkrétní kroky proto hodláme udělat. 
+Je to stanovení jasného plánu, který má veřejnost možnost sledovat, měřit a případně kritizovat.

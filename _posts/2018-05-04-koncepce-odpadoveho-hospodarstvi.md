@@ -11,10 +11,10 @@ date: 2018-05-07
 ---
 
 Odpady se pomalu dostávájí do popředí zájmu radnic.
-Vdyť do několika málo let má výrazně klesnou podíl skládkovaného odpadu.
+Vdyť do několika málo let má výrazně klesnout podíl skládkovaného odpadu.
 Piráti mají v tomto jasno: nejlepší je pokud možno odpad nevyprodukovat.
-Když už je vyprodukuj, tak ho vytřídím a umožním jej recyklovat.
-Teprve pak ojediněle přichází na řadu směsný odpad.
+Když už jej vyprodukuji, tak ho vytřídím a umožním jej recyklovat.
+Teprve pak, ojediněle, přichází na řadu směsný odpad.
 
 #### Cíl
 - lidé třídí odpad na co nejmenší složky
@@ -37,7 +37,7 @@ Teprve pak ojediněle přichází na řadu směsný odpad.
 - rozmístit kontejntery na hliník, kovy a tetrapaky všude, kde nejsou; mohou být menší
 - na základě rešerše s odborníky vytvořit plán na podobu, instalaci, osvětu a fungování komunitních kompostérů na biologický odpad
 - zrevidovat smlouvu se společností Rumpold, zda vyžaduje dostatečné úsilí o co nejširší a nejjednodušší třídění. Pakliže ne, ukončit ji a analyzovat, zda outsourcing těchto služeb je pro město výhodný
-- zprovoznit systém podporující pozitivní motivaci pro třídění odpadu formou finanční odměny (např. [www.mojeodpadky.cz](https://www.mojeodpadky.cz/))
+- zprovoznit systém pozitivní motivace pro třídění odpadu formou finanční odměny (např. [www.mojeodpadky.cz](https://www.mojeodpadky.cz/))
 - vytvořit jednoduchý formulář na webu, který umožní objednat:
   - vyvážení kontejneru
   - prodej/pronájem kontejneru samotného

@@ -26,8 +26,8 @@ Zde je devět kapitol, které obsahují nápady a opatření, jak toho dosáhnou
     <div class="kandidatka col-sm-12 col-md-4">
       <img src="{{item.img}}" alt="foto: {{item.name}}, {{item.age}}" />
       <div class="text">
-        <h4>{{item.name}}, {{item.age}}</h4>
-        <p>{{item.desc}}</p>
+        <h4>{{item.name}}</h4>
+        <p>{{item.age}} let, {{item.desc}}</p>
       </div>
     </div>
   {% endfor %}

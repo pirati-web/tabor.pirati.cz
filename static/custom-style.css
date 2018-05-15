@@ -1,5 +1,25 @@
+@font-face {
+  font-family: 'Bebas Neue';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Bebas Neue'), url('/static/BebasNeue.woff') format('woff');
+}
+
 body {
-  font-family: 'Mina', sans-serif;
+  font-family: 'Roboto', sans-serif;
+  font-weight: normal;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Bebas Neue', sans-serif;
+}
+h1 {
+  font-size: 4em;
+  margin-top: 10px;
+}
+
+ol h4, ul h4 {
+  margin: 0;
 }
 
 .blog blockquote {
@@ -51,7 +71,6 @@ body {
 .card-header h3 {
   text-transform: uppercase;
   margin: 0;
-  font-size: 25px;
 }
 
 #downlinks a {
@@ -74,14 +93,15 @@ body {
   margin-bottom: 2em;
   border-radius: 0;
 }
-.callout h1 {
+.callout #kdo {
   font-size: 50px;
 }
-.callout h2 {
+.callout #co {
   font-size: 24px;
+  font-weight: lighter;
 }
 #calloutpopis {
-  font-size: 16px;
+
 }
 
 .faded {
@@ -111,7 +131,7 @@ body {
   color: white;
 }
 .skret {
-  font-size: small;
+  margin-bottom: 1em;
   color: #444;
 }
 
@@ -121,26 +141,6 @@ body {
 }
 .navbar .nav-item:first-child {
   border-left: none;
-}
-
-/* candidate list */
-
-div.candidatecolumn {padding-left:0px !important;}
-
-#candidatelist li.active-candidate, #candidatelist li:hover {
-  background:yellow;
-}
-#candidatelist strong {display:block;}
-#candidatelist img {float:left;margin-right:5px;}
-.orbit-timer, .orbit-slide-number {display:none;}
-#candidatelist li {height:65px;}
-ul#candidatelist {margin-left:0px;list-style-type: none;}
-
-@media only screen and (max-width: 48em) {
-#candidatelist img {display:none;}
-#candidatelist strong {display:inline;padding-right:5px;}
-#candidatelist li {display:inline;}
-#candidatelist span {display:none;}
 }
 
 /* program */
@@ -214,13 +214,10 @@ article {
   margin-bottom: 2em;
 }
 article h3 a {
-  color: #383076;
   text-transform: uppercase;
-  font-size: 25px;
 }
 .blog h1 {
   text-transform: uppercase;
-  font-size: 25px;
 }
 
 form[name="joinform"] {
@@ -231,10 +228,9 @@ form[name="joinform"] {
   position: relative;
 }
 
-/*.kandidatka .text {
-  position: absolute;
-  right: 1em;
-}*/
+.kandidatka .text {
+  text-align: center;
+}
 
 .kandidatka img {
   width: 100%;

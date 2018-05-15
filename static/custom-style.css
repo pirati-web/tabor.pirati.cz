@@ -226,3 +226,18 @@ article h3 a {
 form[name="joinform"] {
   margin-bottom: 2em;
 }
+
+.kandidatka {
+  position: relative;
+}
+
+/*.kandidatka .text {
+  position: absolute;
+  right: 1em;
+}*/
+
+.kandidatka img {
+  width: 100%;
+  border-radius: 50%;
+  margin-bottom: 1em;
+}

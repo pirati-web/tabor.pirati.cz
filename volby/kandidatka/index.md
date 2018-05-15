@@ -2,6 +2,7 @@
 title: Kandidátka 2018
 layout: page
 published: true
+image: /static/media/top11.jpg
 description: 'Kandidátka do komunálních voleb 2018 v Táboře'
 keywords: piráti, tábor, volby, kandidátka
 ---

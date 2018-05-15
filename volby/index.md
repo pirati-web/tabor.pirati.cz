@@ -18,7 +18,8 @@ Zde je devět kapitol, které obsahují nápady a opatření, jak toho dosáhnou
 
 #### [Kompletní program ...](program/)
 
-<a name="kandidatka"><h2>Kandidátka</h2></a>
+<a name="kandidatka"></a>
+## Kandidátka
 
 <div class="row">
   {% for item in site.data.kandidatka limit:3 %}

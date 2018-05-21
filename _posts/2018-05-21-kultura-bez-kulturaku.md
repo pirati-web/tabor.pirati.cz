@@ -10,7 +10,8 @@ author: Jan Příbramský
 date: 2018-05-21
 ---
 
-Tábor bezpochyby bylo a je jedním z nejkulturnějších měst v jižních Čechách. \Vyrostla zde celá řada umělců a skupin a vznikla spousta organizací zabývajících se kulturou nejen na místní a republikové úrovni, ale i na té světové.
+Tábor bezpochyby bylo a je jedním z nejkulturnějších měst v jižních Čechách.
+Vyrostla zde celá řada umělců a skupin a vznikla spousta organizací zabývajících se kulturou nejen na místní a republikové úrovni, ale i na té světové.
 Vyjmenovat všechny je takřka nemožné, stejně jako je nemožné obsáhnout v článku celou problematiku Kultury a její podpory v našem městě.
 Co by ale město mělo dělat a mít pod kontrolou, jsou jistě tři zásadní body.
 Těmi jsou dotace a dotační politika, vyšší podpora okrajových stylů kultury, protože ta mainstreamová si na sebe vydělá a v neposlední řadě akce městem pořádané.

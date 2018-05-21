@@ -32,13 +32,17 @@ keywords: organizace,transparence,politika
   <div class="row">
     <div class="col-sm-12 col-lg-8">
       <section id="posts">
-      {% for post in site.posts limit:2 %}
+      {% for post in site.posts limit:3 %}
         <div class="column">
         {% include shared/articlesumary.html %}
         </div>
       {% endfor %}
         <h4><a href="/clanky/">Ostatní články ...</a></h4>
       </section>
+    </div>
+
+    <div class="col-sm-12 col-lg-4">
+      {% include rightbar.html %}
 
       <section id="akce" class="mt-3">
         <h2>nejbližší akce</h2>
@@ -48,11 +52,6 @@ keywords: organizace,transparence,politika
         {% endfor %}
 
       </section>
-
-    </div>
-
-    <div class="col-sm-12 col-lg-4">
-      {% include rightbar.html %}
     </div>
   </div>
 

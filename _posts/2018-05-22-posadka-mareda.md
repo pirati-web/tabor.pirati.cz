@@ -30,7 +30,7 @@ Chci, aby financování sociálních služeb mělo nějakou hlavu a patu a ne, a
 Další velké téma je dostupné bydlení. Přesto, že Tábor disponuje velkým bytovým fondem, poptávka po nájemním bydlení vysoko přesahuje nabídku.
 Komunální program bude i tuhle oblast řešit.
 Velkým problémem je i dostupnost zubařů, pediatrů a dalších specialistů.
-Ačkoliv má obec velmi omezené možnosti, jak tento nedostatek řešit, věřím, že nějakými pobídkami( výhodnější nájmy, bezúročné půjčky...atd) bychom doktory do Tábora přilákat mohli.
+Ačkoliv má obec velmi omezené možnosti, jak tento nedostatek řešit, věřím, že pobídkami (výhodnější nájmy, bezúročné půjčky, atd.) bychom doktory do Tábora přilákat mohli.
 Dalším  tématem je určitě tepelné hospodářství.  
 Spory s Táborskou teplárnou nabývají na intenzitě a vše směřuje k radikálnímu rozetnutí problému.
 Piráti u toho budou a pohlídáme, aby občané Tábora z toho vzešli jako vítězové.

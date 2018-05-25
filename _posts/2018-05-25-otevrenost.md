@@ -25,7 +25,7 @@ A na tomto poli Piráti excelují.
 > Víte že? „[Rozklikávací rozpočet](http://202020.cz/rozklikavaci-rozpocet/) je způsob, jak jednoduše a srozumitelně prezentovat hospodaření radnice na internetu. Jedná se o jedno z nejefektivnějších protikorupčních opatření.“
 
 V Táboře se již podařilo některé kroky směrem k otevřenosti udělat.
-V loňském roce  sdruženi Jinak! tlačilo na procesní ukotvení postupu přípravy a realizace stavebních investic.
+V loňském roce  sdružení Jinak! tlačilo na procesní ukotvení postupu přípravy a realizace stavebních investic.
 Z pera člena kontrolního výboru Vítězslava Dohnala vzešel dokument, který tento proces popsal a navíc měl ambici do něj aspoň trochu vtáhnout veřejnost.
 Proces přípravy velkých investic byl do té doby obestřený tajemstvím.
 Tento dokument zastupitelstvo přijalo usnesením, které nařizovalo připravované investice zveřejňovat na webu.
@@ -38,7 +38,7 @@ Oproti usnesení je podrobnější, obsahuje názory diskutujících a také kdo
 
 Dalším, velice důležitým krokem k otevřenosti je zveřejňování jmenovitého hlasování radních, zápisu z jejich jednání a materiálů k jednání.
 Na radě města vzniká většina důležitých rozhodnutí.
-Od února 2015 se tak veřejnost doví, kdo pro co na radě zvedl ruku.
+Od února 2015 se tak veřejnost dozví, kdo pro co na radě zvedl ruku.
 Může tedy zkontrolovat své politiky, zda opravdu plní předvolební sliby, nenechat se příště koupit koblihou nebo párkem s pivem, a opravdu jim to spočítat ve volbách.
 
 Mnoho kroků k pirátskému standardu otevřeného města ale stále zbývá udělat.
@@ -46,7 +46,7 @@ Proto táborští Piráti mají v programu městský transparentní účet, rozk
 Povedeme veřejný online kalendář vedení města a evidenci lobbistických schůzek.
 
 Otevřenost musí být také směrem dovnitř.
-To znamená možnost občana být vyslyšen, nebo komunikovat, vyřizovat po internetu.
+To znamená možnost občana být vyslyšen, nebo komunikovat a vyřizovat agendu po internetu.
 Proto od Pirátů lze čekat především odstranění komunikačních bariér mezi městem a občany.
 Budeme tlačit na možnost vyřizovat veškerou agendu s městem i přes internet, ale také na vzájemnou provázanost dat, aby nebylo třeba s úřady komunikovat vícekrát.
 Navíc, jestliže se nerozjede uspokojivá forma participativního rozpočtu, který se na fóru Zdravého města, díky přítomným pirátům, podařilo prosadit jako jednu z deseti priorit, budeme chtít nápravu.
@@ -57,9 +57,8 @@ Jde o nástroj zapojení veřejnosti do procesu rozhodování skrze formulován�
 
 <img src="/static/media/cssd_web.jpg" alt="prázdný wen táborské ČSSD" style="width: 100%" />
 
-<img src="/static/media/ano_google.jpg"
-  alt="výkres zmeny č.5 Uzemniho planu sidelniho utvaru aglomerace Tabor"
-  style="float: right; margin-left: 2em; width: 40%" />
+<img src="/static/media/ano_google.jpg" alt="ano nemá ani web, hahaha"
+  style="float: right; margin-left: 2em; width: 60%" />
 
 Uvidíme, co do té doby nabídnou na poli otevřenosti ostatní politické strany.
 Nyní žádný ze subjektů nemá, s výjimkou T2020 a Jinak!, program do komunálních voleb na svých webových stránkách.

@@ -14,7 +14,7 @@ date: 2018-05-25
 Město, které aktivně sdílí vše, co může, aby občané viděli, co dělá a co plánuje v budoucnu.
 Město, které je otevřené názorům svých občanů a odborné veřejnosti.
 To je vize, kterou mají Piráti o Táboře.
-Jedině tak lze získat důvěru v to, že je řízené správně, že neplýtvá prostředky a že umožňuje občanům účastnit se - participovat, na jeho fungování.
+Jedině tak lze získat důvěru v to, že je řízené správně, že neplýtvá prostředky a že umožňuje občanům účastnit se - participovat na jeho fungování.
 
 Všude tam, kde si již uvědomili, jaké výhody otevřenost přináší, již mají na webových stránkách rozklikávací rozpočet až na úroveň faktur a veškerá data kterými město operuje, přístupná a strojově čitelná.
 Mají své vize zformulované do koncepcí, podle kterých jednotlivé úřednické složky postupují.

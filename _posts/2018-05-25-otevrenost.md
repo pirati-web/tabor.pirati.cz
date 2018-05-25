@@ -3,7 +3,7 @@ layout: blog
 published: true
 category: CLANKY
 image: /static/media/otevrenaradnice.jpg
-title: Radnice má mít otevřené dveře i data
+title: Otevřená radnice
 description: Shrnutí, jak vypadá otevřená radnice
 tags: nazory, otevrenost
 author: Václav Klecanda

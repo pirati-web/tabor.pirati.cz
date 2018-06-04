@@ -53,7 +53,4 @@ Odpověd zněla, že v podstatě ano, ale možná z podzimních voleb vzejde nov
 
 ## Závěr
 
-Besedy o strategických tématech jsou potřeba.
-Minimálně jako způsob, jak komunikovat důležité informace, které na webu opravdu chybí.
-Za mě se akce vydařila.
-Věřím, že nebude poslední svého druhu.
+Besedy o strategických tématech jsou potřeba. Už jen protože se jedná o vhodný způsob, jak komunikovat důležitá témata, které na webových stránkách města chybí. Věřím, že nebude poslední svého druhu.

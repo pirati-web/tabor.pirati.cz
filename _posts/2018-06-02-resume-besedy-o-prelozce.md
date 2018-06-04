@@ -16,7 +16,7 @@ o [alternativě - "Valentově spojce"](/clanky/2018/04/22/alternativy-prelozka-c
 Pozvnání přijal pan starosta Ing. Jiří Fišer a vedoucí odboru dopravy Ing. Jan Pávek.
 
 Besedu zahájil Vašek Klecanda [prezentací, ve které shrnul vývoj projektu](http://data.vxk.cz/prezentace) na základě
-informací, které obdržel od města a Jihočeského kraje, získaných díky četných žádostí podle paragrafu 106.
+informací, které obdržel od města a Jihočeského kraje, získaných díky četným žádostem podle paragrafu 106.
 Prezentace nastínila okruhy, o kterých se následně debatovalo.
 Oboum hostům patří velký dík, že ve svém volnu přišli a byli ochotni odpovídat na mnohdy emotivní dotazy.
 Přezevšechno byla diskuse většinou kultivovaná.

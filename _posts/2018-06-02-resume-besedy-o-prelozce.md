@@ -10,7 +10,7 @@ author: Martin Mareda
 date: 2018-06-02
 ---
 
-31. května jsme uspořádali veřejnou besedu o přeložce Chýnovská - Vožická (PCHV).
+Ve čtvrtek 31. května jsme uspořádali veřejnou besedu o přeložce Chýnovská - Vožická (PCHV).
 Měla za cíl osvětlit vývoj projektu, který byl popsán v článku [Odysea](/clanky/2018/04/17/odysea-prelozka-chynovska-vozicka/) a diskutovat
 o [alternativě - "Valentově spojce"](/clanky/2018/04/22/alternativy-prelozka-chynovska-vozicka/).
 Pozvnání přijal pan starosta Ing. Jiří Fišer a vedoucí odboru dopravy Ing. Jan Pávek.

@@ -10,13 +10,37 @@ Chceme, aby Tábor byl městem, kde je radost žít.
 A nejen dnes, ale také v budoucnosti.
 K tomu je třeba, aby se rozvíjel na základě koncepce, která vznikne ve spolupráci odborníků a občanů města.
 
-Zde je devět kapitol, které obsahují nápady a opatření, jak toho dosáhnout:
+## Volební program
 
-<ol>
-  {% include program/list.html %}
-</ol>
+### Zjednodušíme fungování pomocí technologií
+- __Digitalizujeme__ veškerou agendu, už žádný papír.
+- Všechny úřady mají být __kompletně dostupné online__. Obíhat po úřadech mají data, ne lidé.
+- Všechna __data budou veřejná__, postavíme na nich chytré město.
+- Budeme sbírat data pro efektivnější plánování (odvoz odpadu, jízdní řády MHD, dopravní stavby, aj.). Nevaříme z vody.
 
-#### [Kompletní program ...](program/)
+### Odstraníme komunikační bariéry
+- __Chceme koncepční řízení__ - předvídatelné, jasné směřování.
+Do zpracování koncepcí zapojíme - odborníky i z řad veřejnosti.
+- __Informace__ o řízení města __budou veřejně dostupné__.
+Od jednání zastupitelstva nebo městských orgánů a firem, přes rozpočet nebo investiční plánování až po registr smluv.
+- Připravíme __participativní rozpočet__ - nástroj pro zapojení lidí do rozhodování a umožníme jim se kreativně zapojit
+- Budeme pečlivě __prezentovat, co a proč děláme__. Nemlžíme.
+
+### Pohlídáme toky městských financí
+- __Zveřejníme rozpočet města i jeho společností__. Bude na internetu, rozklikávací a srozumitelný až na úroveň jednotlivých faktur.
+- Zřídíme městský __transparentní účet__ a všechny smlouvy vyvěsíme na internetu.
+- Pohlídáme ceny základních služeb.
+__Není nutné neustále zdražovat__, když se nemění náklady.
+
+### Zatraktivníme město pro všechny
+- __Podpoříme výstavbu startovacích bytů a bytů s pečovatelskou službou__ pro seniory.
+Staré __nevyprodáme__. Chceme nové čtvrti.
+- Podpoříme __technické vzdělávání__, ideálně zřízením __vysoké školy__.
+Oživíme tím město a přilákáme technologické firmy.
+- Zřídíme __nové multifunkční kulturní centrum__, kde se budou pořádat výstavy, workshopy, koncerty.
+- Připravíme __revitalizaci přírodního amfiteátru Pintovka__.
+
+#### [Kompletní dlouhodobý program ...](program/)
 
 <a name="kandidatka"></a>
 ## Kandidátka

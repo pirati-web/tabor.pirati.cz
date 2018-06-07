@@ -42,7 +42,19 @@ keywords: organizace,transparence,politika
     </div>
 
     <div class="col-sm-12 col-lg-4">
-      {% include rightbar.html %}
+      <div markdown="1">
+## Volební program
+
+- ### Zjednodušíme fungování pomocí technologií
+
+- ### Odstraníme komunikační bariéry
+
+- ### Pohlídáme toky městských financí
+
+- ### Zatraktivníme město pro všechny
+
+### [více v sekci volby ...](/volby)
+</div>
 
       <section id="akce" class="mt-3">
         <h2>nejbližší akce</h2>

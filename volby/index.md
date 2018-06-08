@@ -60,3 +60,11 @@ Oživíme tím město a přilákáme technologické firmy.
 ## #Pusťte nás na ně!
 
 #### [Kompletní kandidátka ...](kandidatka/)
+
+### OVK - účast za piráty v okrskových volebních komisích
+
+Máš-li zájem pohlídat demokratický proces voleb pod vlajkou Pirátú,
+prohlídni si [tuto mapku](http://cr.gis4u.cz/mapa/volby-ps-2017/?lb=cuzk_zm&ly=vpob-graf-17%2Cvpvo-vitez-17&lbo=1&lyo=&c=-730987.25%3A-1120667.8&z=6&i=-737612.19%3A-1117867.72) a vyber si okrsek.
+Pak napiš na vaclav.klecanda[zaaavinac]pirati.cz svoje jméno a příjmení, datum narození, adresu trvalého pobytu, rodné číslo a telefon (tyto údaje shromáždíme pouze pro účely poslání na městský úřad - vyžaduje zákon a poté je smažeme)
+Návod, jak se v komisi chovat je u [Pirátů na wiki](https://wiki.pirati.cz/ao/navody/komise).
+Prostuduj si jej, prosím.

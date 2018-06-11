@@ -12,7 +12,7 @@ K tomu je třeba, aby se rozvíjel na základě koncepce, která vznikne ve spol
 
 ## Volební program
 
-### Zjednodušíme fungování pomocí technologií
+### Zjednodušíme fungování pomocí <a name="tech">technologií</a>
 - __Digitalizujeme__ veškerou agendu, už žádný papír.
 - Všechny úřady mají být __kompletně dostupné online__. Obíhat po úřadech mají data, ne lidé.
 - Všechna __data budou veřejná__, postavíme na nich chytré město.

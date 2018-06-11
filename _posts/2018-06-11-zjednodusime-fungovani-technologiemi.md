@@ -4,7 +4,7 @@ published: true
 category: CLANKY
 image: /static/media/tech.jpg
 title: Zjednodušíme fungování pomocí technologií
-description: Představení prvního pilíře volebního programu
+description: Představení prvního pilíře volebního programu "Zjednodušíme fungování pomocí technologií"
 tags: volby, program
 author: Václav Klecanda
 date: 2018-06-11

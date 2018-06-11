@@ -11,7 +11,7 @@ date: 2018-06-11
 ---
 
 
-O tom, jaké výhody přináší digitalizace a moderní technogie, existují tisíce pojednání.
+O tom, jaké výhody přináší digitalizace a moderní technologie, existují tisíce pojednání.
 Od jednoduchého vyhledávání, snadné archivace, přehledných vizualizací dat umožňujících snadnou kontrolu fungování úřadů,
 až po úřad online, kde si občan z pohodlí domova nakliká co potřebuje během pár minut bez nutnosti stát fronty a pobíhat na úřadě od dveří ke dveřím.
 Je s podivem, že i přesto žádná dosavadní reprezentace neudělala výraznější posun.

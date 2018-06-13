@@ -14,7 +14,7 @@ Koncepční přístup, otevřenost a participativní rozpočet.
 To jsou naše recepty pro odstranění komunikačních bariér v Táboře.
 To je druhý pilíř našeho volebního programu pro podzimní komunální volby.
 
-Koncepční přístup při správě tak velkého organismu, jakým je město, je stěžejní.
+Koncepční přístup při správě tak velkého organismu, jakým město bezesporu je, je stěžejní.
 Jeho výhody jsem [rozvedl už v květnu](/clanky/2018/05/06/koncepcni-pristup/).
 Nejdůležitější ale je, že koncepce dají jednotlivým oblastem fungování města jasná pravidla.
 Fungování města bude pak předvídatelné a měřitelné.

@@ -11,20 +11,20 @@ date: 2018-06-13
 ---
 
 Koncepční přístup, otevřenost a participativní rozpočet.
-To jsou naše recepty pro odstranění komunikačních barier v Táboře.
+To jsou naše recepty pro odstranění komunikačních bariér v Táboře.
 To je druhý pilíř našeho volebního programu pro podzimní komunální volby.
 
-Koncepční přístup při správě tak velkého organismu jakým je město je stěžejní.
+Koncepční přístup při správě tak velkého organismu, jakým je město, je stěžejní.
 Jeho výhody jsem [rozvedl už v květnu](/clanky/2018/05/06/koncepcni-pristup/).
-Nejdúležitější ale je, že koncepce dají jednotlivým oblastem fungování města jasná pravidla.
+Nejdůležitější ale je, že koncepce dají jednotlivým oblastem fungování města jasná pravidla.
 Fungování města bude pak předvídatelné a měřitelné.
 
-Důležité však je i bourání informačních barier vůči občanům.
-Je potřeba ukazovat, co se na radnici a při jednáních na ní, děje a proč.
-Budu je to důvěru k radniční reprezentaci a jejímu působení.
-Piráti sami půjdou příkladem a veškerá rozhodnutí deklarují předem a řádně odůvodní.
+Důležité však je i bourání informačních bariér vůči občanům.
+Je potřeba ukazovat, co se na radnici a při jednáních na ní děje a proč.
+Buduje to důvěru k radniční reprezentaci a jejímu působení.
+Piráti sami půjdou příkladem a veškerá rozhodnutí budou předem deklarovat a zdůvodňovat.
 
-Za důležitou považjeme i možnost se podílet na vecích veřejných.
+Za důležitou považujeme i možnost se podílet na věcech veřejných.
 Proto prosazujeme [participativní rozpočet](http://www.participativnirozpocet.cz/o%20participativn%C3%ADm%20rozpo%C4%8Dtu).
 Je to nástroj, který umožňuje aktivním lidem přijít s nápadem, prezentovat ho
 a získávat si pro něj podporu mezi ostatními lidmi.
@@ -33,9 +33,9 @@ Výsledkem jsou projekty, které chtějí sami lidé.
 
 Proto:
 - __Chceme koncepční řízení__ - předvídatelné, jasné směřování.
-Do zpracování koncepcí zapojíme - odborníky i z řad veřejnosti.
+Do zpracování koncepcí zapojíme odborníky i z řad veřejnosti.
 - __Informace__ o řízení města __budou veřejně dostupné__.
-Od jednání zastupitelstva nebo městských orgánů a firem, přes rozpočet nebo investiční plánování až po registr smluv.
+Od jednání zastupitelstva nebo městských orgánů a firem, přes rozpočet nebo investiční plánování, až po registr smluv.
 - Připravíme __participativní rozpočet__ - nástroj pro zapojení lidí do rozhodování a umožníme jim se kreativně zapojit
 - Budeme pečlivě __prezentovat, co a proč děláme__. Nemlžíme.
 

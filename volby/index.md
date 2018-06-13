@@ -18,7 +18,7 @@ K tomu je třeba, aby se rozvíjel na základě koncepce, která vznikne ve spol
 - Všechna __data budou veřejná__, postavíme na nich chytré město.
 - Budeme sbírat data pro efektivnější plánování (odvoz odpadu, jízdní řády MHD, dopravní stavby, aj.). Nevaříme z vody.
 
-### Odstraníme komunikační bariéry
+### Odstraníme komunikační <a name="bari">bariéry</a>
 - __Chceme koncepční řízení__ - předvídatelné, jasné směřování.
 Do zpracování koncepcí zapojíme - odborníky i z řad veřejnosti.
 - __Informace__ o řízení města __budou veřejně dostupné__.

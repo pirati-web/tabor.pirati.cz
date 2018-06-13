@@ -28,4 +28,4 @@ Proto:
 - Všechna __data budou veřejná__, postavíme na nich chytré město.
 - Budeme sbírat data pro efektivnější plánování (odvoz odpadu, jízdní řády MHD, dopravní stavby, aj.). Nevaříme z vody.
 
-Více v sekci [volby](/volby#tech)
+Více v sekci [volby](/volby/#tech)

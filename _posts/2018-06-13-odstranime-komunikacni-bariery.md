@@ -28,7 +28,7 @@ Za důležitou považjeme i možnost se podílet na vecích veřejných.
 Proto prosazujeme [participativní rozpočet](http://www.participativnirozpocet.cz/o%20participativn%C3%ADm%20rozpo%C4%8Dtu).
 Je to nástroj, který umožňuje aktivním lidem přijít s nápadem, prezentovat ho
 a získávat si pro něj podporu mezi ostatními lidmi.
-Nápad s dostatečnou podporou pak radnice pak zrealizuje.
+Nápady s dostatečnou podporou pak radnice zrealizuje.
 Výsledkem jsou projekty, které chtějí sami lidé.
 
 Proto:
@@ -39,4 +39,4 @@ Od jednání zastupitelstva nebo městských orgánů a firem, přes rozpočet n
 - Připravíme __participativní rozpočet__ - nástroj pro zapojení lidí do rozhodování a umožníme jim se kreativně zapojit
 - Budeme pečlivě __prezentovat, co a proč děláme__. Nemlžíme.
 
-Více v sekci [volby](/volby#bari)
+Více v sekci [volby](/volby/#bari)

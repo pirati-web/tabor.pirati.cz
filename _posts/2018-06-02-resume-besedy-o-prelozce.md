@@ -34,12 +34,12 @@ Navíc by bylo potřeba odbagrovat stávající povrch a udělat i podloží, co
   style="float: right; margin-left: 1em; width: 40%" />
 
 V rámci diskuse jsme se mj. dozvěděli, že:
-- plánovaná úrovňová křižovatka (kruhový objezd, viz. obrázek) se silnicí I/19 má již výjimku a tedy zelenou
+- plánovaná úrovňová křižovatka (kruhový objezd, viz obrázek) se silnicí I/19 má již výjimku a tedy zelenou
 - __nezpoplatnění D3 v úseku Čekanice - Měšice bude trvalé__, údajné znovuzpoplatnění byl informační šum
 
 ### Průmyslová zóna
 
-Starosta nevidí nutnost rozšiřovat průmyslovou zonu za každou cenu,
+Starosta nevidí nutnost rozšiřovat průmyslovou zónu za každou cenu,
 protože již existují další v Plané a Chotovinách.
 Na místech, které jsou v [současném uzemním plánu](http://www.taborcz.eu/assets/File.ashx?id_org=16470&id_dokumenty=48989) by rád viděl firmy nabízející vyšší přidanou hodnotu.
 Dalším rozšiřování se však v blízké budousnosti neplánuje.

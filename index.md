@@ -54,17 +54,30 @@ keywords: organizace,transparence,politika
 - ### Zatraktivníme město pro všechny
 
 ### [více v sekci volby ...](/volby)
+
 </div>
 
-      <section id="akce" class="mt-3">
-        <h2>nejbližší akce</h2>
+<hr />
 
-        {% for item in site.data.akce limit:3 %}
-        {% include shared/eventsummary.html item=item %}
-        {% endfor %}
+<section id="akce" class="mt-3 dark" style="background: #eee;">
+  <h2>nejbližší akce</h2>
 
-      </section>
-    </div>
+  {% for item in site.data.akce limit:3 %}
+  {% include shared/eventsummary.html item=item %}
+  {% endfor %}
+
+</section>
+
+<hr />
+
+<div markdown="1">
+
+## sleduj nás
+- <i class="fab fa-facebook"></i> [Piráti Tábor na facebooku]({{ site.facebookurl }})
+- <i class="fab fa-youtube"></i> [Piráti Tábor na youtube]({{ site.data.links.sidebar.youtube.channel }})
+
+</div>
+
   </div>
 
 </div>

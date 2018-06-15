@@ -4,7 +4,7 @@ published: true
 category: CLANKY
 image: /static/media/teplarna.jpg
 title: Mimořádné zastupitelstvo kvůli teplárně
-description: Shrnutí, besedování o projektu přeložky Chýnovská - Vožická
+description: V pondělí 18.6. bude jednat zastupitelstvo o připravované valné hromadě v Teplárně Tábor a.s.
 tags: energetika, zastupitelstvo
 author: admin
 date: 2018-06-15

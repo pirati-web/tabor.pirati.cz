@@ -14,7 +14,7 @@ date: 2018-06-15
 Na pondělí 18. června svolal starosta Jiří Fišer [mimořádné jednání zastupitelstva](http://taborcz.eu/assets/File.ashx?id_org=16470&id_dokumenty=58321).
 Na pořadu je jediný bod - valná hromada společnosti Teplárna Tábor, a.s. .
 Zástupci teplárny chtějí na valné hromadě navolit nové orgány společnosti
-a rodělit zisk za rok 2017 ve výši bezmála 3 miliony korun.
+a rozdělit zisk za rok 2017 ve výši bezmála 3 miliony korun.
 S navrhovaným postupem zástupce města Piráti plně souhlasí.
 
 Město navrhuje, stejně jako teplárna, část zisku dát na sociální fond.

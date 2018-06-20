@@ -1,6 +1,6 @@
 ---
 layout: blog
-published: false
+published: true
 category: CLANKY
 image: /static/media/chrudim.jpg
 title: Beseda o chrudimském Zdravém městě

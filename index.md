@@ -53,7 +53,7 @@ keywords: organizace,transparence,politika
 
 - ### Zatraktivníme město pro všechny
 
-### [více v sekci volby ...](/volby)
+### [více v sekci volby ...](/volby/)
 
 </div>
 

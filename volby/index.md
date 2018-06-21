@@ -9,7 +9,7 @@ keywords: piráti, tábor, volby
 > Chceme, aby Tábor byl zajímavým, sofistikovaným, navštěvovaným městem,
 které je známé nejen pro svou historii, ale i pro svůj přístup k modernímu pojetí města.
 Chceme, aby o něm bylo slyšet v souvislosti s chytrým městem, zázemím pro kulturu,
-skvělému servisu pro turity
+skvělému servisu pro turisty
 a především s moderní, plně digitální a transparetní samosprávou.
 Apelujeme na koncepčnost a dlouhodobou strategii řízení města ve spolupráci s odborníky i občany města.<br />
 __Nabízíme to, co umíme velmi dobře: digitalizaci, transparentnost a zapojení občanů do rozhodování.__ #Pusťte nás na ně!

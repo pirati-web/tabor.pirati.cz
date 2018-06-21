@@ -22,7 +22,7 @@ ol h4, ul h4 {
   margin: 0;
 }
 
-.blog blockquote {
+blockquote {
   font-style: italic;
   padding-left: 1em;
   border-left: 3px solid #383076;

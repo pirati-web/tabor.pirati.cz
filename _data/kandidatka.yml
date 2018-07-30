@@ -1,5 +1,5 @@
 -
-  name: Mgr. Václav	Klecanda
+  name: Mgr. Václav Klecanda
   age: 35
   desc: programátor, systémový architekt
   img: /static/media/kandidatka/klecanda.jpg
@@ -29,7 +29,7 @@
   desc: IT specialista BI & CRM
   img: /static/media/kandidatka/moravec.jpg
 -
-  name: Mgr. František	Švadlena
+  name: Mgr. František Švadlena
   age: 42
   desc: právník, pořadatel hudebního festivalu
   img: /static/media/kandidatka/svadlena.jpg
@@ -44,12 +44,76 @@
   desc: trenér, podnikatel
   img: /static/media/kandidatka/kucera.jpg
 -
+  name: Mgr. Tereza Daněk
+  age: 30
+  desc: učitelka SŠ, lektorka primárních prevencí
+-
   name: David Michálek
   age: 29
   desc: designer, podnikatel
   img: /static/media/kandidatka/michalek.jpg
 -
+  name: Petra Klváčková
+  age: 41
+  desc: tvůrkyně, designerka
+-
   name: Bc. Vojtěch Sázel
   age: 35
   desc: programátor
   img: /static/media/kandidatka/sazel.jpg
+-
+  name: Bc. Jana Navrátilová
+  age: 37
+  desc: spoluzakladatelka lesní mateřské a komunitní školky
+-
+  name: Matěj Velát
+  age: 19
+  desc: student, stavař
+-
+  name: Mgr. Markéta Podzimková
+  age: 30
+  desc: projektová koordinátorka
+-
+  name: Roman Cintl
+  age: 27
+  desc: tvůrce videí, kameraman
+-
+  name: Petra	Kosová Hlavová
+  age: 37
+  desc: živnostník
+-
+  name: Ing. Jakub Marek
+  age: 31
+  desc: vedoucí elektroprovozu
+-
+  name: Tomáš Spěváček DiS.
+  age: 33
+  desc: zdravotnický záchranář
+-
+  name: Zuzana Macková
+  age: 35
+  desc: marketérka, propagátorka
+-
+  name: Daniel Šrámek DiS.
+  age: 31
+  desc: zdravotnický záchranář
+-
+  name: Veronika Macková
+  age: 22
+  desc: kadeřnice
+-
+  name: Zdeněk	Justa
+  age: 43
+  desc: kuchař, číšník
+-
+  name: Libor Němec
+  age: 36
+  desc: videotechnik, mechatronik
+-
+  name: Bc. Jana Petik Baborová
+  age: 34
+  desc: podnikatelka
+-
+  name: Ing. Vladimír Šíp
+  age: 65
+  desc: systémový analytik, zakladatel ThinkTA.cz

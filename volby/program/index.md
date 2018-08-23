@@ -65,6 +65,8 @@ Zajistíme procesní podporu SVJ (bytových domů) při pořizování jiných zd
 Chceme efektivní, měřitelnou a vyhodnotitelnou činnost.
 - Zlepšíme a zmodernizujeme veřejné osvětlení parků a zkratek.
 - Posílíme kontrolu méně bezpečných míst.
+- Koše umožňující třídit odpad po celém městě
+- Odpočítávací semafory (především na Vožické)
 
 ## <a name="c7">Atraktivni město pro všechny</a>
 - Podpoříme mladé rodiny – výstavbu startovacích bytů.
@@ -73,6 +75,7 @@ Chceme efektivní, měřitelnou a vyhodnotitelnou činnost.
 - Budeme aktivně pomáhat seniorům - mj. navrhneme [senior cohousing](https://www.cohousing.cz/senior-cohousing2/).
 S jeho realizací bude spjatá architektonická soutěž studentů s důrazem na co nejjednodušší konstrukci a cenu a tudíž maximalizaci kapacity.
 - Podporujeme stávající akční plán sociálních služeb a budeme se snažit o jeho pravidelnou aktualizaci.
+- Více veřejných záchodů
 
 ## <a name="c8">Město sportu a vzdělání</a>
 - Budeme prosazovat férové a vyvážené rozdělování dotací mezi jednotlivé sporty.
@@ -85,6 +88,7 @@ S jeho realizací bude spjatá architektonická soutěž studentů s důrazem na
 ## <a name="c9">Živé město</a>
 - Zřídíme nové multifunkční kulturní centrum, kde se budou pořádat výstavy, workshopy, koncerty (vzorem je pro nás: [depo2015](https://www.depo2015.cz/)).
 - Připravíme revitalizaci přírodního amfiteátru Pintovka.
+- Navrhneme přebudování rybníku Komora pro koupání a trávení volného času.
 - Budeme provádět důkladný výběr městem podpořených akcí.
 Součástí podpory bude také zpětná analýza účelnosti využití dotace.
 - Zpřístupníme legální graffiti plochy pro [velkoplošné malby](https://cs.wikipedia.org/wiki/Mural_art) a ve spolupráci s veřejností podpoříme i jiné současné formy umění.

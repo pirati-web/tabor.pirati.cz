@@ -14,7 +14,7 @@ keywords: organizace,transparence,politika
       </div>
     </div>
     <div class="row">
-      <div class="col-sm-12 col-lg-7 offset-lg-1">
+      <div class="col-sm-12 col-lg-4 offset-lg-1">
         <p id="calloutpopis">
           Naším cílem je obec, kde může každý člověk prožít svůj život svobodně a naplno.
           Klíčem k prosperitě naší společnosti je otevřenost,

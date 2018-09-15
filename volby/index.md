@@ -18,7 +18,7 @@ __Nabízíme to, co umíme velmi dobře: digitalizaci, transparentnost a zapojen
 
 ### Zjednodušíme fungování pomocí <a name="tech">technologií</a>
 - __Digitalizujeme__ veškerou agendu, už žádný papír.
-  (_Základem moderního úřadu je konec použávání papíru a jeho nahrazení počítači. Umožní to masivní zjednodušení a propojeni agend i dat._)
+  (_Základem moderního úřadu je konec používání papíru a jeho nahrazení počítači. Umožní to masivní zjednodušení a propojeni agend i dat._)
 - Všechny úřady mají být __kompletně dostupné online__. Obíhat po úřadech mají data, ne lidé.
   (_Mít možnost vyřizovat cokoli online a nemuset neustále vyplňovat stále stejné formuláře. Nikdo tak už nebude muset (ale může; úředník, který pomůže bude k dispozici) obíhat úřady_).
 - Všechna __data budou veřejná__, postavíme na nich chytré město.
@@ -28,9 +28,8 @@ __Nabízíme to, co umíme velmi dobře: digitalizaci, transparentnost a zapojen
 ### Odstraníme komunikační <a name="bari">bariéry</a>
 - __Chceme koncepční řízení__ - předvídatelné, jasné směřování.
 Do zpracování koncepcí zapojíme - odborníky i z řad veřejnosti.
-(_Odborní_)
 - __Informace__ o řízení města __budou veřejně dostupné__.
-Od jednání zastupitelstva nebo městských orgánů a firem, přes rozpočet nebo investiční plánování až po registr smluv. (_Lidé uvidí, jak město funguje, co kdo děla. Budu je to důvěru mezi správci města a jeho obyvateli._)
+Od jednání zastupitelstva nebo městských orgánů a firem, přes rozpočet nebo investiční plánování až po registr smluv. (_Lidé uvidí, jak město funguje, co kdo děla. Vytváří to důvěru mezi správci města a jeho obyvateli._)
 - Připravíme __participativní rozpočet__ - nástroj pro zapojení lidí do rozhodování a umožníme jim se kreativně zapojit. (_Každý pak může přijít s dobrým nápadem, popsat ho a vystavit na k tomu určený web. Lidé mu pak vyjadří podporu a projekty s podporou město zkrátka zaplatí._)
 - Budeme pečlivě __prezentovat, co a proč děláme__. Nemlžíme.
 

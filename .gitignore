@@ -8,3 +8,4 @@ _assets/bower_components
 static/script.js
 static/style.css
 Gemfile.lock
+.jekyll-metadata

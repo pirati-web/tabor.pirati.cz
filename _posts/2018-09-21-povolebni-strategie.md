@@ -17,13 +17,13 @@ _Česká pirátská strana je liberální, demokratická, progresivní strana s 
 1. Koncepční řízení - předvídatelné, jasné směřování. Ustavit (do 30. 11. 2018) odborné komise s cílem vytvořit závazné koncepce pro řízení jednotlivých resortů a zapojit odborníky i z řad veřejnosti. Průběžná doporučení komise ihned implementovat do praxe.
 2. Zřízení (do 30. 11. 2018) odborné komise pro IT a SmartCity s cílem usilovat o digitalizaci veškeré agendy a otevření veškerých dat, pro jejichž nezpřístupnění neexistuje zákonný důvod. Průběžná doporučení komise ihned implementovat do praxe.
 3. Jednání zastupitelstva a rady co nejdříve (do 6 měsíců od voleb) formalizovat do informačního systému, který umožní správu návrhů a jejich materiálů v digitální podobě a automaticky je provazovat s výsledky hlasování. Zájemci si i nadále budou moci vyžádat materiály v tištěné podobě.
-4. Zapojit se do organizace [otevrenamesta.cz](http://www.otevrenamesta.cz).
+4. Zapojit se do organizace [otevrenamesta.cz](http://www.otevrenamesta.cz) (do 30. 11. 2018).
 5. Participativní rozpočet s alokací nejméně 2 miliony korun za rok (do 6 měsíců od voleb).
 6. Městský transparentní účet, přes který půjde co možná nejvíce transakcí (do 6 měsíců od voleb).
-7. Veřejný investiční zásobník + důsledné vymáhání schválených pravidel - procesu přípravy stavebních investic, vč. informování veřejnosti a jejího zapojení do rozhodování.
-8. Revize bytové politiky - zastavit prodej a vytvořit koncepci rozvoje obecního bydlení.
+7. Veřejný investiční zásobník + důsledné vymáhání schválených pravidel - procesu přípravy stavebních investic, vč. informování veřejnosti a jejího zapojení do rozhodování (do 30. 11. 2018).
+8. Revize bytové politiky - zastavit prodej a vytvořit koncepci rozvoje obecního bydlení (do 30. 11. 2018).
 9. Zřízení multifunkčního kulturního centra pro pořádání výstav, workshopů, koncertů. Rekonstrukce lesního amfiteátru Pintovka.
-10. Ztransparentnění fungování Vodárenské společnosti Táborsko, především cenotvorby + audit koncesní smlouvy.
+10. Ztransparentnění fungování Vodárenské společnosti Táborsko, především cenotvorby + audit koncesní smlouvy (do 6 měsíců od voleb).
 11. Revize a nezávislé odborné posouzení projektů dopravních staveb, speciálně přeložek Chýnovská - Čekanice, Čekanice - Měšice a Tesco - Slapy. S cílem najít nejoptimálnější řešení. (do 3 měsíců od voleb).
 
 ## Případ výhry ve volbách:

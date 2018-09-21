@@ -24,17 +24,17 @@ _Česká pirátská strana je liberální, demokratická, progresivní strana s 
 8. Revize bytové politiky - zastavit prodej a vytvořit koncepci rozvoje obecního bydlení.
 9. Zřízení multifunkčního kulturního centra pro pořádání výstav, workshopů, koncertů. Rekonstrukce lesního amfiteátru Pintovka.
 10. Ztransparentnění fungování Vodárenské společnosti Táborsko, především cenotvorby + audit koncesní smlouvy.
-11. Revize a nezávislé odborné posouzení projektů dopravních staveb, speciálně přeložek Chýnovská - Čekanice, Čekanice - Měšice a Tesco - Slapy. S cílem najít nejoptimálnější řešení. (do 6 měsíců od voleb).
+11. Revize a nezávislé odborné posouzení projektů dopravních staveb, speciálně přeložek Chýnovská - Čekanice, Čekanice - Měšice a Tesco - Slapy. S cílem najít nejoptimálnější řešení. (do 3 měsíců od voleb).
 
-## Pro případ výhry České pirátské strany ve volbách:
+## Případ výhry ve volbách:
 
 Lídr kandidátky je kandidátem na starostu. Naší prioritou je prosazení programových bodů. Nikoli získání postů. Budeme jednat o koalici se stranami blízko liberálního smýšlení, ale bez osob, které negativně ovlivnily jak v současnosti, tak v minulosti stav Tábora. Nepodpoříme radu města s účastí nedemokratických stran nebo s rasistickou či xenofobní rétorikou, tzn. SPD, KSČM a Národní demokracie. Nepodpoříme radu města, ve které bude osoba, která je trestně stíhaná, nebo s rasistickým či xenofobním vystupováním.
 
-## Pro případ jednání o vstupu České pirátské strany do rady města:
+## Případ jednání o vstupu do rady města:
 
 Budeme požadovat zařadit většinu našich priorit do koaliční smlouvy, přičemž první tři body jsou nepodkročitelnou podmínkou. Zároveň budeme chtít získat pozici místostarosty, prioritně pro oblast investic a rozvoje města.
 
-## Pro případ vstupu do opozice:
+## Případ vstupu do opozice:
 
 Piráti i v Táboře budou konstruktivní opozicí, podpoříme každý dobrý návrh, který je ve veřejném zájmu ať už ho předloží kdokoli. Jako opoziční zastupitelé budeme chtít prosadit co nejvíce bodů z našich programových priorit.
 

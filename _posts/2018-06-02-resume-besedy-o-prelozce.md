@@ -15,7 +15,7 @@ Měla za cíl osvětlit vývoj projektu, který byl popsán v článku [Odysea](
 o [alternativě - "Valentově spojce"](/clanky/2018/04/22/alternativy-prelozka-chynovska-vozicka/).
 Pozvání přijal pan starosta Ing. Jiří Fišer a vedoucí odboru dopravy Ing. Jan Pávek.
 
-Besedu zahájil Vašek Klecanda [prezentací, ve které shrnul vývoj projektu](http://data.vxk.cz/prezentace) na základě
+Besedu zahájil Vašek Klecanda [prezentací, ve které shrnul vývoj projektu](http://data.vxk.cz/prelozka/) na základě
 informací, které obdržel od města a Jihočeského kraje, získaných díky četným žádostem podle paragrafu 106.
 Prezentace nastínila okruhy, o kterých se následně debatovalo.
 Oboum hostům patří velký dík, že ve svém volnu přišli a byli ochotni odpovídat na mnohdy emotivní dotazy.
@@ -41,7 +41,7 @@ V rámci diskuse jsme se mj. dozvěděli, že:
 
 Starosta nevidí nutnost rozšiřovat průmyslovou zónu za každou cenu,
 protože již existují další v Plané a Chotovinách.
-Na místech, které jsou v [současném uzemním plánu](http://www.taborcz.eu/assets/File.ashx?id_org=16470&id_dokumenty=48989) by rád viděl firmy nabízející vyšší přidanou hodnotu.
+Na místech, které jsou v [současném uzemním plánu](http://taborcz.eu/assets/File.ashx?id_org=16470&id_dokumenty=59233) by rád viděl firmy nabízející vyšší přidanou hodnotu.
 Dalším rozšiřování se však v blízké budousnosti neplánuje.
 V tomto pohledu jsou Piráti za jedno.
 

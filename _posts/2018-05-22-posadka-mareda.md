@@ -15,7 +15,7 @@ Kdo jsi a co děláš?
 > Jmenuji se Martin Mareda, je mi 42 let.
 Pocházím z Chrudimi, ale v Táboře žiji už od roku 1982.
 Po studiích na Jihočeské univerzitě (učitelství pro střední školy) jsem zamířil do Centra Auritus, kde pracuji již sedmnáctým rokem se závislými osobami a jejich rodinami.
-Jsem zatím svobodný, ale zadaný se třemi dětmi.
+Jsem ženatý a mám tři děti.
 Velkým koníčkem je hudba, jak pasivně tak aktivně v kapele Peshata.
 
 Proč Piráti?

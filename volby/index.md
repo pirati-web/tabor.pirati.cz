@@ -12,7 +12,10 @@ Chceme, aby o něm bylo slyšet v souvislosti s chytrým městem, zázemím pro 
 skvělému servisu pro turisty
 a především s moderní, plně digitální a transparetní samosprávou.
 Apelujeme na koncepčnost a dlouhodobou strategii řízení města ve spolupráci s odborníky i občany města.<br />
-__Nabízíme to, co umíme velmi dobře: digitalizaci, transparentnost a zapojení občanů do rozhodování.__ #Pusťte nás na ně!
+
+## Zastupitelé
+
+Ve volbách jsme získali 4 [zastupitele](/zastupitele/).
 
 ## Volební program
 
@@ -50,20 +53,5 @@ Oživíme tím město a přilákáme technologické firmy.
 #### [Kompletní dlouhodobý program ...](program/)
 
 <a name="kandidatka"></a>
-## Kandidátka
-
-<div class="row">
-  {% for item in site.data.kandidatka limit:3 %}
-    <div class="kandidatka col-sm-12 col-md-4">
-      <img src="{{item.img}}" alt="foto: {{item.name}}, {{item.age}}" />
-      <div class="text">
-        <h4>{{item.name}}</h4>
-        <p>{{item.age}} let, {{item.desc}}</p>
-      </div>
-    </div>
-  {% endfor %}
-</div>
-
-## #Pusťte nás na ně!
 
 #### [Kompletní kandidátka ...](kandidatka/)

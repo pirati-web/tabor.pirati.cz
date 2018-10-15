@@ -43,26 +43,23 @@ keywords: organizace,transparence,politika
 
     <div class="col-sm-12 col-lg-4">
       <div markdown="1">
-## Volební program
+## Komunální politika
 
-- ### Zjednodušíme fungování pomocí technologií
+### <i class="fas fa-users"></i> [zastupitelský klub](/zastupitele/)
 
-- ### Odstraníme komunikační bariéry
-
-- ### Pohlídáme toky městských financí
-
-- ### Zatraktivníme město pro všechny
-
-### [více v sekci volby ...](/volby/)
+### <i class="fas fa-book"></i>&nbsp;&nbsp; [komunální program](/program/)
 
 </div>
 
 <hr />
 
-<section id="akce" class="mt-3 dark" style="background: #eee;">
+
+{% assign eventz = site.data.akce | where:"published","true" %}
+
+<section id="akce" class="mt-3 dark">
   <h2>nejbližší akce</h2>
 
-  {% for item in site.data.akce limit:3 %}
+  {% for item in eventz limit:3 %}
   {% include shared/eventsummary.html item=item %}
   {% endfor %}
 

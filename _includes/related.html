@@ -1,2 +1,13 @@
 
-{% include shared/related.html %}
+{% for item in site.posts limit:2 %}
+<article>
+  <h4><a class="item" href="{{item.url}}">{{item.title}}</a></h4>
+
+  {% include shared/articlemeta.html post=item %}
+
+  <div class="summaryperex mt-2">
+    {{ item.excerpt | markdownify }}
+    <a href="{{ item.url }}" class="right">Přečíst celý článek →</a>
+  </div>
+</article>
+{% endfor %}

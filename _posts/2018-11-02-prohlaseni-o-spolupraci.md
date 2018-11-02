@@ -10,7 +10,7 @@ author: Václav Klecanda
 date: 2018-11-02
 ---
 
-Koaliční vyjednávání nedovolily vypracovat precizni programové prohlášení.
+Koaliční vyjednávání nedovolily vypracovat precizní programové prohlášení.
 Proto se koaliční partneři rozhodli pro započetí spolupráce na základě vydiskutovaného seznamu programových pilířů.
 Jeho rozšířením a zpřesněním v nejbližších týdnech vznikne programové prohlášení.
 

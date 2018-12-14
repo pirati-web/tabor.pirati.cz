@@ -55,7 +55,7 @@ Tábor 2020, Piráti, Jinak! a ČSSD - koaliční partneři se za účelem řád
 
 ## Kultura a cestovní ruch
 - Finančně podporovat kulturní akce regionálního významu, které přispívají k rozvoji cestovního ruchu prostřednictvím vypsaného dotačního programu.
-- Uvádět do života dokument „Koncepce kultury a kulturního turismu města Tábora“.
+- Uvádět do života dokument ![„Koncepce kultury a kulturního turismu města Tábora“](http://www.taborcz.eu/assets/File.ashx?id_org=16470&id_dokumenty=59035).
 - Hledat možnosti zřízení multifunkčního kulturního centra (MKC) v současných nemovitostech města.
 - Novelizovat a revidovat dotační programy v oblasti kultury.
 - Zvážit možnosti a dopady případného převedení produkčních činností odboru kultury do samostatné městské - kulturní organizace. Zpracovat veškeré aspekty - majetkové, ekonomické i personální.
@@ -68,7 +68,7 @@ Tábor 2020, Piráti, Jinak! a ČSSD - koaliční partneři se za účelem řád
 - Novelizovat koncepci nakládání s odpady ve vazbě na očekávané legislativní změny. Motivovat obyvatele k preciznějšímu třídění, následovat příklady úspěšné praxe jiných měst.
 - Nadále dbát na zákonem uloženou míru obnovy vodohospodářské infrastruktury v majetku Vodárenské společnosti Táborsko, v ekonomické strategii klást důraz na cenotvorbu. Průběžně informovat o procesu výběrového řízení a přípravy nové provozní smlouvy.
 - V rámci možností samosprávy konat opatření k zadržování vody v krajině – obnovy zaniklých vodních ploch, optimální druhová skladba dřevinového složení apod.
-- Přihlásit se ke konceptu Zero waste towns (bezobalová města) a Transition towns (města přechodu). Postupně omezovat používání toxických pesticidů při údržbě veřejného prostoru. Dále rozšiřovat využívání bio popelnic.
+- Přihlásit se ke konceptu ![Zero waste towns](https://cs.wikipedia.org/wiki/Zero_waste) (bezobalová města) a ![Transition towns](https://cs.wikipedia.org/wiki/M%C4%9Bsto_p%C5%99echodu) (města přechodu). Postupně omezovat používání toxických pesticidů při údržbě veřejného prostoru. Dále rozšiřovat využívání bio popelnic.
 - Setrvale klást důraz na opatření směřující ke zlepšení kvality ovzduší, stejně tak podnikat kroky ke zlepšení kvalitativních ukazatelů čistoty vody v Jordáně.
 
 ## Sociální oblast

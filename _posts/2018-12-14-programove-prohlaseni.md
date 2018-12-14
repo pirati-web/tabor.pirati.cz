@@ -18,7 +18,7 @@ Tábor 2020, Piráti, Jinak! a ČSSD - koaliční partneři se za účelem řád
 - Zveřejňovat podrobný program jednání rady města a některých vybraných koncepčních materiálů, a to před jejím zasedáním.
 - Aktualizovat zásobník investičních akcí a zveřejnit jej na webu města. Dodržovat přijatá pravidla přípravy a realizace investičních akcí. Prezentovat studie a investiční záměry v přehledné mapové aplikaci s možností veřejného připomínkování.
 - Pro naplňování konceptu Smart City a kompatibilitu jeho jednotlivých záměrů navrhnout otevřenou metropolitní síť (tzv. datovou dálnici). Koordinovat jednotlivé záměry na aplikace z pohledu vzájemné kompatibility.
-Otevřít participativní segment rozpočtu města s alokací částky 2 mil Kč pro rok 2020. V průběhu roku 2019 ověřit pilotní provoz v případě dodatečných příjmů rozpočtu města.
+- Otevřít participativní segment rozpočtu města s alokací částky 2 mil Kč pro rok 2020. V průběhu roku 2019 ověřit pilotní provoz v případě dodatečných příjmů rozpočtu města.
 - Jednání komisí otevřít veřejnosti na základě registrace zájemců (při zajištění ochrany osobních údajů).
 - Zajistit efektivní a profesionální komunikaci města a úřadu s občany prostřednictvím mediálního koordinátora.
 - Aktualizovat a následně uvést do života komplexní grafický manuál města.
@@ -41,7 +41,7 @@ Otevřít participativní segment rozpočtu města s alokací částky 2 mil Kč
 - Oživit záměr výstavby parkovacího domu u pivovaru pro Staré město s využitím instrumentu architektonické soutěže. Řešit parkování na Sídlišti nad Lužnicí a v oblasti Nového města (nádraží) formou vícepodlažního parkování.
 - Propojení ulic Chýnovská – Vožická: Akceptovat navržené řešení v případě dotační podpory IROP (Jihočeský kraj) a prověřit možnost zvýšení protihlukové ochrany v režii města.
 - Propojení Vožická – I/19: Prověřit další možnosti vedení trasy při splnění podmínek orgánů státní správy.   
-Propojení Tesco-Slapy: Soustavná spolupráce s investorem (Jihočeský kraj), pomoc při majetkoprávních jednání a správních řízení.
+- Propojení Tesco-Slapy: Soustavná spolupráce s investorem (Jihočeský kraj), pomoc při majetkoprávních jednání a správních řízení.
 - Modernizace veřejné hromadné dopravy, elektronizace informačního a odbavovacího systému. Rozvíjení principů tzv. Chytré městské mobility - logické provázání všech způsoby dopravy.
 - Projednat s partnerskými městy v aglomeraci na možnosti jízdného zdarma v systému MHD pro dospělý doprovod dětí do 3 let.
 - Podpořit infrastrukturu pro elektromobilitu.
@@ -60,11 +60,11 @@ Propojení Tesco-Slapy: Soustavná spolupráce s investorem (Jihočeský kraj), 
 - Novelizovat a revidovat dotační programy v oblasti kultury.
 - Zvážit možnosti a dopady případného převedení produkčních činností odboru kultury do samostatné městské - kulturní organizace. Zpracovat veškeré aspekty - majetkové, ekonomické i personální.
 - Dále rozvíjet služby infocentra, důraz na širší nabídku otevíracích hodin v sezoně i mimo ni.  
-Modernizovat provoz městské knihovny, připravit k realizaci související změny stavební dispozice.
+- Modernizovat provoz městské knihovny, připravit k realizaci související změny stavební dispozice.
 - Zpracovat koncepci interiérové náplně a aktivních činností v zrekonstruovaném objektu Křižíkovy elektrárny u Lužnice. Projednat s rezortem základního i středního školství možnosti interaktivní technické expozice. Využít prostor víceúčelově i pro kulturní a vzdělávací akce.
 
 ## Životní prostředí
-Pokračovat v revitalizaci zeleně na Sídlišti nad Lužnicí s využitím prostorů pro volnočasové aktivity – vždy s projednáním a zapojením místních obyvatel.
+- Pokračovat v revitalizaci zeleně na Sídlišti nad Lužnicí s využitím prostorů pro volnočasové aktivity – vždy s projednáním a zapojením místních obyvatel.
 - Novelizovat koncepci nakládání s odpady ve vazbě na očekávané legislativní změny. Motivovat obyvatele k preciznějšímu třídění, následovat příklady úspěšné praxe jiných měst.
 - Nadále dbát na zákonem uloženou míru obnovy vodohospodářské infrastruktury v majetku Vodárenské společnosti Táborsko, v ekonomické strategii klást důraz na cenotvorbu. Průběžně informovat o procesu výběrového řízení a přípravy nové provozní smlouvy.
 - V rámci možností samosprávy konat opatření k zadržování vody v krajině – obnovy zaniklých vodních ploch, optimální druhová skladba dřevinového složení apod.

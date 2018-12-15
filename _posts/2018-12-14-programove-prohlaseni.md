@@ -17,7 +17,7 @@ Tábor 2020, Piráti, Jinak! a ČSSD - koaliční partneři se za účelem řád
 - Pro jednání zastupitelstva a rady využívat informační systém, který umožní správu návrhů a jejich materiálů v digitální podobě a bude je automaticky je provazovat s výsledky hlasování nebo závěry příslušných komisí či odborných pracovních skupin. Postup doporučí pracovní skupina pro ITOSC. Bude zachováno zveřejňování jmenovitých hlasování orgánů města případně odborných skupin.
 - Zveřejňovat podrobný program jednání rady města a některých vybraných koncepčních materiálů, a to před jejím zasedáním.
 - Aktualizovat zásobník investičních akcí a zveřejnit jej na webu města. Dodržovat přijatá pravidla přípravy a realizace investičních akcí. Prezentovat studie a investiční záměry v přehledné mapové aplikaci s možností veřejného připomínkování.
-- Pro naplňování konceptu Smart City a kompatibilitu jeho jednotlivých záměrů navrhnout otevřenou metropolitní síť (tzv. datovou dálnici). Koordinovat jednotlivé záměry na aplikace z pohledu vzájemné kompatibility.
+- Pro naplňování konceptu Smart City vybudovat otevřenou metropolitní síť (tzv. datovou dálnici). Koordinovat jednotlivé záměry na aplikace z pohledu vzájemné kompatibility.
 - Otevřít participativní segment rozpočtu města s alokací částky 2 mil Kč pro rok 2020. V průběhu roku 2019 ověřit pilotní provoz v případě dodatečných příjmů rozpočtu města.
 - Jednání komisí otevřít veřejnosti na základě registrace zájemců (při zajištění ochrany osobních údajů).
 - Zajistit efektivní a profesionální komunikaci města a úřadu s občany prostřednictvím mediálního koordinátora.
@@ -41,7 +41,7 @@ Tábor 2020, Piráti, Jinak! a ČSSD - koaliční partneři se za účelem řád
 - Oživit záměr výstavby parkovacího domu u pivovaru pro Staré město s využitím instrumentu architektonické soutěže. Řešit parkování na Sídlišti nad Lužnicí a v oblasti Nového města (nádraží) formou vícepodlažního parkování.
 - Propojení ulic Chýnovská – Vožická: Akceptovat navržené řešení v případě dotační podpory IROP (Jihočeský kraj) a prověřit možnost zvýšení protihlukové ochrany v režii města.
 - Propojení Vožická – I/19: Prověřit další možnosti vedení trasy při splnění podmínek orgánů státní správy.   
-- Propojení Tesco-Slapy: Soustavná spolupráce s investorem (Jihočeský kraj), pomoc při majetkoprávních jednání a správních řízení.
+- Propojení Tesco-Slapy: Soustavná spolupráce s investorem (Jihočeský kraj), pomoc při majetkoprávních jednání a správních řízeních.
 - Modernizace veřejné hromadné dopravy, elektronizace informačního a odbavovacího systému. Rozvíjení principů tzv. Chytré městské mobility - logické provázání všech způsoby dopravy.
 - Projednat s partnerskými městy v aglomeraci na možnosti jízdného zdarma v systému MHD pro dospělý doprovod dětí do 3 let.
 - Podpořit infrastrukturu pro elektromobilitu.

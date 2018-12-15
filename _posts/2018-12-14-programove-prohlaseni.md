@@ -89,14 +89,23 @@ Tábor 2020, Piráti, Jinak! a ČSSD - koaliční partneři se za účelem řád
 - Otevření diskuze o současné podobě školství a aktuálních trendech ve vzdělávání s odbornou i širší veřejností
 
 ## Investiční akce
-- Zahájit či dokončit zásadní investiční akce: Centrum pro seniory, Budějovická ulice, parkovací dům v lokalitě - - Sídliště Nad Lužnicí, plavecký stadion 2. etapa, sportovní hala Mír, revitalizace Pintovky, Křižíkova elektrárna, hřiště Helsinská, propojka Chýnovská-Vožická, průmyslová zóna.
+- Zahájit či dokončit zásadní investiční akce:
+  - Centrum pro seniory,
+  - Budějovická ulice,
+  - parkovací dům v lokalitě Sídliště Nad Lužnicí,
+  - plavecký stadion 2. etapa, sportovní hala Mír,
+  - revitalizace Pintovky,
+  - Křižíkova elektrárna,
+  - hřiště Helsinská,
+  - propojka Chýnovská-Vožická,
+  - průmyslová zóna.
 - Aktivně připravovat urbanizaci areálu Dvorce. Zohlednit závěry sociodemografické studie při přípravě této městské čtvrti. Připravit časové rozfázování do udržitelných etap, vytvořit stálou pracovní skupinu rady.
 - Napojit stezkami pro pěší a cyklisty příměstské oblasti Tábora:
   - Záluží - průmyslová zóna,
-  - Větrovy – Radimovice,
+  - Větrovy - Radimovice,
   - Všechov - Pražské sídliště,
-  - Čekanice – průmyslová zóna Vožická,
-a dále hledat možnosti propojení Knížecí rybník – Zárybničná Lhota.  
+  - Čekanice - průmyslová zóna Vožická,
+  - dále hledat možnosti propojení Knížecí rybník – Zárybničná Lhota.  
 
 ## Veřejný prostor
 - Efektivně využívat funkce městského architekta.

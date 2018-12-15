@@ -17,7 +17,7 @@ Tábor 2020, Piráti, Jinak! a ČSSD - koaliční partneři se za účelem řád
 - Pro jednání zastupitelstva a rady využívat informační systém, který umožní správu návrhů a jejich materiálů v digitální podobě a bude je automaticky je provazovat s výsledky hlasování nebo závěry příslušných komisí či odborných pracovních skupin. Postup doporučí pracovní skupina pro ITOSC. Bude zachováno zveřejňování jmenovitých hlasování orgánů města případně odborných skupin.
 - Zveřejňovat podrobný program jednání rady města a některých vybraných koncepčních materiálů, a to před jejím zasedáním.
 - Aktualizovat zásobník investičních akcí a zveřejnit jej na webu města. Dodržovat přijatá pravidla přípravy a realizace investičních akcí. Prezentovat studie a investiční záměry v přehledné mapové aplikaci s možností veřejného připomínkování.
-- Pro naplňování konceptu Smart City vybudovat otevřenou metropolitní síť (tzv. datovou dálnici). Koordinovat jednotlivé záměry na aplikace z pohledu vzájemné kompatibility.
+- Pro naplňování konceptu Smart City vybudovat otevřenou metropolitní síť (tzv. datovou dálnici). Koordinovat jednotlivé aplikace z pohledu vzájemné kompatibility.
 - Otevřít participativní segment rozpočtu města s alokací částky 2 mil Kč pro rok 2020. V průběhu roku 2019 ověřit pilotní provoz v případě dodatečných příjmů rozpočtu města.
 - Jednání komisí otevřít veřejnosti na základě registrace zájemců (při zajištění ochrany osobních údajů).
 - Zajistit efektivní a profesionální komunikaci města a úřadu s občany prostřednictvím mediálního koordinátora.
@@ -91,7 +91,12 @@ Tábor 2020, Piráti, Jinak! a ČSSD - koaliční partneři se za účelem řád
 ## Investiční akce
 - Zahájit či dokončit zásadní investiční akce: Centrum pro seniory, Budějovická ulice, parkovací dům v lokalitě - - Sídliště Nad Lužnicí, plavecký stadion 2. etapa, sportovní hala Mír, revitalizace Pintovky, Křižíkova elektrárna, hřiště Helsinská, propojka Chýnovská-Vožická, průmyslová zóna.
 - Aktivně připravovat urbanizaci areálu Dvorce. Zohlednit závěry sociodemografické studie při přípravě této městské čtvrti. Připravit časové rozfázování do udržitelných etap, vytvořit stálou pracovní skupinu rady.
-- Napojit stezkami pro pěší a cyklisty příměstské oblasti Tábora a Radimovice (Záluží, Větrovy – Radimovice, Všechov, Čekanice – průmyslová zóna Vožická), dále hledat možnosti propojení Knížecí rybník – Zárybničná Lhota.  
+- Napojit stezkami pro pěší a cyklisty příměstské oblasti Tábora:
+  - Záluží - průmyslová zóna,
+  - Větrovy – Radimovice,
+  - Všechov - Pražské sídliště,
+  - Čekanice – průmyslová zóna Vožická,
+a dále hledat možnosti propojení Knížecí rybník – Zárybničná Lhota.  
 
 ## Veřejný prostor
 - Efektivně využívat funkce městského architekta.

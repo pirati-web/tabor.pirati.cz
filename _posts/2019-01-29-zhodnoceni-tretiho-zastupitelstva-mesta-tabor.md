@@ -24,9 +24,9 @@ Tyto obavy rozptýlil František Korbel a Miloš Tuháček s tím, že se jedná
 Tento byl tedy zprostředkován a dle informací byl dosah a zájem vysoký. 
 Na přenos reagovalo okolo 700 lidí a průměrně jej sledovalo 30 - 35 lidí.
 
-Informace k přenosu a záznamu zastupitelstva zde: https://frankbold.org/poradna/kategorie/korupce-a-jednani-uredniku/rada/zverejnovani-zaznamu-ze-zasedani-zastupitelstva
+Informace k přenosu a záznamu zastupitelstva [zde](https://frankbold.org/poradna/kategorie/korupce-a-jednani-uredniku/rada/zverejnovani-zaznamu-ze-zasedani-zastupitelstva).
 
-Program a důvodové zprávy zde: http://www.taborcz.eu/assets/File.ashx?id_org=16470&id_dokumenty=62924
+Program a důvodové zprávy [zde](http://www.taborcz.eu/assets/File.ashx?id_org=16470&id_dokumenty=62924).
 
 První bod, ve kterém se rozhořela debata, bylo ukončení změny územního plánu č. 5 v areálu bývalých kasáren. Bod 1/1. Zastupitelstvo napříč souhlasilo s návrhem opozičních zastupitelů, aby byla vyřešena návaznost inženýrských sítí na pozemku investora na sousedící pozemky v majetku města. S tím Piráti plně souhlasí. Celkový počet hlasů pro byl 22. O dalším vývoji v nově vznikající čtvrti Dvorce vás budeme informovat.
 

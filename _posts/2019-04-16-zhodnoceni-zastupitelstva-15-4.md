@@ -10,10 +10,10 @@ description: >-
   Na 5.táborkém zastupitelstvu byl přijat nový jednací řád, který ukotvuje internetový stream z jednání. Přijato bylo přistoupení k Paktu starostů a primátorů. Blok věnovaný veřejnosti nakonec trval 90 minut.
 tags: zastupitelstvo
 ---
-Jednání zastupitelstva města Tábora z 15.4.19 původně vypadalo, že by mohlo zkončit do 19té hodiny.
-Opak byl pravdou. Po hladkém přijetí nových stanov pro jednání,
+Jednání zastupitelstva města Tábora z 15.4.19 původně vypadalo, že by mohlo zkončit do sedmé hodiny večerní.
+Opak byl ale pravdou. Po hladkém přijetí nových stanov pro jednání,
 které po pirátsku ukotvují pořizování internetového __vysílání - stramu__,
-přišelo na řadu jednání o přistoupení města Tábora k [Paktu starostů a primátorů](https://www.mzp.cz/cz/pakt_starostu_a_primatoru) a odhad konce na 19hodinu se rozplynul jako pára.
+přišlo na řadu jednání o přistoupení města Tábora k [Paktu starostů a primátorů](https://www.mzp.cz/cz/pakt_starostu_a_primatoru) a odhad brzkého konce se rozplynul jako pára.
 
 Přistoupení k paktu je závazek města, že do roku 2030 sníží emise skleníkových plynů o 40%.
 
@@ -32,31 +32,31 @@ Věřím, že to byl od
 Dalšími body bylo schválení dotací v rámci programu Zdravého města Tábora a programu na podporu environmentální výchovy.
 Letos se sešlo nezvyklé množství žádostí, jejichž kvalita byla nevalná.
 Hodnocení žádostí bylo nesnadný.
-Panuje shoda, že minimálně tyto dva dotační programy letos projdou reformou.
+Panuje shoda, že minimálně tyto dva dotační programy letos projdou reformou. Stejně jako dotační programy pro sport, kulturu a cestovní ruch.
 Takovou, která umožní lepší naplnění jejich cílů.
 
-Těsně po 18té hodině dostala prostor veřejnost.
-Krom několika častých řečníků, pak vystoupil zástupce Měšic s kritikou skoro započaté stavby přeložky Chýnovská - Vožická.
+Těsně po šesté hodině večer dostala prostor veřejnost.
+Kromě několika častých řečníků vystoupil zástupce Měšic s kritikou skoro započaté stavby přeložky Chýnovská - Vožická.
 Tuto stavbu jsem před volbami kritizoval.
 Stále mám zato, že pakliže stavět přeložku, nejprve měla být realizována její severní větev.
-Stále mám zato, že stavba není štastně připravena.
+A také to, že stavba není štastně připravena.
 Proces přípravy je však tak pokročilý,
 že jsme v rámci povolebních jednání __souhlasili s její realizací za předpokladu "dotační podpory IROP (Jihočeský kraj)" a dalších víceopatření pro zlepšení životního prostředí v místě__.
 Je to bolestivý kompromis.
 Je vyvážen možností realizovat pirátský program,
-který dle mého soudu přinese v součtu víc pozitiv, než je toto negativum pro část Měšic.
+který dle mého soudu přinese v součtu víc pozitiv, než je toto negativum pro část Měšic. 
 
 Před pár týdny jsem přijal nový osadní výbor Měšic,
 který vznesl řadu výtek a podezření na proces přípravy této dopravní stavby.
-Některé byly natolik závažné, že jsem svolal pracovní schůzku s předešlým vedením a vedoucími dotčených odborů.
+Některé byly natolik závažné, že jsem svolal pracovní schůzku s předešlým vedením města a vedoucími dotčených odborů.
 Ti však všechny pochybnosti rozptýlili.
-Konstatovali jsme, že nyní je tedy nutné ve zrychleném tempu spět k realizaci severní části.
-Na to konto odbor správy majetku personálně posílí agendu výkupu pozemků, odbor dopravy dotáhne stanovisko PČR o napojení na I/19 a budeme se snažit přesvědčit kraj, aby se i tato stavba ocitla na seznamu dopravních priorit.
+Konstatovali jsme, že nyní je tedy nutné ve zrychleném tempu realizovat severní část.
+Na to konto odbor správy majetku personálně posílí agendu výkupu pozemků, odbor dopravy dotáhne stanovisko PČR o napojení na I/19 a budeme se snažit přesvědčit kraj, aby se i tato stavba ocitla na seznamu dopravních priorit. Dle našeho názoru právě tato část uleví obyvatelům města od tranzitní dopravy a dopravy obsluhující průmyslovou zónu.
 
 Další emotivním vystoupením byla kritika výstavby "ubytovny" v bývalé autoškole Zabloudil.
 K tomuto problému se víří emocemi a i my vnímáme negativní důsledky soužití v blízkosti těchto zařízení.
 Je však nasnadě mít na stole potvrzená čísla a další postup rozhodovat na základě nich, nikoli vířených emocí.
-Proto poprosíme o analízu kriminality a jiná čísla.
+Proto poprosíme o analýzu kriminality a jiná čísla.
 
-Následující blok se už nesl v rychlejším tempu díky jednání o formalitách.
+Následující blok se už nesl v rychlejším tempu díky jednání o bodech v nichž panovala shoda.
 V bodě různé jsme pak ještě vyslyšeli kolegy a jednání zkončilo před půl desátou.

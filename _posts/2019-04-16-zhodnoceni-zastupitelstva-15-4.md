@@ -22,18 +22,16 @@ Je to gesto, že ve světle změn klimatu a alarmujícího stavu planety v souvi
 se budeme snažit téma uchopit zodpovědně.
 
 Úkolem po vstupu do paktu je vypracování tzv. [Akčního plánu pro udržitelnou energii a klima (SECAP)](http://www.simpla-project.eu/en/guidelines/introduction-and-problem-setting/definitions/what-is-a-secap/).
-První jeho částí je inventura emisí, aby bylo jasné, jakým dílem k problému přispívá Tábor.
-Od tohoto stavu se pak budou porovnávat změny, které by v budoucnu měly přijít díky realizaci některých opatření,
-které navrhne ve své další části.
+Ten se skládá ze dvou částí. Tou první je inventura emisí, aby bylo jasné, jakým dílem k problému přispívá Tábor.
+Tou druhou jsou navržená opatření, díky jejichž realizaci bude docházet k postupnému snižování emisí. O jejich realizaci se bude vždy rozhodovat na radě a nebo zastupitelstvu.
 
-Relativně jasná věc se tak zvrhla v hodinovou diskusi, která se cyklicky vracela a místy byla k uzoufání.
+Relativně jasná věc se i tak zvrhla v hodinovou diskusi, která se cyklicky vracela na začáte a místy byla k uzoufání.
 Věřím, že to byl od
 
 Dalšími body bylo schválení dotací v rámci programu Zdravého města Tábora a programu na podporu environmentální výchovy.
-Letos se sešlo nezvyklé množství žádostí, jejichž kvalita byla nevalná.
-Hodnocení žádostí bylo nesnadný.
-Panuje shoda, že minimálně tyto dva dotační programy letos projdou reformou. Stejně jako dotační programy pro sport, kulturu a cestovní ruch.
-Takovou, která umožní lepší naplnění jejich cílů.
+Letos se sešlo nezvyklé množství žádostí, jejichž kvalita byla nižší než v předchozích letech.
+Hodnocení žádostí bylo nesnadné, ale věříme, že komise rozhodla správně.
+Panuje ale shoda napříč zastupitelstvem, že minimálně tyto dva dotační programy letos projdou reformou. Stejně jako dotační programy pro sport, kulturu a cestovní ruch. A to změnou takovou, která umožní lepší naplnění jejich cílů.
 
 Těsně po šesté hodině večer dostala prostor veřejnost.
 Kromě několika častých řečníků vystoupil zástupce Měšic s kritikou skoro započaté stavby přeložky Chýnovská - Vožická.

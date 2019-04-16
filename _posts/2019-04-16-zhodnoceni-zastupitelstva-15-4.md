@@ -12,7 +12,7 @@ tags: zastupitelstvo
 ---
 Jednání zastupitelstva města Tábora z 15.4.19 původně vypadalo, že by mohlo zkončit do sedmé hodiny večerní.
 Opak byl ale pravdou. Po hladkém přijetí nových stanov pro jednání,
-které po pirátsku ukotvují pořizování internetového __vysílání - stramu__,
+které po pirátsku ukotvují pořizování internetového __vysílání - streamu__,
 přišlo na řadu jednání o přistoupení města Tábora k [Paktu starostů a primátorů](https://www.mzp.cz/cz/pakt_starostu_a_primatoru) a odhad brzkého konce se rozplynul jako pára.
 
 Přistoupení k paktu je závazek města, že do roku 2030 sníží emise skleníkových plynů o 40%.
@@ -41,7 +41,7 @@ Proces přípravy je však tak pokročilý,
 že jsme v rámci povolebních jednání __souhlasili s její realizací za předpokladu "dotační podpory IROP (Jihočeský kraj)" a dalších víceopatření pro zlepšení životního prostředí v místě__.
 Je to bolestivý kompromis.
 Je vyvážen možností realizovat pirátský program,
-který dle mého soudu přinese v součtu víc pozitiv, než je toto negativum pro část Měšic. 
+který dle mého soudu přinese v součtu víc pozitiv, než je toto negativum pro část Měšic.
 
 Před pár týdny jsem přijal nový osadní výbor Měšic,
 který vznesl řadu výtek a podezření na proces přípravy této dopravní stavby.

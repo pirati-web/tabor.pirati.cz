@@ -4,7 +4,7 @@ published: true
 category: CLANKY
 title: Zhodnocení jednání zastupitelstva 15.4.19
 date: '2019-04-16'
-author: Václav Kleanda
+author: Václav Klecanda
 image: /static/media/zastupitelstvo.jpg
 description: >-
   Na 5.táborkém zastupitelstvu byl přijat nový jednací řád, který ukotvuje internetový stream z jednání. Přijato bylo přistoupení k Paktu starostů a primátorů. Blok věnovaný veřejnosti nakonec trval 90 minut.
@@ -56,4 +56,4 @@ Je však nasnadě mít na stole potvrzená čísla a další postup rozhodovat n
 Proto poprosíme o analýzu kriminality a jiná čísla.
 
 Následující blok se už nesl v rychlejším tempu díky jednání o bodech v nichž panovala shoda.
-V bodě různé jsme pak ještě vyslyšeli kolegy a jednání zkončilo před půl desátou.
+V bodě různé jsme pak ještě vyslyšeli kolegy a jednání skončilo před půl desátou.

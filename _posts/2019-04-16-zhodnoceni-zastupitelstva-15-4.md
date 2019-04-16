@@ -26,7 +26,6 @@ Ten se skládá ze dvou částí. Tou první je inventura emisí, aby bylo jasn�
 Tou druhou jsou navržená opatření, díky jejichž realizaci bude docházet k postupnému snižování emisí. O jejich realizaci se bude vždy rozhodovat na radě a nebo zastupitelstvu.
 
 Relativně jasná věc se i tak zvrhla v hodinovou diskusi, která se cyklicky vracela na začáte a místy byla k uzoufání.
-Věřím, že to byl od
 
 Dalšími body bylo schválení dotací v rámci programu Zdravého města Tábora a programu na podporu environmentální výchovy.
 Letos se sešlo nezvyklé množství žádostí, jejichž kvalita byla nižší než v předchozích letech.

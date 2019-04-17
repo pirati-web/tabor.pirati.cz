@@ -10,7 +10,7 @@ description: >-
   Na 5.táborkém zastupitelstvu byl přijat nový jednací řád, který ukotvuje internetový stream z jednání. Přijato bylo přistoupení k Paktu starostů a primátorů. Blok věnovaný veřejnosti nakonec trval 90 minut.
 tags: zastupitelstvo
 ---
-Jednání zastupitelstva města Tábora z 15.4.19 původně vypadalo, že by mohlo zkončit do sedmé hodiny večerní.
+Jednání zastupitelstva města Tábora z 15.4.19 původně vypadalo, že by mohlo skončit do sedmé hodiny večerní.
 Opak byl ale pravdou. Po hladkém přijetí nových stanov pro jednání,
 které po pirátsku ukotvují pořizování internetového __vysílání - streamu__,
 přišlo na řadu jednání o přistoupení města Tábora k [Paktu starostů a primátorů](https://www.mzp.cz/cz/pakt_starostu_a_primatoru) a odhad brzkého konce se rozplynul jako pára.

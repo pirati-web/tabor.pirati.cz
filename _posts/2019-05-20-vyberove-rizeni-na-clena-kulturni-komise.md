@@ -5,7 +5,7 @@ category: CLANKY
 title: Výběrové řízení na člena kulturní komise rady města Tábora
 date: '2019-05-25 10:00am'
 author: Jan Příbramský
-image: /static/media/prelozkamapa.jpg
+image: /static/media/rada.png
 description: >-
   Výběrové řízení na člena kulturní komise rady města Tábora
 tags: 'rada, tábor, komise, kultura, kulturní komise'

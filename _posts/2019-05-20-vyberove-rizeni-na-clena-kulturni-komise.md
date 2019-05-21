@@ -1,6 +1,6 @@
 ---
 layout: blog
-published: false
+published: true
 category: CLANKY
 title: Výběrové řízení na člena kulturní komise rady města Tábora
 date: '2019-05-22 10:00am'
@@ -8,10 +8,10 @@ author: Jan Příbramský
 image: /static/media/rada.png
 description: >-
   Výběrové řízení na člena kulturní komise rady města Tábora
-tags: 'rada, tábor, komise, kultura, kulturní komise'
+tags: 'komise, kultura, rada, Tábor'
 ---
 
-Vyhlašujeme výběrové řízení na nominanta do 
+Vyhlašujeme výběrové řízení na nominanta do kulturní komise rady města Tábor. Více informací o komisi naleznete [ZDE](http://www.taborcz.eu/komise-kulturni/ds-3281/archiv=0&p1=65682)  
 
 ### Co požadujeme:
 - Znalost problematiky kultury, především pak v Táboře

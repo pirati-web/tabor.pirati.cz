@@ -3,7 +3,7 @@ layout: blog
 published: true
 category: CLANKY
 title: Zhodnocení šestého zastupitelstva v Táboře
-date: '2019-05-21 09:18pm'
+date: '2019-05-21 09:18am'
 author: Jan Příbramský
 image: /static/media/zastupitelstvo.jpg
 description: >-

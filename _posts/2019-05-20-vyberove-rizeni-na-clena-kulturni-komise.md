@@ -21,7 +21,7 @@ Vyhlašujeme výběrové řízení na nominanta do
 - zkušenosti s pořádáním kulturních akcí, či jiné zapojení do kulturního dění výhodou
 - zkušenosti s prací v komisích rady a výborech zastupitelstva výhodou
 
-Případné zájemce prosíme o zaslání informací o své osobě, motivaci a shodou s požadavky na e-mail místopředsedy místního sdružení jan.pribramsky@kulturne.com do 31.5.2019. Piráti Tábor si vyhrazují právo termín prodloužit. 
+Případné zájemce prosíme o zaslání informací o své osobě, motivaci a shodou s požadavky na e-mail místopředsedy místního sdružení jan.pribramsky@kulturne.com do 3.6.2019. Piráti Tábor si vyhrazují právo termín prodloužit. 
  
 ### Termín nástupu: 
 Ihned po schválení Radou města Tábor

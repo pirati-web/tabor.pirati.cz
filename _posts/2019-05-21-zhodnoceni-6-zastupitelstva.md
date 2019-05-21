@@ -4,14 +4,14 @@ published: true
 category: CLANKY
 title: Zhodnocení šestého zastupitelstva v Táboře
 date: '2019-05-21 09:18am'
-author: Jan Příbramský
+author: Zastupitelský klub
 image: /static/media/zastupitelstvo.jpg
 description: >-
  V pondělí 20. května se uskutečnilo šesté zasedání zastupitelstva města Tábora. Za podstatné body, které se projednávaly, považujeme demolici bývalých kasáren ve Dvorcích, start výběrového řízení na stavitele Centra pro seniory, přeložku Chýnovská - Vožická a střednědobý výhled rozpočtu. 
  
 tags: zastupitelstvo, zastupitele, prelozka, přeložka, Dvorce, Centrum, Senior, rozpočet
 ---
-# V pondělí 20. května se uskutečnilo šesté zasedání zastupitelstva města Tábora. Za podstatné body, které se projednávaly, považujeme demolici bývalých kasáren ve Dvorcích, start výběrového řízení na stavitele Centra pro seniory, přeložku Chýnovská - Vožická a střednědobý výhled rozpočtu.  
+V pondělí 20. května se uskutečnilo šesté zasedání zastupitelstva města Tábora. Za podstatné body, které se projednávaly, považujeme demolici bývalých kasáren ve Dvorcích, start výběrového řízení na stavitele Centra pro seniory, přeložku Chýnovská - Vožická a střednědobý výhled rozpočtu.  
 
 Materiály k jednání jsou k naleznutí zde: http://www.taborcz.eu/assets/File.ashx?id_org=16470&id_dokumenty=65146
  

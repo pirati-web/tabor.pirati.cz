@@ -3,7 +3,7 @@ layout: blog
 published: false
 category: CLANKY
 title: Výběrové řízení na člena kulturní komise rady města Tábora
-date: '2019-05-25 10:00am'
+date: '2019-05-22 10:00am'
 author: Jan Příbramský
 image: /static/media/rada.png
 description: >-

@@ -1,53 +1,32 @@
 ---
 layout: blog
-published: false
+published: true
 category: CLANKY
-image: /static/media/rada.png
-title: Zhodnocení šestého zastupitelstva v Táboře
-description: V pondělí 20. května se uskutečnilo šesté zasedání zastupitelstva města Tábora. Za podstatné body, které se projednávaly, považujeme demolici bývalých kasáren ve Dvorcích, start výběrového řízení na stavitele Centra pro seniory, přeložku Chýnovská - Vožická a střednědobý výhled rozpočtu. 
-tags: zastupitele, zastupitelstvo, prelozka, rozpocet, senior centrum
-author: Zastupitelský klub
-date: 2019-05-21
+title: Zhodnocení čtvrtého zastupitelstva v Táboře
+date: '2019-03-05 07:18pm'
+author: Jan Příbramský
+image: /static/media/zastupitelstvo.jpg
+description: >-
+  Na 4.táborkém zastupitelstvu byly nejvíce zajímavé body o připojení města k
+  organizaci otevrenamesta.cz, ukončení prodeje bytů a debata o změnách
+  grantových programů. Z konce zasedání je potřeba zmínit debatu o Centru pro
+  seniory, o ubytovnách a problematice havranů.
+tags: zastupitelstvo
 ---
+### V pondělí 20. května se uskutečnilo šesté zasedání zastupitelstva města Tábora. Za podstatné body, které se projednávaly, považujeme demolici bývalých kasáren ve Dvorcích, start výběrového řízení na stavitele Centra pro seniory, přeložku Chýnovská - Vožická a střednědobý výhled rozpočtu. 
 
-Hledáme dva nominanty za Piráty.
+Materiály k jednání jsou k naleznutí zde: http://www.taborcz.eu/assets/File.ashx?id_org=16470&id_dokumenty=65146
+ 
+### Areál Dvorce 
+V bodu 5/0 byla zastupitelstvem schválena žádost o dotaci na demolici a revitalizaci prostor bývalých kasáren poblíž Pražského sídliště. Díky zbourání zdí a úpravě celého prostoru, se otevře prostor budoucí čtvrti Dvorce veřejnosti. Materiál z bouraných celků se deponuje na místě k dalšímu využití, což je v souladu s trendem cirkularity materiálových toků. Jižní část bývalých kasáren poblíž ulice kpt. Jaroše (hlavní ulice z Píseckého rozcestí směrem k nemocnici), je určena k rychlejšímu využití tak, aby mohl začít postupný rozvoj území. Souhlasíme také s tím, aby se na úpravě parteru okolo památníku podíleli architekti a byl tak zachován pietní duch místa. 
+ 
+### Centrum pro seniory
+Výstavbu Centra pro seniory u nemocnice jsme podpořili v bodě 5/1. Stalo se tak nejen po interní diskusi, ale i po zhodnocení analýz potřebnosti a kontroly kalkulace stavby, které jsme si vyžádali. Toto centrum dle našeho názoru vyřeší poptávku nejen po bytech s pečovatelskou službou, ale také potřeby osob se zvláštním režimem. Umožní tak v Táboře třístupňovou péčí o seniory. Nepůjde sice o klasický domov pro seniory, ale jeho výstavbou se částečně uvolní kapacita toho stávajícího a navíc poskytne zázemí sociálním službám, vývařovně a prádelně, která dokáže obsloužit nejen nové centrum, ale i G-Centrum.K tomuto tématu připravujeme samostatný článek.
+ 
+### Smlouva o budoucí směně komunikací
+Budoucí směna komunikací se řešila v bodě 7/0. Ta by se měla uskutečnit po dostavení nových krajských silnic. Jedná se o jižní a severní část přeložky Měšice - Čekanice a přeložku Tesco - Slapy. Uvědomujeme si, že výstavbou jižní části, která už je nyní plně v gesci kraje, může dojít k částečným problémům. Těmi mohou být jak hlukové limity, tak problematika křižovatky Vožická - Zavadilská. Oba problémy budeme analyzovat a pohlídáme jak dodržení hlukových limitů, tak podpoříme kompenzační opatření pro obyvatele Měšic. Stejně tak budeme chtít takové řešení křižovatky Vožická - Zavadilská, aby nedošlo k neúměrnému zatížení obyvatel v místě a k dopravním komplikacím.  Uvědomujeme si ale, že případným neschválením tohoto bodu, bychom mohli zablokovat budoucí stavby, které Tábor potřebuje. 
+ 
+###  Střednědobý výhled rozpočtu
+Bod 9/3 se věnoval střednědobému výhledu rozpočtu. Jsme si vědomi toho, že je potřeba řešit trvale neudržitelné náklady na údržbu zeleně a na odpadové hospodářství. Proto, a z řady dalších důvodů (např. zádrž vody), chystá odbor životního prostředí úpravu plánu údržby, spočívajícím v definování záměrně neudržovaných ploch. Tedy takzvaných květnatých luk. Stejně tak se ve výhledu počítá s udržitelným financováních budoucích investic, kterými jsou například Centrum pro Seniory, dokončení Budějovické ulice, výstavba sportovní haly a dalších investic. Věříme, že je výhled nastaven správně a že se budou výdaje a příjmy zpřesňovat v rozpočtu na daný rok.  
 
-### Co nabízíme:
-Výkon funkce člena Dozorčí rady Správy lesů města Tábora s.r.o.,
-nebo Dozorčí komise G – centrum Tábor.
-
-### Náplň práce:
-Činnost Dozorčí rady je vyspecifikována ve stanovách společnosti, s. 5-6. Stanovy jsou k nahlédnutí [ZDE]( https://or.justice.cz/ias/ui/vypis-sl-detail?dokument=12304202&subjektId=694056&spis=418110)
-
-Hlavní náplní Dozorčí komise je poradní, iniciativní a kontrolní činnost příspěvkové organizace G – centrum Tábor
-
-### Co požadujeme:
-- Odbornost v oboru lesnictví a myslivosti, resp. orientaci v sociální problematice
-- Orientaci v účetnictví
-- Názorovou shodu s programem Pirátů
-- Schopnost naučit se pracovat se softwarem využívaným Piráty, včetně systému vykazování práce
-- Základní technickou gramotnost
-- Pravidelnou komunikaci se zastupitelským klubem Piráti Tábor a členskou základnou
-- Bezúhonnost a vysokou osobní integritu
-- Představení se na fóru, obhajobu svých tezí
-
-### K přihlášce zájemce připojí tyto doklady:
-- Strukturovaný 	životopis
-- Motivační dopis obsahující vizi působení v dané funkci
-- [Čestné prohlášení k výběrovému řízení](https://tabor.pirati.cz/static/cestne-prohlaseni-tabor.pdf)
-
-Podmínkou zařazení do výběrového řízení je zaslání prosté kopie čestného prohlášení k výběrovému řízení,
-strukturovaného životopisu a motivačního dopisu obsahující vizi působení na dané pozici.
-Životopis a motivační dopis vítěze výběrového řízení bude zveřejněn i bez předchozího souhlasu.
-
-Termín nástupu: Ihned po schválení Radou města Tábor
-
-Přihlášku lze podat elektronicky na email předsedy klubu vaclav.klecanda@pirati.cz do uterý 20. 11. 2018, 23:59.
-Zastupitelský klub si vyhrazuje právo termín prodloužit.
-
-### Hodnotící kritéria:
-- Odbornost: 40 %
-- Znalost pirátského programu a argumentace: 20 %
-- Celkový dojem: 15 %
-- Předchozí zkušenosti: 10 %
-- Reference členů a příznivců Pirátů: 15 %
+Na zastupitelstvu se řešila i řada dalších témat. Pokud by vás některá z nich zajímala, především náš postoj k nim, neváhejte se nám ozvat.

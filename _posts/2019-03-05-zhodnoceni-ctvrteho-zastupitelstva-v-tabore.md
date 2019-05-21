@@ -37,4 +37,4 @@ Na interpelaci ohledně havranů reagoval Václav Klecanda:
 
 > připravuji rozsáhlý dokument o této problematice, kde chci nastínit, jaké kroky město už udělalo, jak byly úspěšné a co se v rámci zákona dá ještě udělat.
 
-Jednání se chýlilo ke konci tentokrát již před sedmou hodinou, avšak poté se v podě různé rozhořela diskuse o seniordomu a řadě dalších témat, která zkončila až před osmou.
+Jednání se chýlilo ke konci tentokrát již před sedmou hodinou, avšak poté se v podě různé rozhořela diskuse o seniordomu a řadě dalších témat, která zkončila až před osmou. 

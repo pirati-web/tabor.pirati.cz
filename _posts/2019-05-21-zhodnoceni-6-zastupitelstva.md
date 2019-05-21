@@ -11,7 +11,7 @@ description: >-
  
 tags: zastupitelstvo, zastupitele, prelozka, přeložka, Dvorce, Centrum, Senior, rozpočet
 ---
-### V pondělí 20. května se uskutečnilo šesté zasedání zastupitelstva města Tábora. Za podstatné body, které se projednávaly, považujeme demolici bývalých kasáren ve Dvorcích, start výběrového řízení na stavitele Centra pro seniory, přeložku Chýnovská - Vožická a střednědobý výhled rozpočtu. 
+# V pondělí 20. května se uskutečnilo šesté zasedání zastupitelstva města Tábora. Za podstatné body, které se projednávaly, považujeme demolici bývalých kasáren ve Dvorcích, start výběrového řízení na stavitele Centra pro seniory, přeložku Chýnovská - Vožická a střednědobý výhled rozpočtu.  
 
 Materiály k jednání jsou k naleznutí zde: http://www.taborcz.eu/assets/File.ashx?id_org=16470&id_dokumenty=65146
  

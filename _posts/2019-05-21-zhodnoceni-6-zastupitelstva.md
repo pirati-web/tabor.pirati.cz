@@ -15,7 +15,7 @@ V pondělí 20. května se uskutečnilo šesté zasedání zastupitelstva města
 
 Materiály k jednání jsou k naleznutí [ZDE](http://www.taborcz.eu/assets/File.ashx?id_org=16470&id_dokumenty=65146) 
 
-Jak se k těmto návrhům postavili pirátští zastupitelé?
+Jak se k těmto návrhům postavili pirátští zastupitelé? 
 
 ### Bývalá kasárna
 V bodu 5/0 byla zastupitelstvem schválena žádost o dotaci na demolici a revitalizaci prostor bývalých kasáren poblíž Pražského sídliště. Díky zbourání zdí a úpravě celého prostoru se otevře prostor budoucí čtvrti Dvorce veřejnosti. Materiál z bouraných celků se deponuje na místě k dalšímu využití, což je v souladu s trendem opětovného využití materiálových toků. Jižní část bývalých kasáren poblíž ulice Kpt. Jaroše (hlavní ulice z Píseckého rozcestí směrem k nemocnici), je určena k rychlejšímu využití tak, aby mohl začít postupný rozvoj území. Souhlasíme také s tím, aby se na úpravě parteru okolo památníku podíleli architekti a byl tak zachován pietní duch místa. 

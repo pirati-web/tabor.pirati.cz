@@ -9,11 +9,11 @@ image: /static/media/zastupitelstvo.jpg
 description: >-
  V pondělí 20. května se uskutečnilo šesté zasedání zastupitelstva města Tábora. Za podstatné body, které se projednávaly, považujeme demolici bývalých kasáren ve Dvorcích, start výběrového řízení na stavitele Centra pro seniory, přeložku Chýnovská - Vožická a střednědobý výhled rozpočtu. 
  
-tags: zastupitelstvo, zastupitele, prelozka, přeložka, Dvorce, Centrum, Senior, rozpočet
+tags: zastupitelstvo, přeložka, Dvorce, rozpočtový výhled
 ---
 V pondělí 20. května se uskutečnilo šesté zasedání zastupitelstva města Tábora. Za podstatné body, které se projednávaly, považujeme demolici bývalých kasáren ve Dvorcích, start výběrového řízení na stavitele Centra pro seniory, přeložku Chýnovská - Vožická a střednědobý výhled rozpočtu.  
 
-Materiály k jednání jsou k naleznutí zde: http://www.taborcz.eu/assets/File.ashx?id_org=16470&id_dokumenty=65146
+Materiály k jednání jsou k naleznutí [ZDE](http://www.taborcz.eu/assets/File.ashx?id_org=16470&id_dokumenty=65146) 
  
 ### Areál Dvorce 
 V bodu 5/0 byla zastupitelstvem schválena žádost o dotaci na demolici a revitalizaci prostor bývalých kasáren poblíž Pražského sídliště. Díky zbourání zdí a úpravě celého prostoru, se otevře prostor budoucí čtvrti Dvorce veřejnosti. Materiál z bouraných celků se deponuje na místě k dalšímu využití, což je v souladu s trendem cirkularity materiálových toků. Jižní část bývalých kasáren poblíž ulice kpt. Jaroše (hlavní ulice z Píseckého rozcestí směrem k nemocnici), je určena k rychlejšímu využití tak, aby mohl začít postupný rozvoj území. Souhlasíme také s tím, aby se na úpravě parteru okolo památníku podíleli architekti a byl tak zachován pietní duch místa. 

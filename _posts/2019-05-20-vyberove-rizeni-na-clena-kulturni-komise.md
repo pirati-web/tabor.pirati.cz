@@ -1,6 +1,6 @@
 ---
 layout: blog
-published: false
+published: true
 category: CLANKY
 title: Výběrové řízení na člena kulturní komise rady města Tábora
 date: '2019-05-22 10:00am'

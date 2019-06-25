@@ -18,7 +18,7 @@ Včerejší jednání zastupitelstva bylo tentokrát bez přímého přenosu z d
 
 Vůči pořadatelství mistrovství světa v cyklokrosu v roce 2024 jsme se vymezili. Ne snad proto, že bychom nechtěli podporovat takto významné akce nebo sport obecně. Nepodpořili jsme záměr proto, že je prostě moc drahý. Za necelých 9 milionů si koupit mediální prostor na víkend a pár dalších dní v dílčím segmentu sportovního světa není šťastná investice. Usnesení nakonec prošlo hlasy napříč celým politickým spektrem.
 
-Veletoč příspěvků se strhl při přijímání krajské dotace na smart city projekty, především pilotní projekt zbudování třech nabíjecích stanic před budovami městského úřadu na Žižkově náměstí pro potřeby nabíjení elektrických vozů, které úřad brzy zakoupí. Kolegové Dědič s Randovou argumentovali tím, že navrhovaná částka je moc velká a že slyšeli, že se auta dají nabíjet z obyčejné zásuvky, jaké mají Technické služby na náměstí. Takové řešení by jistě ve světě elektromobility sklidilo “ovace”. 
+Veletoč příspěvků se strhl při přijímání krajské dotace na smart city projekty, především pilotní projekt zbudování třech nabíjecích stanic před budovami městského úřadu na Žižkově náměstí pro potřeby nabíjení elektrických vozů, které úřad brzy zakoupí. Kolegové Dědič s Randovou argumentovali tím, že navrhovaná částka je moc velká a že slyšeli, že se auta dají nabíjet z obyčejné zásuvky, jaké mají Technické služby na náměstí. Takové řešení by jistě ve světě elektromobility sklidilo “ovace” ;) 
 
 Posledním bodem byla volba zbývajícího člena dozorčí rady do Vodárenské společnosti Táborsko. Na tuto volbu jsme měli v klubu volné hlasování. Po osobních pohovorech s oběma kandidáty jsme se rozhodli podpořit přijatelnějšího kandidáta.
 

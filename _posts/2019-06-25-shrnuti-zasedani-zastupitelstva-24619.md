@@ -5,7 +5,7 @@ category: CLANKY
 title: Shrnutí zasedání zastupitelstva 24.6.19
 date: '2019-06-25 10:13am'
 author: Václav Klecanda
-image: /static/media/iwantyou.jpg
+image: /static/media/zastupitelstvo.jpg
 description: >-
   Jednání zastupitelstva bylo tentokrát bez přímého přenosu z důvodu přípravy
   profi řešení. Důležitým bodem bylo pořádání mistrovství světa v cyklokrosu,

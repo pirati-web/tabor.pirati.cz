@@ -33,3 +33,12 @@ keywords: zastupitele, piráti, tábor
     </div>
   {% endfor %}
 </div>
+
+<hr />
+
+<div class="row">
+  <div class="col-sm-12" markdown="1">
+
+  {% include casti/plneni_programu.md %}
+
+</div>

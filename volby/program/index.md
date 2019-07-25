@@ -92,3 +92,6 @@ S jeho realizací bude spjatá architektonická soutěž studentů s důrazem na
 - Budeme provádět důkladný výběr městem podpořených akcí.
 Součástí podpory bude také zpětná analýza účelnosti využití dotace.
 - Zpřístupníme legální graffiti plochy pro [velkoplošné malby](https://cs.wikipedia.org/wiki/Mural_art) a ve spolupráci s veřejností podpoříme i jiné současné formy umění.
+
+
+### Jak se nám to daří se dozvíte [ZDE](/zastupitele).

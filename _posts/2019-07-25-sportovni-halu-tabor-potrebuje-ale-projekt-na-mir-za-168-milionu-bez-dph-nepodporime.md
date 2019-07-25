@@ -7,7 +7,7 @@ title: >-
   nepodpoříme
 date: '2019-07-25 07:50am'
 author: Piráti Tábor
-image: /static/media/mir2.jpg
+image: /static/media/mir.jpg
 description: >-
   Po prostudování všech dostupných podkladů k projektu haly Mír jsme se rozhodli
   tuto variantu nepodpořit.

@@ -28,4 +28,7 @@ Dle našeho názoru by bylo přínosnější postavit již připravenou halu Ede
 Problematickou cenu projektu haly Mír vnímáme především z důvodu nevhodného umístění a nutnosti změny konstrukčních řešení, především čelní zdi a nutnosti dražších přípravných prací z důvodu zahloubení.
 Tyto neduhy projekt Eden nemá.
 
-Dalším krokem by bylo připravit střízlivější variantu rekonstrukce zázemí areálu Mír, včetně hlediště stadionu. Když budou všichni aktéři k zadání přistupovat zodpovědně, může vzniknou kvalitní projekt, třeba jako mají Líbezničtí.
+Dalším krokem by bylo připravit střízlivější variantu rekonstrukce zázemí areálu Mír, včetně hlediště stadionu.
+To vše v týmu se sportovci, avšak i s finančníky.
+Rozpočet města není nafukovací.
+Když budou všichni aktéři k zadání přistupovat zodpovědně, může vzniknou kvalitní projekt, třeba jako mají Líbezničtí.

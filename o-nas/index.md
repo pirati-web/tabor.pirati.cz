@@ -10,18 +10,18 @@ Místní sdružení Piráti Tábor ([hlasování](https://forum.pirati.cz/viewto
 
 ### Předseda
 
-Mgr. Václav Klecanda
-
-kontakt: [vaclav.klecanda@pirati.cz](mailto:vaclav.klecanda@pirati.cz)
-
-### 1. místopředseda
-
-Jan Příbramský, DiS
-
-kontakt: [pribry@seznam.cz](mailto:pribry@seznam.cz)
-
-### 2. místopředseda
-
 Bc. Jiří Roubíček
 
 kontakt: [jirka.rouba@gmail.com](mailto:jirka.rouba@gmail.com)
+
+### 1. místopředseda
+
+Martin Kučera
+
+kontakt: [marthas.mw73@gmail.com](marthas.mw73@gmail.com)
+
+### 2. místopředseda
+
+Pavel Nešetřil
+
+kontakt: [pavel.nesetril@gmail.com ](mailto:pavel.nesetril@gmail.com )

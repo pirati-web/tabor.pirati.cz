@@ -12,7 +12,7 @@ Místní sdružení Piráti Tábor ([hlasování](https://forum.pirati.cz/viewto
 
 Bc. Jiří Roubíček
 
-kontakt: [jirka.rouba@gmail.com](mailto:jirka.rouba@gmail.com)
+kontakt: [jiri.roubicek@pirati.cz](mailto:jiri.roubicek@pirati.cz)
 
 ### 1. místopředseda
 

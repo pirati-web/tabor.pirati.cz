@@ -10,7 +10,7 @@ author: Zastupitelský klub
 date: 2019-09-14
 ---
 
-Vyhlašujeme výběrové řízení na nominanta do bytové komise rady města Tábora. Více informací o komisi a zápisy z posledních zasedání naleznete [ZDE](http://www.taborcz.eu/komise-bytova/ds-3273)  
+Vyhlašujeme výběrové řízení na nominanta do bytové komise rady města Tábora. Více informací o komisi a zápisy z posledních zasedání naleznete  [ZDE](http://www.taborcz.eu/komise-bytova/ds-3273)  
 
 ###Co požadujeme:
 •	Ochota naučit se nová pravidla přidělování bytů a dodržovat je

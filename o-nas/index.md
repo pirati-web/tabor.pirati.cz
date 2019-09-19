@@ -8,11 +8,11 @@ keywords: program, transparence, radnice, svobodný software, demokracie
 
 Místní sdružení Piráti Tábor ([hlasování](https://forum.pirati.cz/viewtopic.php?f=408&t=43906), [založení](https://redmine.pirati.cz/issues/14901)) má působnost v celém regionu obce s rozšířenou působností [Tábor](https://portal.uur.cz/images/mapy/03-mapa-cr-orp-2017.jpg)
 
-### Předseda
+### Předseda, media, koordinace
 
 Bc. Jiří Roubíček
 
-kontakt: [jiri.roubicek@pirati.cz](mailto:jiri.roubicek@pirati.cz)
+kontakt: [jiri.roubicek@pirati.cz](mailto:jiri.roubicek@pirati.cz), tel: 775 010 651
 
 ### 1. místopředseda
 

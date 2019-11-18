@@ -21,7 +21,8 @@ Do druhé čtvrtiny funkčního období vykračuji se stejným odhodláním, i k
 
 Některé projekty a myšlenky se již podařilo realizovat. Patří mezi ně:
 - __Zastavení privatizace bytů__, které nastartuje novou bytovou koncepci. Ta může částečně řešit “velký hlad” po městském nájemním bydlení. 
-- __Přistoupení ke spolku Otevřená města__ - spolku obcí, které chtějí být otevřené vůči svým občanům a který chce na řešeních spolupracovat a šetřit tím prostředky
+- __Internetový přenos jednání zastupitelstva města__ - který každé jednání zprostředkovává v profi kvalitě i těm, kteří se z jakéhokoli důvodu nemohou dostavit na jednání osobně.
+- __Přistoupení ke spolku Otevřená města__ - spolku obcí, které chtějí být otevřené vůči svým občanům a který chce na řešeních spolupracovat a šetřit tím prostředky.
 - __Přistoupení k Paktu starostů a primátorů__, celoevropskému klubu obcí, které považují za důležité odpovědně spotřebovávat zdroje a minimalizovat emise skleníkových plynů (především moderní energetikou).
 - __Participativní rozpočet__ s alokací 2 miliony pro kreativní projekty navržené samotnými občany.
 - __IOT LoRa síť + datové centrum__ - základ pro další Smart City projekty. Jedná se o datovou bezdrátovou síť pro propojení elektronických zařízení do internetu, potažmo datového skladu.

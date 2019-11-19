@@ -3,13 +3,13 @@ layout: blog
 published: true
 category: CLANKY
 title: Shrnutí 10. zasedání zastupitelstva 18.listopadu 2019
-date: '2019-11-19 16:00pm'
+date: 2019-11-19
 author: Jan Příbramský
 image: /static/media/zastupitelstvo.jpg
-description: >-
-V pondělí 18. listopadu se uskutečnilo další řádné zasedání Zastupitelstva města Tábor. Pro nás zásadní body, které se projednávali, byly Schválení dotace pro neziskovou organizaci Fokus, podání žádosti o dotaci na výstavbu Centra pro Seniory, podání žádosti na 1. etapu revitalizace Sídliště nad Lužnicí a schválení záměru financování výstavby víceúčelové haly Mír. Bod, který se týkal úpravy Vyhlášky o odpadech, se z důvodu pozdního doručení materiálů stáhnul a bude se projednávat na prosincovém zasedání.
+description: Zasedání Zastupitelstva města Tábor 18. listopadu přineslo zásadní body: Schválení dotace pro neziskovou organizaci Fokus, podání žádosti o dotaci na výstavbu Centra pro Seniory, podání žádosti na 1. etapu revitalizace Sídliště nad Lužnicí a schválení záměru financování výstavby víceúčelové haly Mír.
 tags: zastupitelstvo
 ---
+
 **V pondělí 18. listopadu se uskutečnilo další řádné zasedání Zastupitelstva města Tábor. Pro nás zásadní body, které se projednávali, byly Schválení dotace pro neziskovou organizaci Fokus, podání žádosti o dotaci na výstavbu Centra pro Seniory, podání žádosti na 1. etapu revitalizace Sídliště nad Lužnicí a schválení záměru financování výstavby víceúčelové haly Mír. Bod, který se týkal úpravy Vyhlášky o odpadech, se z důvodu pozdního doručení materiálů stáhnul a bude se projednávat na prosincovém zasedání.**
 
 Materiály k jednání, usnesení a další informace jsou k naleznutí [ZDE](http://www.taborcz.eu/zastupitelstvo-mesta/ms-66318/p1=66318) 

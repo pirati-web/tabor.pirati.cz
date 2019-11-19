@@ -3,7 +3,7 @@ layout: blog
 published: true
 category: CLANKY
 title: Shrnutí 10. zasedání zastupitelstva 18.11.2019
-date: '2019-11-19 16:00pb'
+date: '2019-11-19 16:00pm'
 author: Jan Příbramský
 image: /static/media/zastupitelstvo.jpg
 description: >-

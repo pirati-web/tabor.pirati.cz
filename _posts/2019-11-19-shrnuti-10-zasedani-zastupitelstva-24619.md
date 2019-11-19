@@ -7,16 +7,16 @@ date: '2019-11-19 16:00pm'
 author: Jan Příbramský
 image: /static/media/zastupitelstvo.jpg
 description: >-
-  V pondělí 18. listopadu se uskutečnilo další řádné zasedání Zastupitelstva města Tábor. Pro nás zásadní byly body Schválení dotace pro neziskovou organizaci Fokus, podání žádosti o dotaci na výstavbu Centra pro Seniory, podání žádosti na 1. etapu revitalizace Sídliště nad Lužnicí a schválení záměru financování výstavby víceúčelové haly Mír. Bod, který se týkal úpravy Vyhlášky o odpadech, se z důvodu pozdního doručení materiálů stáhnul a bude se projednávat na prosincovém zasedání.
+  V pondělí 18. listopadu se uskutečnilo další řádné zasedání Zastupitelstva města Tábor. Pro nás zásadní, které se projednávali, byly body Schválení dotace pro neziskovou organizaci Fokus, podání žádosti o dotaci na výstavbu Centra pro Seniory, podání žádosti na 1. etapu revitalizace Sídliště nad Lužnicí a schválení záměru financování výstavby víceúčelové haly Mír. Bod, který se týkal úpravy Vyhlášky o odpadech, se z důvodu pozdního doručení materiálů stáhnul a bude se projednávat na prosincovém zasedání.
 tags: zastupitelstvo
 ---
-**V pondělí 18. listopadu se uskutečnilo další řádné zasedání Zastupitelstva města Tábor. Pro nás zásadní byly body Schválení dotace pro neziskovou organizaci Fokus, podání žádosti o dotaci na výstavbu Centra pro Seniory, podání žádosti na 1. etapu revitalizace Sídliště nad Lužnicí a schválení záměru financování výstavby víceúčelové haly Mír. Bod, který se týkal úpravy Vyhlášky o odpadech, se z důvodu pozdního doručení materiálů stáhnul a bude se projednávat na prosincovém zasedání.**
+**V pondělí 18. listopadu se uskutečnilo další řádné zasedání Zastupitelstva města Tábor. Pro nás zásadní, které se projednávali, byly body Schválení dotace pro neziskovou organizaci Fokus, podání žádosti o dotaci na výstavbu Centra pro Seniory, podání žádosti na 1. etapu revitalizace Sídliště nad Lužnicí a schválení záměru financování výstavby víceúčelové haly Mír. Bod, který se týkal úpravy Vyhlášky o odpadech, se z důvodu pozdního doručení materiálů stáhnul a bude se projednávat na prosincovém zasedání.**
 
 Materiály k jednání, usnesení a další informace jsou k naleznutí [ZDE](http://www.taborcz.eu/zastupitelstvo-mesta/ms-66318/p1=66318) 
 
-Všechny výše uvedené body byly po krátkých diskuzích odhlasovány. U hlasování o dotaci pro neziskovou organizaci Fokus došlo přímo na místě ke zvýšení na 150tis Kč a obě žádosti o dotace budou podány.
+Všechny výše uvedené body byly po krátkých diskuzích odhlasovány a to poměrně zásadní většinou. U hlasování o dotaci pro neziskovou organizaci Fokus došlo dokonce přímo na místě ke zvýšení na 150 tis. Kč, s čímž jsme bez výtek souhlasili. 
 
-V bodě 5/2 se hlasovalo o záměru financování novostavby víceúčelové sportovní haly Mír. I přes naše původně negativní stanovisko, jsme se nakonec rozhodli výstavbu podpořit. K tomuto závěru jsme dospěli jak na základě intenzivní debaty v místním sdružení, tak na základě veřejné debaty se zástupci sportovců a dalších jednání, které jsme individuálně vedli. 
+V bodě 5/2 se hlasovalo o **záměru financování novostavby víceúčelové sportovní haly Mír**. I přes naše původně negativní stanovisko, jsme se nakonec rozhodli výstavbu podpořit. K tomuto závěru jsme dospěli jak na základě intenzivní debaty v místním sdružení, tak na základě veřejné debaty se zástupci sportovců a dalších jednání, které jsme individuálně vedli. 
 
 Hlavním důvodem našeho rozhodnutí je potřeba takové haly. Město Tábor patří mezi poslední města své velikosti, které takovou halou i nedisponuje. A to i přestože po ní sportovní veřejnost volá a je více než pravděpodobné, že bude plně využívaná. Roky se tady připravovali různé projekty, ale k jejich realizaci nikdy nedošlo. Ať už se jedná o plánovanou halu u Zimního stadionu anebo o rozšíření haly Eden v Kvapilově ulici. 
 

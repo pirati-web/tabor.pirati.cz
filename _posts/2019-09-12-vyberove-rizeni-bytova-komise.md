@@ -3,7 +3,7 @@ layout: blog
 published: true
 category: CLANKY
 image: /static/media/rada.png
-title: Výberové řízení na člena bytové komise rady města Tábora
+title: Výběrové řízení na člena bytové komise rady města Tábora
 description: Piráti Tábor vyhlašují výběrové řízení na člena bytové komise rady města Tábora
 tags: komise, bytova, rada, Tabor
 author: Zastupitelský klub

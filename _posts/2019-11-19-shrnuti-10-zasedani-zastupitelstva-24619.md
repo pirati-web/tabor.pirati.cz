@@ -10,7 +10,7 @@ description: >-
   Na jednání zastupitelstva v Táboře se kromě jiných jednalo o několika zásadních bodech. Těmi pro nás byly Schválení dotace pro neziskovou organizaci Fokus, Podání žádosti o dotaci na výstavbu Centra pro Seniory a na 1. etapu revitalizace Sídliště nad Lužnicí. Tím posledním, pro nás nejdůležitějším, bylo schválení záměru financování výstavby víceúčelové haly Mír. 
 tags: zastupitelstvo
 ---
-### Na jednání zastupitelstva v Táboře se kromě jiných jednalo o několika zásadních bodech. Těmi pro nás byly Schválení dotace pro neziskovou organizaci Fokus, Podání žádosti o dotaci na výstavbu Centra pro Seniory a na 1. etapu revitalizace Sídliště nad Lužnicí. Tím posledním, pro nás nejdůležitějším, bylo schválení záměru financování výstavby víceúčelové haly Mír. Bod ohledně vyhlášky o odpadech se z důvodu pozdního doručení materiálů stáhnul a bude se projednávat na prosincovém zasedání.
+# Na jednání zastupitelstva v Táboře se kromě jiných jednalo o několika zásadních bodech. Těmi pro nás byly Schválení dotace pro neziskovou organizaci Fokus, Podání žádosti o dotaci na výstavbu Centra pro Seniory a na 1. etapu revitalizace Sídliště nad Lužnicí. Tím posledním, pro nás nejdůležitějším, bylo schválení záměru financování výstavby víceúčelové haly Mír. Bod ohledně vyhlášky o odpadech se z důvodu pozdního doručení materiálů stáhnul a bude se projednávat na prosincovém zasedání.
 
 Všechny výše uvedené body byly po krátkých diskuzích odhlasovány. U hlasování o dotaci pro neziskovou organizaci Fokus došlo přímo na místě ke zvýšení na 150tis Kč a obě žádosti o dotace budou podány.
 

@@ -2,11 +2,11 @@
 layout: blog
 published: true
 category: CLANKY
-title: Shrnutí 10. zasedání zastupitelstva 18.listopadu 2019
+title: Shrnutí desáteho zasedání zastupitelstva
 date: 2019-11-19
 author: Jan Příbramský
 image: /static/media/zastupitelstvo.jpg
-description: Zasedání Zastupitelstva města Tábor 18. listopadu přineslo zásadní body: Schválení dotace pro neziskovou organizaci Fokus, podání žádosti o dotaci na výstavbu Centra pro Seniory, podání žádosti na 1. etapu revitalizace Sídliště nad Lužnicí a schválení záměru financování výstavby víceúčelové haly Mír.
+description: Zasedání Zastupitelstva města Tábor 
 tags: zastupitelstvo
 ---
 

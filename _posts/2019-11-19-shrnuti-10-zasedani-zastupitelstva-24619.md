@@ -6,7 +6,7 @@ title: Shrnutí desáteho zasedání zastupitelstva
 date: 2019-11-19
 author: Jan Příbramský
 image: /static/media/zastupitelstvo.jpg
-description: Desáté zasedání Zastupitelstva města 
+description: Shrnutí desáteho zasedání zastupitelstva - dotace pro Fokus, žádosti o podporu na Seniorhaus a revitalizaci sídliště a financování výstavby haly Mír
 tags: zastupitelstvo
 ---
 

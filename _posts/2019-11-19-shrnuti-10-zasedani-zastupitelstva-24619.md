@@ -6,7 +6,7 @@ title: Shrnutí desáteho zasedání zastupitelstva
 date: 2019-11-19
 author: Jan Příbramský
 image: /static/media/zastupitelstvo.jpg
-description: Desáté zasedání Zastupitelstva města Tábor přineslo zásadní body: Schválení dotace pro neziskovou organizaci Fokus, podání žádosti o dotaci na výstavbu Centra pro Seniory, podání žádosti na první etapu revitalizace Sídliště nad Lužnicí a schválení záměru financování výstavby víceúčelové haly Mír.
+description: Desáté zasedání Zastupitelstva města 
 tags: zastupitelstvo
 ---
 

@@ -23,17 +23,17 @@ Do druhé čtvrtiny funkčního období vykračuji se stejným odhodláním, i k
 Některé projekty a myšlenky se již podařilo realizovat. Patří mezi ně:
 - __Zastavení privatizace bytů__, které nastartuje novou bytovou koncepci. Ta může částečně řešit “velký hlad” po městském nájemním bydlení. 
 - __Internetový přenos jednání zastupitelstva města__ - který každé jednání zprostředkovává v profi kvalitě i těm, kteří se z jakéhokoli důvodu nemohou dostavit na jednání osobně.
-- __Přistoupení ke spolku Otevřená města__ - spolku obcí, které chtějí být otevřené vůči svým občanům a který chce na řešeních spolupracovat a šetřit tím prostředky.
+- __Přistoupení ke spolku [Otevřená města](https://www.otevrenamesta.cz/)__ - spolku obcí, které chtějí být otevřené vůči svým občanům a který chce na řešeních spolupracovat a šetřit tím prostředky.
 - __Přistoupení k Paktu starostů a primátorů__, celoevropskému klubu obcí, které považují za důležité odpovědně spotřebovávat zdroje a minimalizovat emise skleníkových plynů (především moderní energetikou).
-- __Participativní rozpočet__ s alokací 2 miliony pro kreativní projekty navržené samotnými občany.
-- __IOT LoRa síť + datové centrum__ - základ pro další Smart City projekty. Jedná se o datovou bezdrátovou síť pro propojení elektronických zařízení do internetu, potažmo datového skladu.
+- __[Participativní rozpočet](http://taborudrzitelne.cz/paro/)__ s alokací 2 miliony pro kreativní projekty navržené samotnými občany.
+- __IOT LoRa síť + datové centrum__ - základ pro další [Smart City](http://taborudrzitelne.cz/smart-city/) projekty. Jedná se o datovou bezdrátovou síť pro propojení elektronických zařízení do internetu, potažmo datového skladu.
 - __Ustavení pracovní skupiny “sucho”__, která má za úkol zpracovat koncepci práce s krajinou, s cílem zmírnit následky dlouhodobě špatného hospodaření s půdou a klimatických změn. První vlaštovka v podobě projektové přípravy obnovy lesních tůní se rýsuje pod taktovkou kolegů lesáků.
 - __Rozšíření možnosti platby přes mobilní aplikaci Sejf i na parkování__, původně pouze v MHD.
 
 Z těch menších je to např.:
 - Vratné kelímky na festivalu Táborská setkání, které mají druhotný pozitivní dopad na bilanci produkce odpadu. Jejich využití je naplánováno i na jiné městem pořádané akce.
 - Digitalizace procesu návštěvnického parkování.
-- Infoweb http://taborudrzitelne.cz, kde prezentuji společně s dalšími kolegy informace, které se týkají agendy Zdravého města, smart city a obecně trvalé udržitelnosti.
+- Infoweb [taborudrzitelne.cz](http://taborudrzitelne.cz), kde prezentuji společně s dalšími kolegy informace, které se týkají agendy Zdravého města, smart city a obecně trvalé udržitelnosti.
 
 Většina aktivit je však komplexní, koncepční, dlouhodobá a je v procesu. Tou nejdůležitější je práce na vylepšení, resp. ukotvení strategického plánování pro efektivní a transparentní řízení města a pilotní analýza dvou procesů pro ověření jejich efektivity. Další rozběhnuté aktivity, které stojí za zmínku jsou:
 - __Příprava změn pachtovních smluv__ - zemědělci hospodařící na městském by měli činit zodpovědně vůči půdě. Cílem změn je větší retence vody v krajině, snižování eroze a zastavení degradace půd.

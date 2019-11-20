@@ -1,10 +1,11 @@
 ---
 layout: blog
-published: false
+published: true
 category: CLANKY
 title: Shrnutí prvního pirátského roku na radnici
 date: '2019-11-15 07:53pm'
 author: Václav Klecanda
+image: /static/media/javkanclubw.jpg
 description: >-
   Je tomu přibližně rok, co jsem na táborské radnici začal působit v roli
   místostarosty. Od té doby se nám s koaličními kolegy povedlo prosadit některé

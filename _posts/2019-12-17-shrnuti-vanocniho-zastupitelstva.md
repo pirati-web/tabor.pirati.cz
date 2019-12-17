@@ -5,7 +5,7 @@ category: CLANKY
 title: Shrnutí "vánočního" zastupitelstva
 date: '2019-12-17 10:46am'
 author: Václav Klecanda
-image: /static/media/odpirac.svg.png
+image: /static/media/44986436_1983689661723650_3443260515105636352_o.jpg
 description: >-
   Poslední jednání zastupitelstva v roce 2019 mělo 3 stěžejní body: odpady,
   rozpočet a zoo. K odpadům se strhla plejáda demagogických vystoupení z úst

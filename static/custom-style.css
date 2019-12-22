@@ -32,6 +32,10 @@ blockquote {
   text-transform: uppercase;
 }
 
+.article img {
+  width: 100%;
+}
+
 .splashdiv {
   height: 10em;
   overflow: hidden;

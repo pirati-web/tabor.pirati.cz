@@ -5,6 +5,12 @@ backend:
   base_url: https://piraweboauth.herokuapp.com
 
 media_folder: "static/media"
+locale: "cs"
+
+slug:
+  encoding: "ascii"
+  clean_accents: true
+  sanitize_replacement: "_"
 
 collections: # A list of collections the CMS should be able to edit
   - name: "posts" # Used in routes, ie.: /admin/collections/:slug/edit

@@ -33,4 +33,4 @@ V bodě Různé se řešil hlavně pronájem nebytového prostoru v Pražské ul
 
 Zvítězil dle mého tedy pohled dobrého hospodáře. A za sebe mohu slíbit, že dokud Piráti na radnici budou, tak to tak bude.
 
-Přes všechny emoce, které těmito tématy cloumaly se chceme rozhodovat podle fakt a vybírat to nejoptimálnější řešení.
+Přes všechny emoce, které těmito tématy cloumaly, se chceme rozhodovat podle faktů a vybírat to nejoptimálnější řešení.

@@ -27,4 +27,10 @@ Věřím, že všichni hodnotitelé, i z řad nominantů ODS, přihlíží výlu
 
 Odpuštění nájmu, jako formy pomoci v krizové situaci, se dle našeho klubu nemá týkat velkých firem. Proto jsme navrhli oddělené hlasování o firmách Telefonica 02 a Siko, které působí mezinárodně resp. Národně. Ty by výpadek příjmů měly být dle našeho názoru schopné krýt ze svých zisků a rezerv.
 
-V bodě Různé se řešil hlavně pronájem nebytového prostoru v Pražské ulici a investice na Všechově. Přes všechny emoce, které těmito tématy cloumaly se chceme rozhodovat podle fakt a vybírat to nejoptimálnější řešení.
+V bodě Různé se řešil hlavně pronájem nebytového prostoru v Pražské ulici a investice na Všechově. K výběrovému řízení jsem poznamenal:
+
+> Vybírali jsme mezi, z mého pohledu, rovnocennými nabídkami, protože ani jedna z nich nebyla kasino, nebo vykřičený dům. Proto se oba podnikatelské záměry do prostoru hodily. Vybrali jsme tu z hodnotou skoro 2x převyšující tu druhou. A to je vše, prátelé, konec příběhu.
+
+Zvítězil dle mého tedy pohled dobrého hospodáře. A za sebe mohu slíbit, že dokud Piráti na radnici budou, tak to tak bude.
+
+Přes všechny emoce, které těmito tématy cloumaly se chceme rozhodovat podle fakt a vybírat to nejoptimálnější řešení.

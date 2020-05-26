@@ -18,7 +18,7 @@ Dohodli jsme se s panem starostou, že se vyměníme jako zástupci města v [mi
 Děláme to jednak s cílem rozložit agendu a druhak proto, že dobrovolné svazky jsou mnohdy oprávněným žadatelem o dotace v různých programech. Mým cílem v tomto angažmá je zkusit připravovat projekty, které povedou ke vzájemné spolupráci obcí v mikroregionu.
 Už nyní připravuji projekt _"Modernizace a zlepšování komunikace s občany Táborska"_, který by měl zvětšit možnosti a uživatelskou přívětivost komunikace mezi občany a samosprávami.
 
-Během jednání o schvalování sportovních grantů kolega vyrukoval zastupitel Dědič s tvrzením, že peněz v grantu je málo, a proto hodnotitelé hodnotili nízko. 
+Během jednání o schvalování sportovních grantů vyrukoval kolega zastupitel Dědič s tvrzením, že peněz v grantu je málo, a proto hodnotitelé hodnotili nízko. 
 To je hodně nebezpečné tvrzení a vypovídá o tom, že někteří hodnotitelé neberou v potaz kvalitu projektu, ale jiné zadání. 
 
 > Tak jak to tedy je, kolegové z ODS?

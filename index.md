@@ -42,6 +42,13 @@ keywords: organizace,transparence,politika
     </div>
 
     <div class="col-sm-12 col-lg-4">
+      <section id="kraj" class="pb-3">
+        <a href="https://jihocesky.pirati.cz/volby/" target="_blank">
+          <img src="/static/media/300x900.jpg"
+            alt="jde o kraj - banner s odkazem na krajské volby" />
+        </a>
+      </section>
+
       <div markdown="1">
 ## Komunální politika
 

@@ -8,8 +8,9 @@ A je třeba seznámit se alespoň se základy gitu.
 ### Lokální test (pro experty)
 
 V adresaři s repozitářem spustíme příkaz:
-`bundle exec jekyll serve --incremental --baseurl '' `
-což spustí server s webem a my si ho můžeme prohlédnout.
+`docker run -p 8080:4000 -v $(pwd):/site bretfisher/jekyll-serve`
+což spustí server v dockeru, nainstaluje zavislosti
+a my si ho můžeme prohlédnout na [localhostu](http://localhost:8080).
 
 #### Update zavislosti
 

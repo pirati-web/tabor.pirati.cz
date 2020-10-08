@@ -3,7 +3,7 @@ layout: blog
 published: true
 category: CLANKY
 title: Výběrové řízení na nominanty do školských rad zřizovaných městem Tábor
-date: '2019-10-08 10:00am'
+date: '2020-10-08 10:00am'
 author: Martin Mareda, -JP-
 image: /static/media/rada.png
 description: >-

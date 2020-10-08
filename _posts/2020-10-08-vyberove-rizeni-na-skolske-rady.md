@@ -33,7 +33,7 @@ Vyhlašujeme výběrové řízení na nominanta do školských rad při základn
  - Bezúhonnost a vysoká osobní integrita 	
  - Zkušenosti s prací ve školství výhodou
 
-Případné zájemce prosíme o zaslání informací o své osobě, motivaci a shodou s požadavky na e-mail: maredis@volny.cz do 15.10.2020. Piráti Tábor si vyhrazují právo termín prodloužit.
+Případné zájemce prosíme o zaslání informací o své osobě, motivaci a shodou s požadavky na e-mail #maredis@volny.cz do 15.10.2020. Piráti Tábor si vyhrazují právo termín prodloužit.
 
 ### Termín nástupu: 
 Od počátku roku 2021

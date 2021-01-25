@@ -13,13 +13,13 @@ tags: 'zastupitelstvo, Tábor'
 
 __První lednové zastupitelstvo se neslo jako obvykle v duchu dotačních titulů. I když se podle očekávání více jak hodinu řešila dopravní nehoda místostarostky Petrové.__
 
-Většina programu 20. zasedání se nesla v duchu bloku dotačních titulů pro environmentální vzdělávání, zdravého města, kultury a cestovního ruchu a v neposlední řadě třech dotačních titulů do sportu a mládeže. Jako největší bonus celého bloku dotací chápeme fakt, že byly poprvé podávány pouze elektronickou cestou a to až na jednotky případů bez problémů.
+Většina bodů z programu 20. zasedání místního zastupitelstva byla o schvalování žádostí z dotačních titulů. Těmi byly více či méně úspěšné projekty z oblastí environmentálního vzdělávání, zdravého města, kultury a cestovního ruchu a v neposlední řadě ze třech dotačních titulů určených sportu a mládeži. My jako největší bonus celého bloku dotací chápeme fakt, že byly poprvé podávány pouze elektronickou cestou a to, až na jednotky případů, bez větších problémů.
 
-Nyní doufáme, že dojde k postupnému zlepšení tohoto systému až do bodu, kdy bude v elektronických žádostech nejen čitelný rozpočet, ale i další náležitosti.
+Je to dobrý odrazový můstek k tomu, aby v blízké budoucnosti bylo možné elektronicky zpracovávat nejen formuláře, ale i rozpočty žádostí a další nezbytné náležitosti. A to především pro účely co nejlepšího možného rozhodnutí o přidelení dotace.
 
 __Převod prostředků do fondu rozvoje__
 
-Drobná debata se rozvířila u bodu Převod do fondu rezerv a rozvoje (FRR). Kritika se snesla, jako obvykle, na objem převáděných peněz do rezervy. Tedy klasické otázky, co chce s naspořenými penězi vedení města, potažmo vládnoucí koalice, udělat. Zde je nutné podotknout, že veškeré prostředky ve fondu jsou již “zamašličkovány” na záměry, které se z různých důvodů v tom daném roce nestihly realizovat. Rozpočtuje se na rok. Tedy jde o převod peněz na určené akce do dalších let. Neznamená to tedy, že by se prostředky automaticky měly alokovat na něco jiného a FRR je právě tím zákonným překlenovacím mechanismem.
+Drobná debata se rozvířila u bodu Převod do fondu rezerv a rozvoje (FRR). Kritika se jako obvykle snesla nad faktem, jak velký objem financí jde za loňský rok do rezervy. Tedy klasické otázky typu, co chce s naspořenými penězi vedení města, potažmo vládnoucí koalice, udělat. Zde je nutné podotknout, že veškeré prostředky ve fondu jsou již “zamašličkovány” na ty záměry, které se z různých důvodů v tom daném roce nestihly realizovat. Rozpočtuje se vždy na rok. Pro nás je tento transfer jasně odůvodněný převod peněz do dalších let. Neznamená to tedy automaticky utratit peníze navíc za jiné projekty a FRR je právě tím zákonným překlenovacím mechanismem, jak peníze "pozdržet", než z nich bude financováno to, na co byly určeny.
 
 > Václav Klecanda na to uvedl: “Je to standardní operace, která se dělala i za minulých vedení města (včetně současných kritiků), dělá a zřejmě dělat bude. Tato kritika je tedy jen laciným populismem.”
 

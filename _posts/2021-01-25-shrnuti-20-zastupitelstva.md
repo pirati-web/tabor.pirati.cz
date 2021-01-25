@@ -13,7 +13,7 @@ tags: 'zastupitelstvo, Tábor'
 
 __První lednové zastupitelstvo se neslo jako obvykle v duchu dotačních titulů. I když se podle očekávání více jak hodinu řešila dopravní nehoda místostarostky Petrové.__
 
-Většina programu 20. zasedání se nesla v duchu bloku dotačních titulů pro environmentální vzdělávání, zdravého města, kultury a cestovního ruchu a v neposlední řadě třech titulů do sportu a mládeže. Jako největší bonus celého bloku dotací chápeme fakt, že byly poprvé podávány pouze elektronickou cestou a až na jednotky případů bez problémů.
+Většina programu 20. zasedání se nesla v duchu bloku dotačních titulů pro environmentální vzdělávání, zdravého města, kultury a cestovního ruchu a v neposlední řadě třech dotačních titulů do sportu a mládeže. Jako největší bonus celého bloku dotací chápeme fakt, že byly poprvé podávány pouze elektronickou cestou a až na jednotky případů bez problémů.
 
 Nyní doufáme, že dojde k postupnému zlepšení tohoto systému až do bodu, kdy bude v elektronických žádostech nejen čitelný rozpočet, ale i další náležitosti.
 

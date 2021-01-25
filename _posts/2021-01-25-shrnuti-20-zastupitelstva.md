@@ -37,6 +37,6 @@ Piráti Tábor si před volbami schválili Povolební strategii, kterou se zavá
 
 >Nepodpoříme radu města, ve které bude osoba, která je trestně stíhaná, nebo s rasistickým či xenofobním vystupováním. 
  
-Nyní je ale dle našeho názoru na osobní zodpovědnosti místostarostky, jak se ke svému případu postaví. A to s ohledem na vážnost svého pochybení, s ohledem na vážnost své funkce a na vážnost současné společenské situace. Zároveň apelujeme na to, aby veřejnost byla seznámena s výsledky vyšetřování a tím byly minimalizovány pochybnosti, které společenskému klimatu v této době vůbec nepomáhají.
+Nyní je ale dle našeho názoru na osobní zodpovědnosti místostarostky, jak se ke svému případu postaví. A to nejen s ohledem na svá pochybení a vážnost funkce, ale i na vážnost současné společenské situace. Zároveň apelujeme na to, aby veřejnost byla seznámena s výsledky vyšetřování a tím byly minimalizovány pochybnosti, které společenskému klimatu v této době vůbec nepomáhají.
 
 I když nehoda i nadále vzbuzuje pochybnosti, nechceme se stavět do role soudce a návrh na odvolání místostarostky z funkce jsme nepodpořili. Pro nás i nadále platí nejen presumpce nevinny, ale i zmíněná Povolební strategie. Sluší podotknout, že bylo schváleno usnesení k tomu, aby místostarostka Petrová předložila na příští jednání zastupitelstva vysvětlení. Tím pádem je míč na její straně. 

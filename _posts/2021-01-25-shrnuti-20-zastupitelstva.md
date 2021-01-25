@@ -20,7 +20,7 @@ __Převod prostředků do fondu rozvoje__
 
 Drobná debata se rozvířila u bodu Převod do fondu rezerv a rozvoje (FRR). Kritika se snesla, jako obvykle, na objem převáděných peněz do rezervy. Tedy klasické otázky, co chce s naspořenými penězi vedení města, potažmo vládnoucí koalice, udělat. Zde je nutné podotknout, že veškeré prostředky ve fondu jsou již “zamašličkovány” na záměry, které se z různých důvodů v tom daném roce nestihly realizovat. Rozpočtuje se na rok. Tedy jde o převod peněz na určené akce do dalších let. Neznamená to tedy, že by se prostředky automaticky měly alokovat na něco jiného a FRR je právě tím zákonným překlenovacím mechanismem.
 
-> Václav Klecanda na to uvedl: “Je to standardní operace, která se dělala za minulých vedení (včetně současných kritiků), dělá a zřejmě dělat bude. Tato kritika je tedy je laciným populismem.”
+> Václav Klecanda na to uvedl: “Je to standardní operace, která se dělala i za minulých vedení města (včetně současných kritiků), dělá a zřejmě dělat bude. Tato kritika je tedy je laciným populismem.”
 
 V rámci diskuse k tomuto bodu kritizovala zastupitelka Randová stav veřejného prostoru ve městě. My ale nevidíme ke takové kritice důvod. Nemyslíme si totiž, že by stav odpovídal takové kritice. Souhlasíme však s tím, že je potřeba systemizovat údržbu silnic, chodníků i městského mobiliáře. K tomu však nevede prvoplánová kritika z opozičních lavic nýbrž věcné návrhy postupu.
 

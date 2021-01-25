@@ -33,7 +33,9 @@ __Očekávaný bod různé__
 
 V bodě různé se dle očekávání řešila prosincová nehoda místostarostky Petrové. K tomuto tématu máme stanovisko klubu podpořené místním sdružením:
 
-Piráti Tábor si před volbami schválili Povolební strategii, kterou se zavázali dodržovat. Ta se dá chápat jako smlouva mezi námi a voliči. Jasně nastiňuje, jak se budeme po volbách i během volebního období chovat a jednat a co od nás může veřejnost očekávat. Dává také mantinely spolupráce v koalici. Mimo jiné se v ní píše: Nepodpoříme radu města, ve které bude osoba, která je trestně stíhaná, nebo s rasistickým či xenofobním vystupováním. 
+Piráti Tábor si před volbami schválili Povolební strategii, kterou se zavázali dodržovat. Ta se dá chápat jako smlouva mezi námi a voliči. Jasně nastiňuje, jak se budeme po volbách i během volebního období chovat a jednat a co od nás může veřejnost očekávat. Dává také mantinely spolupráce v koalici. Mimo jiné se v ní píše: 
+
+>Nepodpoříme radu města, ve které bude osoba, která je trestně stíhaná, nebo s rasistickým či xenofobním vystupováním. 
  
 Nyní je ale dle našeho na osobní zodpovědnosti místostarostky, jak se ke svému případu postaví. A to s ohledem na vážnost svého pochybení, s ohledem na vážnost své funkce a na vážnost současné společenské situace. Zároveň apelujeme na to, aby veřejnost byla seznámena s výsledky vyšetřování a tím byly minimalizovány pochybnosti, které společenskému klimatu v této době vůbec nepomáhají.
 

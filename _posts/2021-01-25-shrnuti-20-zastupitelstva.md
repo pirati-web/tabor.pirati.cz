@@ -3,7 +3,7 @@ layout: blog
 published: true
 category: CLANKY
 title: Dvacáté řádné jednání zastupitelstva aneb dotace a odvolávání
-date: 2021-01-25
+date: '2021-01-25 09:00pm'
 author: Jan Příbramský
 image: /static/media/zastupitelstvo2.jpg
 description: První lednové zastupitelstvo se neslo jako obvykle v duchu dotačních titulů. I když podle očekávání se více jak hodinu řešila

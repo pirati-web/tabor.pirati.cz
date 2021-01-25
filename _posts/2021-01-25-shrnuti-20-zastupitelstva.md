@@ -23,7 +23,7 @@ Drobná debata se rozvířila u bodu Převod do fondu rezerv a rozvoje (FRR). Kr
 
 > Václav Klecanda na to uvedl: “Je to standardní operace, která se dělala i za minulých vedení města (včetně současných kritiků), dělá a zřejmě dělat bude. Tato kritika je tedy jen laciným populismem.”
 
-V rámci diskuse k tomuto bodu kritizovala zastupitelka Randová stav veřejného prostoru ve městě. My ale nevidíme k takové kritice důvod. Nemyslíme si totiž, že by reáln,á situace odpovídala stavu, jaký se kolegyně snažila popsat. Souhlasíme však s tím, že je potřeba systemizovat údržbu silnic, chodníků i městského mobiliáře. K tomu však nevede prvoplánová kritika z opozičních lavic, nýbrž věcné návrhy postupu. Třeba komisí rady pro dopravu, které předsedá kolega Breda.
+V rámci diskuse k tomuto bodu kritizovala zastupitelka Randová stav veřejného prostoru ve městě. My ale nevidíme k takové kritice důvod. Nemyslíme si totiž, že by reálná situace odpovídala stavu, jaký se kolegyně snažila popsat. Souhlasíme však s tím, že je potřeba systemizovat údržbu silnic, chodníků i městského mobiliáře. K tomu však nevede prvoplánová kritika z opozičních lavic, nýbrž věcné návrhy postupu. Třeba komisí rady pro dopravu, které předsedá kolega Breda.
 
 __Co s poplatky z prodlení?__
 

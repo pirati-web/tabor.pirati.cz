@@ -30,6 +30,7 @@ __Co s poplatky z prodlení?__
 Posledním bodem řádného programu, kde se vedla delší diskuze, bylo prominutí poplatku z prodlení na dluhu na nájemném. Tam na protinávrh opozičního zastupitele Eberta, prošlo upravené usnesení, díky kterému došlo k odpuštění poplatku z prodlení všem pěti navrženým dlužníkům. Stojí za zmínku, že na celkové úpravě systému promíjení poplatku z prodlení, započne intenzivně pracovat Martin Mareda. Pro něj se jedná o problematiku, ve které je více než fundovaný.
 
 __Očekávaný bod různé__
+
 V bodě různé se dle očekávání řešila prosincová nehoda místostarostky Petrové. K tomuto tématu máme stanovisko klubu podpořené místním sdružením:
 
 Piráti Tábor si před volbami schválili Povolební strategii, kterou se zavázali dodržovat. Ta se dá chápat jako smlouva mezi námi a voliči. Jasně nastiňuje, jak se budeme po volbách i během volebního období chovat a jednat a co od nás může veřejnost očekávat. Dává také mantinely spolupráce v koalici. Mimo jiné se v ní píše: Nepodpoříme radu města, ve které bude osoba, která je trestně stíhaná, nebo s rasistickým či xenofobním vystupováním. 

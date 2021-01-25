@@ -1,15 +1,16 @@
 ---
+autor: Jan Příbramský
 layout: blog
-published: true
 category: CLANKY
 title: Dvacáté řádné jednání zastupitelstva aneb dotace a odvolávání
-date: '2021-01-25'
+date: 2021-01-25T13:41:51.341Z
 author: Jan Příbramský
 image: /static/media/zastupitelstvo2.jpg
-description: První lednové zastupitelstvo se neslo jako obvykle v duchu dotačních titulů. I když podle očekávání se více jak hodinu řešila
-dopravní nehoda místostarostky Petrové.
-tags: zastupitelstvo
+description: 'První lednové zastupitelstvo se neslo jako obvykle v duchu dotačních titulů. I když podle očekávání se více jak hodinu řešila
+dopravní nehoda místostarostky Petrové'
+tags: 'zastupitelstvo, Tábor'
 ---
+
 __První lednové zastupitelstvo se neslo jako obvykle v duchu dotačních titulů. I když se podle očekávání více jak hodinu řešila dopravní nehoda místostarostky Petrové.__
 
 Většina programu 20. zasedání se nesla v duchu bloku dotačních titulů pro environmentální vzdělávání, zdravého města, kultury a cestovního ruchu a v neposlední řadě třech titulů do sportu a mládeže. Jako největší bonus celého bloku dotací chápeme fakt, že byly poprvé podávány pouze elektronickou cestou a až na jednotky případů bez problémů.

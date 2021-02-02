@@ -3,7 +3,7 @@ autor: Jan Příbramský
 layout: blog
 published: false
 category: CLANKY
-title: Piráti Tábor 
+title: Piráti Tábor v roce 2020 
 date: 2021-02-02T10:41:51.341Z
 author: Martin Mareda, Piráti Tábor
 image: /static/media/povolebni.jpg

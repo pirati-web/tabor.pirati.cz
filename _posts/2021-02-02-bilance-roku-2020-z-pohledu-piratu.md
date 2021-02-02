@@ -26,6 +26,8 @@ K zasedáním rady města se vyjadřuje další radní __Jan Příbramský__:
 
 Zastupitelský klub se pravidelně scházel na tzv. zastupitelských středách, které jsou veřejné a konaly se s ohledem na vládní opatření i online. Bohužel se díky situaci zbrzdily některé aktivity a projekty. Problematika dostupnosti primární zdravotní péče má za sebou aspoň analýzu i dotazníkové šetření mezi doktory, tento rok očekáváme závěrečný materiál. Pro rok 2021 plánujeme otevření a zefektivnění jednání komisí rady, řešení problémů s graffiti i jeho legalizaci a také revitalizaci Pintovky. Naším cílem je tedy dostát dalším slibům, které jsme dali lidem před volbami.
 
+### Práce v komisích rady města
+
 Bytová komise doznala velkých změn už v roce 2019, kdy se zúžila o polovinu členů a změnil se i závazný postup při pronajímání bytů. Její členka __Eva Reslerová__ k tomu říká:
 
 >„Kritéria, která byla nastavena, považuji za dobrá. Více se dbá na sociální situaci jednotlivých zájemců, jediným hlavním kritériem již není jen výše nájmu.“
@@ -48,9 +50,19 @@ Na posledním prosincovém zasedání komise pro pohledávky náš člen __Marti
 >„Poplatky z prodlení, které mnohdy několikanásobně převyšují samotný dluh, jsou devastující a i demotivující. Možné plošné řešení – jejich částečné nebo úplné prominutí po zaplacení jistiny včetně nákladů exekuce a soudního  řízení – může být motivací pro dlužníka dluh zaplatit, a zlepšit tak svou životní situaci a nedostat se znovu do dluhové pasti. Vše se ale musí ještě projednat s Bytesem, správou majetku města, komisí pro pohledávky a politickými zástupci. Důležité bude i finanční a legislativní hledisko.“
 
 
+### Dozorčí rady městských společností
+
 K dozorčím radám se vyjádřil zastupitel __Miloš Tuháček__:
 
 >„Správa lesů města Tábora řešila opakovaně zejména kůrovcovou kalamitu, která je na území městských lesů zvládána obstojně. Podpořila také přebudování bývalé hájovny Nechyba na ekologické centrum. Správa lesů však stále nedostala od jednatele detailnější rozbory hospodářství podle středisek, ač byl systém navržen externím auditem. Věřím, že toto pochybení pan jednatel urychleně napraví. Vodárenská společnost Táborsko je řízena starosty měst a její dozorčí rada se bohužel o zásadních rozhodnutích dozvídá zpětně – a to i o takových, jako je cena vody. Snaží se tedy alespoň získávat co nejvíce informací, zejména o finančním stavu společnosti a plánovaných investicích, např. o řešení vodovodu a kanalizace v příměstských částech či kalovém hospodářství.“
+
+__Pavel Moravec__, člen dozorčí rady TST Tábor, informuje:
+
+>„Technickým službám Tábor se i přes nepříznivé ekonomické prostředí a s ním spojený mnohamilionový výpadek příjmů, zejména z parkovného, dařilo v průběhu roku 2020 hospodařit v černých číslech. Vedle průběžné údržby zeleně, komunikací i osvětlení města pokračovaly TST v přípravě realizace parkovacího domu na Sídlišti nad Lužnicí či rekonstrukci táborského útulku pro zvířata. Již v lednu TST získaly ocenění „NEJLEPŠÍ Dobrá praxe 2019“ za rozvoj v oblasti alternativních pohonů v komunální technice, dále v průběhu roku „Ocenění pro společnost přátelskou zaměstnávání osob 55+“ a také úspěšně recertifikovaly několik ISO norem.”
+
+### I přes Koronu jsme byli aktivní
+
+V rámci aktivit místního sdružení Pirátů jsme i během toho krátkého času, kdy to opatření dovolila, uspořádali dvě besedy. První s __MDDr. Patrikem Miklou__ o zubní hygieně a druhou s __Tomášem Spěváčkem__ a __Martinem Holubem__ o první pomoci. Pravidelně jsme se scházeli na schůzích MS, ať už osobně, nebo online. Na podzim byly ve středu našeho zájmu krajské volby. Aktivní kampaní se blýskl náš kandidát __Jiří Roubíček__, který se poté zaslouženě do krajského zastupitelstva dostal. __Vojtěch Sázel, Jan Příbramský a Jiří Roubíček__ se zapojili do sbírky počítačů pro děti, sehnali a zprovoznili několik notebooků a PC i s příslušenstvím na distanční výuku dětí ze sociálně znevýhodněného prostředí. V posledních měsících roku došlo ke změně v obsazení předsednictva. Novým předsedou se stal __Martin Mareda__, místopředsedy zůstali __Martin Kučera__ a __Pavel Nešetřil__.
 
 
 

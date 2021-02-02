@@ -1,7 +1,6 @@
 ---
-autor: Jan Příbramský
 layout: blog
-published: false
+published: true
 category: CLANKY
 title: Piráti Tábor v roce 2020 
 date: 2021-02-02T10:41:51.341Z

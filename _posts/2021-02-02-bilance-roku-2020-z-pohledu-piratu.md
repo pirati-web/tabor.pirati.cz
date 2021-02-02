@@ -3,7 +3,7 @@ layout: blog
 category: CLANKY
 title: Piráti Tábor v roce 2020
 date: '2021-02-01 09:18am'
-author: - admin -
+author: admin
 image: /static/media/povolebni.jpg
 description: 'Na začátku nového roku se sluší ohlédnout se za rokem předešlým. Minulý rok nás bohužel postihla epidemie koronaviru, která zasáhla do všech oblastí lidského života a zabránila vzniku většího množství předpokládaných inovací.'
 tags: 'Piráti, Tábor, činnost'

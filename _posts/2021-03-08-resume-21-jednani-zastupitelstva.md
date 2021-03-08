@@ -15,7 +15,7 @@ Schválení SECAPu, schválení výsledku tendru na dodávku vody ve městě, sm
 
 ### Secap
 
-Hned prvním bodem programu bylo schválení [tzv. SECAPu - akčního plánu udržitelné energetiky a klimatu](http://taborudrzitelne.cz/secap/). 
+Hned prvním bodem programu bylo schválení [tzv. SECAPu](http://taborudrzitelne.cz/secap/) - akčního plánu udržitelné energetiky a klimatu. 
 Dle předpokladu se rozvinula diskuze z opozičních lavic. 
 Opozice, namísto hodnocení plánu jako celku, kladla otázky na stav přípravy ZEVO (zařízení pro energetické využívání odpadu).
 Po sáhodlouhé diskusi zastupitelstvo plán konečně sedmnácti hlasy odsouhlasilo.
@@ -25,7 +25,7 @@ Vážím si jejich odvahy vidět do budoucna a působit koncepčně,“ _okoment
 
 Po sérii materiálů k přidělování sportovních dotací jednání dospělo k materiálům z odboru správy majetku.
 
-### [Vodárenská společnost Táborsko s.r.o](https://www.vstab.cz/) - valná hromada
+### [Vodárenská společnost Táborsko](https://www.vstab.cz/) s.r.o - valná hromada
 
 Tento materiál byl součástí poslední etapy tzv. „koncesního řízení“ na provozování vodohospodářské infrastruktury v Táboře, Sezimově Ústí a Plané nad Lužnicí. 
 Po krátké prezentaci ředitele společnosti a zástupce právní kanceláře, která proces administrovala, zastupitelstvo souhlasilo s uzavřením smlouvy s vítězným uchazečem. Cílem „koncesního řízení“ bylo získat pro město Tábor, coby spoluvlastníka vodovodní a kanalizační sítě, co nejvýhodnější finanční podmínky pro jejich provozování. To se podařilo. V příštích letech tak bude možno přistoupit k investičním akcím (v některých částech města stále chybí kanalizace a/nebo vodovod) za současné stabilizace ceny vodného a stočného.

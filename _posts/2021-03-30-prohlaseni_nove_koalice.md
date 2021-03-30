@@ -2,7 +2,7 @@
 layout: blog
 published: true
 category: CLANKY
-title: Prohlášení "trojkoalice"
+title: Prohlášení 'trojkoalice'
 date: 2021-03-30T00:00:00.000Z
 author: Zastuptelský klub
 image: /static/media/noveprohlaseni.jpg
@@ -21,8 +21,16 @@ Považují naprostou většinu Programových priorit koalice 2018 – 2022 i nad
 Tyto tři subjekty respektují, že pro prosazení programových bodů ztratily v zastupitelstvu většinu a budou s touto skutečností po zbytek svého mandátu nakládat. 
 Předpokládají především průběžné konzultace se zástupci dalších politických klubů zastoupených v zastupitelstvu města Tábor.
 
+Václav Klecanda:
 > Je mi líto, že v půlce volebního období jsme museli řešit takovouto krizi.
 Brzdilo nás to od práce dlouhou dobu a jsem rád, že už můžeme tušit konec a naději, že se zas budeme moci naplno věnovat práci na rozdělaných projektech.
+
+Součástí návrhu politického řešení bude návrh na obsazení funkce uvolněného místostarosty Martinem Maredou. 
+Do gesce mu budou navrženy Odbor správy majetku města a městské společnosti Bytes a SLMT po Michaele Petrové. 
+Cílem tohoto návrhu je rozprostřít agendu vedení města nadále mezi čtyři osoby a v radu města i pro následující měsíce udržet devítičlennou a tím dostatečně názorově širokou.
+
+Martin Mareda:
+> Po zralé úvaze ...
 
 Devatero trojkoalice:
 1. Nadále přísně pečovat o zdravé městské finance

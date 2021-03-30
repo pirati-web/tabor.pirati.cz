@@ -23,17 +23,19 @@ Předpokládají především průběžné konzultace se zástupci dalších pol
 
 Václav Klecanda:
 > Je mi líto, že v půlce volebního období jsme museli řešit takovouto krizi.
-Brzdilo nás to od práce dlouhou dobu a jsem rád, že už můžeme tušit konec a naději, že se zas budeme moci naplno věnovat práci na rozdělaných projektech.
+Všechny nás to brzdilo dlouhou dobu a jsem rád, že už můžeme tušit konec a naději, že se zas budeme moci naplno věnovat práci na rozdělaných projektech.
 
-Součástí návrhu politického řešení bude návrh na obsazení funkce uvolněného místostarosty Martinem Maredou. 
+Jedním z bodů řešení nastalé situace je i návrh na obsazení funkce radního a uvolněného místostarosty naším zastupitelem Martinem Maredou.
 Do gesce mu budou navrženy Odbor správy majetku města a městské společnosti Bytes a SLMT po Michaele Petrové. 
 Cílem tohoto návrhu je rozprostřít agendu vedení města nadále mezi čtyři osoby a v radu města i pro následující měsíce udržet devítičlennou a tím dostatečně názorově širokou.
+Návrh bude projednán na příštím zastupitelstvu dne 19.4. 2021.
 
-Martin Mareda:
-> Po zralé úvaze ...
+Martin Mareda k tomu říká: 
+
+>„Těší mne podpora současných i bývalých koaličních partnerů. Jsem připraven zastávat funkci s co největší pečlivostí a nasazením. Politika je však věc turbulentní, počkejme si tedy na příští zasedání.“
 
 Devatero trojkoalice:
-1. Nadále přísně pečovat o zdravé městské finance
+1. Nadále přísně pečovat o zdravé městské finance.
 2. V nejvyšší míře napomoci ukončení koronavirové krize.
 3. Dokončit zásadní rozběhnuté investice - Budějovická ulice, Centrum pro seniory, sportovní hala Mír.
 4. Pokračovat v přípravě rozvojových projektů - nová čtvrť Dvorce, plavecký areál, Křižíkova elektrárna, městská knihovna.

@@ -40,6 +40,9 @@ hlasuje tajnou volbou právě proto, aby hlasující
 měl absolutní svobodu volby bez nátlaku.
 Za nás je jasné, jak budeme hlasovat ze zjevných důvodů.
 
+Martin nakonec byl zvolen většinou 16ti hlasů.
+> Děkuji za důvěru. Vnímám a respektuji i kolegy z opozice, kteří svou vůli vyjádřili svým odchodem z jednání.
+
 Déle jsme diskutovali o úlevě nanákladech pro Jihočeský kraj
 v souvislosti s "Očkem" na zimním stadionu.
 Tento materál jsme podpořili, protože máme zato, že stav, kdy Tábor nákladově převyšuje ostatní "Očka" v kraji,

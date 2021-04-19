@@ -2,7 +2,8 @@
 layout: blog
 published: true
 category: CLANKY
-title: Resumé zasedání zastupitelstva z 19.4.21 - Martin Mareda rozšířil řady vedení
+title: Resumé zasedání zastupitelstva z 19.4.21 - Martin Mareda rozšířil řady
+  vedení města
 date: 2021-03-30T00:00:00.000Z
 author: Jan Příbramský
 image: /static/media/nove_vedeni.jpg

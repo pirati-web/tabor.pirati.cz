@@ -43,6 +43,7 @@ Za nás je jasné, jak budeme hlasovat ze zjevných důvodů.
 
 ## Martin nakonec byl zvolen většinou 16ti hlasů.
 > Děkuji za důvěru. Vnímám a respektuji i kolegy z opozice, kteří svou vůli vyjádřili svým odchodem z jednání.
+Právě respekt je něco, na čem chci stavět své angažmá.
 
 Déle jsme diskutovali o úlevě nanákladech pro Jihočeský kraj
 v souvislosti s "Očkem" na zimním stadionu.

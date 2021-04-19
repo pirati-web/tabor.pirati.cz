@@ -42,6 +42,8 @@ měl absolutní svobodu volby bez nátlaku.
 Za nás je jasné, jak budeme hlasovat ze zjevných důvodů.
 
 ## Martin nakonec byl zvolen většinou 16ti hlasů.
+
+Martin Mareda:
 > Děkuji za důvěru. Vnímám a respektuji i kolegy z opozice, kteří svou vůli vyjádřili svým odchodem z jednání.
 Právě respekt je něco, na čem chci stavět své angažmá.
 

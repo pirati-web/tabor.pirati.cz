@@ -42,7 +42,7 @@ hlasuje tajnou volbou právě proto, aby hlasující
 měl absolutní svobodu volby bez nátlaku.
 Za nás je jasné, jak budeme hlasovat ze zjevných důvodů.
 
-## Martin nakonec byl zvolen většinou 16ti hlasů.
+## Martin nakonec byl zvolen většinou 16 hlasů.
 
 Martin Mareda:
 > Děkuji za důvěru. Vnímám a respektuji i kolegy z opozice, kteří svou vůli vyjádřili svým odchodem z jednání.
@@ -52,3 +52,15 @@ Déle jsme diskutovali o úlevě nanákladech pro Jihočeský kraj
 v souvislosti s "Očkem" na zimním stadionu.
 Tento materál jsme podpořili, protože máme zato, že stav, kdy Tábor nákladově převyšuje ostatní "Očka" v kraji,
 není šťastný.
+
+Po příspěvcích z řad veřejnosti se rozhořela debata o návrhu kolegů Randové a Dědiče
+o přípravě investic v příměstských částech.
+Starosta informoval, že většina z nich je v různých stupních rozpracovanosti.
+
+Václav Klecanda to okomentoval:
+> Pro mne je to čirý populismus. 
+S ohledem na probíhající krizi si prostě aktuální koalice nechává větší rezervu,
+protože nevíme za jak dlouho krize pomine. Je to naše zodpovědnost.
+
+Následně padali jalové kritiky na velikost fondu rezerv ze strany předkladatelů.
+Jednání, byť mělo nezvykle málo bodů, skončilo až v 8 hodin večer.

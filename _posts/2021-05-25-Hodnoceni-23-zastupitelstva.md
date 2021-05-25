@@ -22,7 +22,7 @@ Prvním bodem, kde se rozběhla širší diskuze byl bod 5/5 Stavební úpravy h
 ### Opravy místních komunikací
 Další bod, kde došlo k poměrně rozsáhlé diskuzi byl materiál 7/0 - Opravy místních komunikací. Opozice opět kritizovala neúplnost materiálu ve smyslu, že zastupitelé neví, kolik na kterou ulici půjde peněz. Vedoucí odboru argumentoval tím, že se jedná o opravy komunikací, kde především VST a E.On budou opravovat sítě a město využije synergie a opraví povrch. Tedy že se jedná o navýšení balíčku na opravy tak, aby až dojde k investicím síťařů, tak město bude mít odkud toto financovat. Proto si myslíme, že kvalitu a správné hospodaření uhlídá rada města.  
 
-Václav Klecanda k tomuto tématu na jednání uvedl: 
+**Václav Klecanda** k tomuto tématu na jednání uvedl: 
 > Nejedná se o schválení peněz na jednotlivé akce, ale pouze o navýšení balíčku peněz na opravy tak, aby mohla rada rychleji reagovat na to, kdy se síťaři rozhodnou opravovat a využít tak možnosti k maximálním synergiím, aby výsledek byl kvalitní.
 
 V bodě různé se objevilo několik dotazů na pro některé zastupitele ožehavá témata. Těmito byly dotazy na to, jak bude vypadat finální podoba Lesoparku Pintovka, jak probíhá výstavba přeložky Chýnovská-Vožická, co bude s Malým Jordánem, jak se bude podporovat cestovní ruch a také jak napravit situaci na Větrovech z důvodu ZOO. Jsme si jisti, že se tyto body budou projednávat na další radě města a nebo poradě vedení. 

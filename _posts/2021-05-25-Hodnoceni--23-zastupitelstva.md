@@ -16,6 +16,9 @@ Poslední zasedání zastupitelstva probíhalo v poměrně klidné atmosféře. 
 ### Mimořádné dotace
 Jako každý rok i letos město mimořádně podpořilo dvě klíčové sociální služby. A to Diakonii Rolnička a Domácí hospic Jordán. I přestože si myslíme, že by podpora těchto služeb měla být především na kraji a státu, tak jsme materiál jednomyslně podpořili. 
 
+### Úpravy hřiště v Mostecké ulici
+Prvním bodem, kde se rozběhla širší diskuze byl bod 5/5 Stavební úpravy hřiště u Střední zdravotnické školy. Opozice se zeptala na to, jestli a jak bude ochráněna investice, aby opět nedošlo k narušení povrchu kořenovým systémem stromů v okolí. Po krátké diskuzi se rozhodl předkladatel Martin Mareda bod stáhnout k dopracování a vyjasnění otázek. Věříme všas, že k opravě dojde ještě letos.
+
 ### Opravy místních komunikací
 Další bod, kde došlo k poměrně rozsáhlé diskuzi byl materiál 7/0 - Opravy místních komunikací. Opozice opět kritizovala neúplnost materiálu ve smyslu, že zastupitelé neví, kolik na kterou ulici půjde peněz. Vedoucí odboru argumentoval tím, že se jedná o opravy komunikací, kde především VST a E.On budou opravovat sítě a město využije synergie a opraví povrch. Tedy že se jedná o navýšení balíčku na opravy tak, aby až dojde k investicím síťařů, tak město bude mít odkud toto financovat. Proto si myslíme, že kvalitu a správné hospodaření uhlídá rada města.  
 

@@ -18,7 +18,7 @@ Mimořádná cena města byla nakonec udělena táborské nemocnici a IZS, jako 
 V majetkové části místostarosta Martin Mareda představil několik materiálů, z nichž jeden byl z důvodu dalších právních posudků stažen. 
 
 ### Rozšíření kamerového systému
-Pro nás ožehavé téma kamer, které se projednávali v bodě 6/0, jsme se rozhodli podpořit. 
+Pro nás ožehavé téma kamer, které se projednávalo v bodě 6/0, jsme se po diskuzi na středeční zastupitelské středě rozhodli podpořit. 
 
 **Jan Příbramský** k tomuto bodu jednání uvedl: 
 > ”Sice nejsme příznivci rozšiřování kontroly občanů pomocí kamerových systémů, ale zde se jedná o tak exponované místo přednádražních prostorů s vyšším výskytem přestupků a trestných činů, že nám právě zde přijdou logické. Jako člen komise bezpečnosti budu chtít následně dohlédnout na dodržení všech nezbytných omezení, aby nedocházelo k narušování soukromí lidí při používání dohledového systému. ”

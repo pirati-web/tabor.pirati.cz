@@ -21,7 +21,7 @@ V majetkové části místostarosta Martin Mareda představil několik materiál
 Pro nás ožehavé téma kamer, které se projednávali v bodě 6/0, jsme se rozhodli podpořit. 
 
 **Jan Příbramský** k tomuto bodu jednání uvedl: 
-> ”Sice nejsme příznivci rozšiřování kontroly občanů pomocí kamerových systému, ale zde se jedná o tak exponované místo s vyšším výskytem přestupků a trestných činů, že nám právě zde přijdou logické. Jako člen komise bezpečnosti budu chtít následně dohlédnout na dodržení všech nezbytných omezení, aby nedocházelo k narušování soukromí lidí při používání dohledového systému. ”
+> ”Sice nejsme příznivci rozšiřování kontroly občanů pomocí kamerových systémů, ale zde se jedná o tak exponované místo přednádražních prostorů s vyšším výskytem přestupků a trestných činů, že nám právě zde přijdou logické. Jako člen komise bezpečnosti budu chtít následně dohlédnout na dodržení všech nezbytných omezení, aby nedocházelo k narušování soukromí lidí při používání dohledového systému. ”
 
 K tomu chceme podotknout, že město chystá nejen kamerový systém, ale že díky Norským fondům budou od příštího roku působit dva zaměstnanci přímo v terénu.
 

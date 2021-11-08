@@ -82,6 +82,7 @@ keywords: organizace,transparence,politika
 - <i class="fab fa-facebook"></i> [Piráti Tábor na facebooku]({{ site.facebookurl }})
 - <i class="fab fa-youtube"></i> [Piráti Tábor na youtube]({{ site.data.links.sidebar.youtube.channel }})
 - <i class="fas fa-angle-up"></i> <a href="https://jihocesky.pirati.cz" target="_blank"><b>Krajská</b> organizace (JČK)</a>
+- <i class="fas fa-angle-up"></i> <a href="https://www.pirati.cz" target="_blank"><b>Piráti</b> celostát</a>
 </div>
 
   </div>

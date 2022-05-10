@@ -13,7 +13,7 @@ Budějovická 1997/12, 390 02 Tábor
 
 {% for item in site.data.tapiceprogram %}
   <div class="text">
-    <h4>{{item.cas}} {{item.name}}</h4>
+    <h4><b>{{item.cas}}</b>: {{item.name}}</h4>
     <p>
       {{item.desc}}
       {% if item.fbevent %}

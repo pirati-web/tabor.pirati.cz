@@ -1,14 +1,14 @@
 ---
-title: Kandidátka 2022
+title: Kandidátka 2018
 layout: page
 published: true
 image: /static/media/top11.jpg
-description: 'Kandidátka do komunálních voleb 2022 v Táboře'
+description: 'Kandidátka do komunálních voleb 2018 v Táboře'
 keywords: piráti, tábor, volby, kandidátka
 ---
 
 <div class="row">
-  {% for item in site.data.kandidatka limit:3 %}
+  {% for item in site.data.kandidatka18 limit:3 %}
     <div class="kandidatka col-sm-12 col-md-4">
       <img src="{{item.img}}" alt="foto: {{item.name}}, {{item.age}}" />
       <div class="text">
@@ -20,7 +20,7 @@ keywords: piráti, tábor, volby, kandidátka
 </div>
 
 <div class="row">
-  {% for item in site.data.kandidatka offset:33 %}
+  {% for item in site.data.kandidatka18 offset:3 %}
     <div class="kandidatka col-sm-6 col-md-3">
       {% if item.img %}
       <img src="{{item.img}}" alt="foto: {{item.name}}, {{item.age}}" />

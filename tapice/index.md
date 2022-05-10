@@ -1,6 +1,6 @@
 ---
 title: Táborské Pirátské Centrum (TaPiCe)
-layout: page_related_in_sidebar
+layout: page
 description: Stránka věnovaná speciálně pirátskému centru.
 keywords: pice, centrum, základna
 ---
@@ -9,9 +9,19 @@ keywords: pice, centrum, základna
 
 Budějovická 1997/12, 390 02 Tábor
 
-### Aktuálně
+### Program akcí
 
-Oficiální otevíračka je [plánována na st 11.5](https://www.facebook.com/piratitabor).
+{% for item in site.data.tapiceprogram %}
+  <div class="text">
+    <h4>{{item.cas}} {{item.name}}</h4>
+    <p>
+      {{item.desc}}
+      {% if item.fbevent %}
+      <a href="item.fbevent" target="_blank">facebook událost zde.</a>
+      {% endif %}
+    </p>
+  </div>
+{% endfor %}
 
 
 

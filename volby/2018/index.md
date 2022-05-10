@@ -1,8 +1,8 @@
 ---
-title: komunální volby 2022
+title: komunální volby 2018
 layout: page
 published: true
-description: Rozcestník informací týkajících se komunálních voleb v Táboře 2022
+description: 'Rozcestník informací týkajících se komunálních voleb v Táboře'
 keywords: piráti, tábor, volby
 ---
 
@@ -49,8 +49,6 @@ Staré __nevyprodáme__. Chceme nové čtvrti.
 Oživíme tím město a přilákáme technologické firmy.
 - Zřídíme __nové multifunkční kulturní centrum__, kde se budou pořádat výstavy, workshopy, koncerty.
 - Připravíme __revitalizaci přírodního amfiteátru Pintovka__.
-
-#### [Kompletní dlouhodobý program ...](program/)
 
 <a name="kandidatka"></a>
 

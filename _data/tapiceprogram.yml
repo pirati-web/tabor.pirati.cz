@@ -1,20 +1,3 @@
-- name: JE TO KAMPAŇ ANEB OTEVÍRÁME TAPICI!
-  cas: 11.5. 17h
-  desc: Zahájení kampaně pro komunální volby. Představíme vám naše vize, naše priority, naše kandidáty a naše centrum.
-  fbevent: https://www.facebook.com/events/394447362553412
-
-- name: SCHŮZE MS PIRÁTI TÁBOR
-  cas: 25.5. 18h
-  desc: Pravidelná veřejná schůze místního sdružení.
-
-- name: NA KAFE S MÍSTOSTAROSTOU
-  cas: 26.5. 15h
-  desc: Zveme vás na kafe a přitom můžeme probrat všechno, na co jste se nás chtěli zeptat. Otevřeně a osobně.
-  
-- name: SOUSEDSKÁ SNÍDANĚ S PIRÁTY
-  cas: 29.5. 10h
-  desc: U příležitosti dne sousedů se chceme setkat nad společnou snídani, poklábosit a možná dojde i na politiku. Přineste, co rádi snídáte a ochutnejte, co rádi snídají ostatní.
-
 - name: NA KAFE S MÍSTOSTAROSTOU
   cas: 9.6. 15h
   desc: Zveme vás na kafe a přitom můžeme probrat všechno, na co jste se nás chtěli zeptat. Otevřeně a osobně.
@@ -42,3 +25,8 @@
 - name: PROČ POTŘEBUJE TÁBOR PŘELOŽKY?
   cas: 30.6. 17h
   desc: Veřejná diskuze o investicích do dopravy s garantem a radním Janem Příbramským a pozvanými experty. 
+
+- name: Z Phuketu na Bali na motorce
+  cas: 29.6. 18h
+  desc: Vyprávění s fotkami a videi o netradičním výletu a digitálním nomádění na druhé straně zeměkoule.
+  fbevent: https://www.facebook.com/events/385643943611479/

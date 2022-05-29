@@ -17,7 +17,7 @@ Budějovická 1997/12, 390 02 Tábor
     <p>
       {{item.desc}}
       {% if item.fbevent %}
-      <a href="item.fbevent" target="_blank">facebook událost zde.</a>
+      <a href="{{item.fbevent}}" target="_blank">facebook událost zde.</a>
       {% endif %}
     </p>
   </div>

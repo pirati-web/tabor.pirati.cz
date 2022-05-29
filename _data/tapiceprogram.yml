@@ -22,11 +22,11 @@
   cas: 23.6. 15h
   desc: Zveme vás na kafe a přitom můžeme probrat všechno, na co jste se nás chtěli zeptat. Otevřeně a osobně.
 
-- name: PROČ POTŘEBUJE TÁBOR PŘELOŽKY?
-  cas: 30.6. 17h
-  desc: Veřejná diskuze o investicích do dopravy s garantem a radním Janem Příbramským a pozvanými experty. 
-
 - name: Z Phuketu na Bali na motorce
   cas: 29.6. 18h
   desc: Vyprávění s fotkami a videi o netradičním výletu a digitálním nomádění na druhé straně zeměkoule.
   fbevent: https://www.facebook.com/events/385643943611479/
+
+- name: PROČ POTŘEBUJE TÁBOR PŘELOŽKY?
+  cas: 30.6. 17h
+  desc: Veřejná diskuze o investicích do dopravy s garantem a radním Janem Příbramským a pozvanými experty. 

@@ -2,7 +2,7 @@
 layout: blog
 published: true
 category: CLANKY
-image: /static/media/venca-martin.jpg
+image: /static/media/venca-martin2.jpg
 title: Hodnocení zasedání zastupitelstva města Tábor 30.5.22
 description: Krátké hodnocení zastupitelstva města Tábor
 tags: zastupitelstvo, Tabor

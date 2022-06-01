@@ -10,7 +10,7 @@ keywords: organizace,transparence,politika
     <div class="row">
       <div class="col-sm-7 offset-lg-1">
         <h1>JSME PIRÁTI TÁBOR</h1>
-        <h2>A POMÁHÁME NAŠEMU MĚSTU</h2>
+        <h2>A máme odvahu dělat věci správně</h2>
       </div>
     </div>
     <div class="row">

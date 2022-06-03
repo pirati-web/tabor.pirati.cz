@@ -8,7 +8,7 @@ keywords: piráti, tábor, volby, kandidátka
 ---
 
 <div class="row">
-  {% for item in site.data.kandidatka limit:3 %}
+  {% for item in site.data.kandidatka limit:9 %}
     <div class="kandidatka col-sm-12 col-md-4">
       <img src="{{item.img}}" alt="foto: {{item.name}}, {{item.age}}" />
       <div class="text">

@@ -9,11 +9,11 @@
 - name: Mgr. Václav Klecanda
   age: 39
   desc: programátor, systémový architekt
-  img: /static/media/kandidatka/klecanda.jpg
+  img: https://a.pirati.cz/jihocesky/img/tabor/klecanda.jpg
 - name: MgA. Lucie Orbók
   age: 39
   desc: režisérka, kulturní manažerka
-  img: /static/media/kandidatka/orbok.jpg
+  img: https://a.pirati.cz/jihocesky/img/tabor/orbok.jpg
 - name: Martin Kučera
   age: 48
   desc: podnikatel, trenér
@@ -22,10 +22,6 @@
   age: 46
   desc: právník, pořadatel hudebního festivalu
   img: /static/media/kandidatka/svadlena.jpg
-- name: Mgr. František Švadlena
-  age: 46
-  desc: podnikatel, trenér
-  img: /static/media/kandidatka/kucera.jpg
 - name: Bc. Jiří Roubíček
   age: 36
   desc: podnikatel , krajský zastupitel
@@ -33,11 +29,11 @@
 - name: Bc. Vojtěch Sázel
   age: 35
   desc: programátor
-  img: /static/media/kandidatka/sazel.jpg
+  img: https://a.pirati.cz/jihocesky/img/tabor/sazel.jpg
 - name: Ing. Pavel Moravec
   age: 42
   desc: IT specialista BI & CRM
-  img: /static/media/kandidatka/moravec.jpg
+  img: https://a.pirati.cz/jihocesky/img/tabor/moravec.jpg
 - name: RNDr. Luděk Šídlo PhD.
   age: 42
   desc: vysokoškolský pedagog

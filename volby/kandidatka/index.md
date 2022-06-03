@@ -35,4 +35,4 @@ keywords: piráti, tábor, volby, kandidátka
   {% endfor %}
 </div>
 
-## #Otočme kormidlem!
+## #odvaha dělat věci správně

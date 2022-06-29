@@ -24,9 +24,9 @@ kontakt: [marthas.mw73@gmail.com](marthas.mw73@gmail.com)
 
 ### 2. místopředseda
 
-Pavel Nešetřil
+Mgr. Václav Klecanda
 
-kontakt: [pavel.nesetril@gmail.com ](mailto:pavel.nesetril@gmail.com )
+kontakt: [vaclav.klecanda@pirati.cz](mailto:vaclav.klecanda@pirati.cz)
 
 
 

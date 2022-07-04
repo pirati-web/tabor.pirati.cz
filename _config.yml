@@ -3,6 +3,9 @@ default_locale: "cs"
 permalink: pretty
 markdown: kramdown
 facebookurl: https://www.facebook.com/piratitabor
+twitterurl: https://twitter.com/PiratiTabor
+instagramurl: https://www.instagram.com/pirati_tabor/
+tiktokurl: https://www.tiktok.com/@piratitabor
 logo: /static/logo.png
 
 gems:

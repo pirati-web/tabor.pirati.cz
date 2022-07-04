@@ -88,15 +88,20 @@ blockquote {
 .callout {
   color: white;
   padding: 3em 0;
-  background-image: url("/static/banner.jpg");
+  background-image: url("https://a.pirati.cz/jihocesky/img/tabor/web/titulka.jpg");
   background-color: black;
   background-position: center top;
-  background-size: auto;
+  background-size: cover;
   background-repeat: no-repeat;
   border: none;
   margin-bottom: 2em;
   border-radius: 0;
 }
+
+#calltext {
+  background: rgba(0,0,0,0.5);
+}
+
 .callout #kdo {
   font-size: 50px;
 }

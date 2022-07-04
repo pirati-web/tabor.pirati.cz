@@ -8,20 +8,12 @@ keywords: organizace,transparence,politika
 <div class="callout">
   <div class="container">
     <div class="row">
-      <div class="col-sm-7 offset-lg-1">
-        <h1>JSME PIRÁTI TÁBOR</h1>
-        <h2>A máme odvahu dělat věci správně</h2>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-sm-12 col-lg-4 offset-lg-1">
-        <p id="calloutpopis">
-          Naším cílem je obec, kde může každý člověk prožít svůj život svobodně a naplno.
-          Klíčem k prosperitě naší společnosti je otevřenost,
-          kvalitní vzdělání a veřejné služby,
-          použití nových technologií a zapojení občanů do rozhodování.
+      <div class="col-sm-4 offset-lg-8" id="calltext">
+        <h1>JSME <br />PIRÁTI TÁBOR</h1>
+        <h2>A máme <br />odvahu dělat věci správně</h2>
+        <p><a class="btn btn-primary btn-lg" href="/program/" role="button">
+          Chci vědět víc &raquo;</a>
         </p>
-        <!-- <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more &raquo;</a></p> -->
       </div>
     </div>
   </div>

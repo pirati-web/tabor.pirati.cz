@@ -13,13 +13,14 @@ Podařilo se:
   - zavést nový nástroj na elektronicaci přípravy materiálů k projednání do městkých orgánů
   - elektronizovat podávání žádostí o městské dotace
 - <i style="color: green" class="fas fa-check"></i> [Všechny úřady mají být __kompletně dostupné online__](https://redmine.pirati.cz/issues/20807).<br/>
-  - byl spuštěn _[Portál občana](https://obcan.mutabor.cz/)_. Lidé tak mají možnost činit online z pohodlí domova řadu podání, které doposud činili pouze osobně podávním vyplněného formuláře na úřadě._
-- <i style="color: green" class="fas fa-check"></i> [Všechna __data budou veřejná__, postavíme na nich chytré město](https://redmine.pirati.cz/issues/20809).<br/>
+  - byl spuštěn _[Portál občana](https://obcan.mutabor.cz/)_. Lidé tak mají možnost činit online z pohodlí domova řadu podání, které doposud činili pouze osobně podávním vyplněného formuláře na úřadě.
+- <i style="color: green" class="fas fa-check"></i> Všechna __data budou veřejná__, postavíme na nich chytré město.
+- <i style="color: green" class="fas fa-check"></i> Budeme sbírat data pro efektivnější plánování.<br/>
 _Postavili jsme síť pro internet věcí (IOT), která využívá otevřenou, komunitní
 infrastruktury [thethingsnetwork.org](https://www.thethingsnetwork.org/).
 V přípravě jsou projekty na aplikace,
 které na této síti budou přenášet nasnímaná data např. o životním prostředí._
-- <i style="color: orange" class="fas fa-cogs"></i> [Budeme sbírat data pro efektivnější plánování](https://redmine.pirati.cz/issues/20809).
+
 
 ### Odstraníme komunikační <a name="bari">bariéry</a>
 - <i style="color: green" class="fas fa-check"></i> [__Chceme koncepční řízení__ - předvídatelné, jasné směřování](https://redmine.pirati.cz/issues/20811).<br/>

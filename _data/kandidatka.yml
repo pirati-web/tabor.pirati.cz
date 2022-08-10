@@ -37,4 +37,54 @@
 - name: RNDr. Luděk Šídlo PhD.
   age: 42
   desc: vysokoškolský pedagog
-  img: /static/media/kandidatka/sidlo.jpg
+- name: Mgr. et BcA. Pavla Weinzettel
+  age: 38
+  desc: ZŠ pedagog
+- name: Petra Málková
+  age: 44
+  desc: podnikatelka
+- name: Jindra Justova
+  age: 54
+  desc: operátorka, textařka
+- name: Tomáš Spěváček, DiS.
+  age: 37
+  desc: zdravotnický záchranář
+- name: Petra Kosová Hlavová
+  age: 41
+  desc: živnostnice
+- name: Štěpán Tuchyňa
+  age: 24
+  desc: barman
+- name: Daniel Šrámek, DiS.
+  age: 35
+  desc: zdravotnický záchranář
+- name: Jiřina Marie Šedivá
+  age: 81
+  desc: důchodkyně
+- name: Tereza Spěváčková
+  age: 23
+  desc: prodavačka
+- name: Patricie Melounková
+  age: 18
+  desc: studentka
+- name: Libor Němec
+  age: 40
+  desc: dělník
+- name: Tadeáš Vangelov
+  age: 21
+  desc: student
+- name: Zuzana Macková
+  age: 29
+  desc: marketérka
+- name: Petr Buchtík
+  age: 42
+  desc: dělník
+- name: Jakub Kováč
+  age: 32
+  desc: operátor výroby, seřizovač
+- name: Zdeněk Justa
+  age: 50
+  desc: kuchař, číšník
+- name: Bc. Matěj Velát
+  age: 23
+  desc: student

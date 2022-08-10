@@ -19,18 +19,11 @@ keywords: piráti, tábor, volby, kandidátka
   {% endfor %}
 </div>
 
-<div class="row">
-  {% for item in site.data.kandidatka offset:33 %}
-    <div class="kandidatka col-sm-6 col-md-3">
-      {% if item.img %}
-      <img src="{{item.img}}" alt="foto: {{item.name}}, {{item.age}}" />
-      {% else %}
-      <img src="https://svgsilh.com/png-512/2026758-ffc107.png" alt="foto: zastupne foto" />
-      {% endif %}
-      <div class="text">
-        <h3>{{item.name}}</h3>
-        <p>{{item.age}} let, {{item.desc}}</p>
-      </div>
+<div class="row my-5">
+  {% for item in site.data.kandidatka offset:9 %}
+    <div class="col-sm-12">
+      <h4>{{item.name}}</h4>
+      <p>{{item.age}} let, {{item.desc}}</p>
     </div>
   {% endfor %}
 </div>

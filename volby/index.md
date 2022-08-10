@@ -6,6 +6,10 @@ description: Rozcestník informací týkajících se komunálních voleb v Tábo
 keywords: piráti, tábor, volby
 ---
 
+<a name="kandidatka"></a>
+
+## [Kompletní kandidátka ...](kandidatka/)
+
 ## Volební program - PIRÁTI TÁBORU!
  
 > Tábor je podle nás úžasné město pro život. 
@@ -83,7 +87,3 @@ Pobočka městského úřadu a detašované pracoviště městské policie v bud
 Z největšího táborského sídliště chceme postupně vytvářet modernější místo k životu.
 
 ### [Kompletní dlouhodobý program ...](program/)
-
-<a name="kandidatka"></a>
-
-### [Kompletní kandidátka ...](kandidatka/)

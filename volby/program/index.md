@@ -20,8 +20,7 @@ Apelujeme na koncepčnost a strategické řízení města ve spolupráci s odbor
 - Principy strategického plánování a pokračování v koncepčním řízení města.
 - Dohlédneme na smysluplnost koncepce Moderního města a především budeme spolupracovat s ostatními městy.
 Do koncepce chceme zahrnout mimo jiné wi-fi připojení ve městě, chytré popelnice, osvětlení, chytré zastávky MHD, adaptivní křižovatky, atd.
-- Posílíme územní plánování - Zvýrazníme roli městského architekta pro ucelené pojetí veřejného prostoru. Do plánování zapojíme veřejnost.
-- Do rozhodování přivedeme odborníky – nechceme, aby v dozorčích radách městských společností seděli politici (trafikanti).
+- Pokračovat v posilování kanceláře architekta města a transformovat ji do spol. s r. o.
 - Vybudování nové čtvrti Dvorce podle vítězného návrhu.
 - Nikdy nepodpoříme změnu územního plánu pro výstavbu Věznice ve Všechově.
 

@@ -2,38 +2,122 @@
   age: 46
   desc: adiktolog, hudebník
   img: https://a.pirati.cz/jihocesky/img/tabor/mareda.jpg
+  bio: |-
+    Narodil se v dubnu roku 1976 v Chrudimi, v šesti letech se dostal řízením osudu do Tábora, kde žije dodnes. 
+    Je ženatý, má tři děti.
+    
+    Po studiích na místním gymnáziu se upsal Jihočeské univerzitě, kterou úspěšně dokončil s titulem Mgr.
+    Jeho profesní dráha měla směřovat do učitelství pro střední školy s aprobací dějepis-latina. 
+    Náhoda tomu ale chtěla, že na civilní službu zamířil do Centra Auritus, které se věnuje závislým osobám na drogách. 
+    Po absolvování civilní služby v této organizaci zakotvil a pracoval až do dubna 2021. 
+    
+    Od roku 2021 je místostarostou města, od roku 2022 také krajský zastupitel. Je členem sociální komise. 
+    
+    Ve volném čase se věnuje muzice jako kapelník populární táborské kapely Peshata.
 - name: Jan Příbramský, DiS.
   age: 38
   desc: vedoucí výroby a IT, propagátor kultury
+  bio: |-
+    Narodil se v březnu roce 1984 v Táboře.
+    
+    Vystudoval místní strojní průmyslovku a následně informační systémy v Písku.
+    Po studiích v roce 2006 nastoupil jako technolog a manažer kvality v místní firmě. 
+    Po necelých třech letech se stal vedoucím výroby a IT v dceřiné společnosti, která patří mezi špičku v oboru výroby zvukových izolací. A tam je dodnes. 
+    
+    Je členem rady města a členem komise bezpečnosti. 
+    Je spoluzakladatelem neziskové organizace, pořádající volnočasové aktivity a koncerty v Táboře.
+    Spoluzaložil jihočeský kulturní portál Kulturne.com, který funguje dodnes a pro uživatele zdarma.
+    
+    Je svobodný, zálibu našel ve své práci, kde může využívat svou kreativitu a systémový přístup. 
+    Rád také tráví čas v přírodě a stará se o svou pálivou zahrádku.
   img: https://kulturne.com/jp/foto/pribramsky.jpg
 - name: Mgr. Václav Klecanda
   age: 38
   desc: programátor, systémový architekt
   img: https://a.pirati.cz/jihocesky/img/tabor/klecanda.jpg
+  bio: |-
+    Pochází z Tábora. 
+    
+    Vystudoval gymnázium a poté vývoj softwarových systémů se specializací na počítačovou grafiku na Matematicko-Fyzikální fakultě Univerzity Karlovy. 
+    V rámci studií pracoval na několika zajímavých projektech, mimo jiné i na balíku software pro zpracování medicínských dat. 
+    V komerční sféře prošel několika firmami jako programátor na volné noze. Nyní působí jako místostarosta města Tábora.
+    
+    Angažuje se v aktivitách souvisejících s svobodným a otevřeným (opensource) softvérem, a to především pro školská zařízení.
+    Je fascinován DIY kulturou, zajímavými lidmi, projekty a nápady.
+    
+    Rád se projede na kole nebo na motorce a vůbec různých (nejraději elektrických) vozidlech. 
+    V zimě pak na snowboardu nebo na klouzačce.
 - name: MgA. Lucie Orbók
   age: 39
   desc: režisérka, kulturní manažerka
   img: https://a.pirati.cz/jihocesky/img/tabor/orbok.jpg
+  bio: |-
+    Narodila se v Táboře před 39 lety. Je vdaná, má 1 syna.
+    
+    Vystudovala divadelní režii na pražské DAMU a kulturní management v rámci programu European Diploma in Cultural Project Management. 
+    Pracovala jako ředitelka Českého centra Budapešť, v současnosti organizuje divadelní a literární festivaly v ČR i v zahraničí.
+    Je členkou komise MKČR pro oblast překladu české literatury do zahraničí. 
+    
+    Ve volném čase se věnuje pěší turistice, zahradě, houbaření a planespottingu.
 - name: Martin Kučera
   age: 48
   desc: podnikatel, trenér
   img: https://a.pirati.cz/jihocesky/img/tabor/kucera.jpg
+  bio: |-
+    Narodil se v Plané u Mariánských Lázní, od 8 let žije v Táboře.
+    
+    Vystudoval Střední průmyslovou školu strojní a stavební v Táboře, obor Provozní technika a v Plzni na SOUž obor elektromechanik strojů a zařízení. 
+    Od roku 1983 se věnuje vodnímu pólu. Jako hráč a trenér působil v extralize či reprezentaci ČR. V současné době působí jako trenér TJ Tábor.
+    
+    Je členem sportovní komise a členem dozorčí rady městské společnosti TZMT v Táboře.
+    
+    Jeho životním hobby je také hudba, aktivně působí v kapele MERESIEW, kde hraje na baskytaru.
 - name: Mgr. František Švadlena
   age: 46
   desc: právník, pořadatel hudebního festivalu
   img: https://a.pirati.cz/jihocesky/img/tabor/svadlena.jpg
+  bio: |-
+    Vystudoval Právnickou fakultu Univerzity Karlovy.
+    
+    Působí v Táboře jako advokát se zaměřením na občanské a trestní právo.
+    Je spolupořadatelem mezinárodního hudebního festivalu [Mighty Sounds](https://www.mightysounds.cz/) a místopředsedou asociace českých hudebních festivalů FESTAS. 
+    Je členem kulturní komise a členem kontrolního výboru zastupitelstva města Tábora. 
+    
+    Je ženatý a má dva syny. Rád běhá, chodí po horách a čte.
 - name: Ing. Jiří Roubíček
   age: 36
   desc: podnikatel, krajský zastupitel
   img: https://a.pirati.cz/jihocesky/img/tabor/roubicek.jpg
+  bio: |-
+    Celý život žije v Táboře.
+    
+    Vystudoval Střední průmyslovou školu strojní a stavební a dokončil magisterské studium na ČZU v Praze na Provozně ekonomické fakultě, obor Veřejná správa a regionální rozvoj 
+    Je spoluzakladatelem spolku Taboard, který se od roku 2007 stará o mládež a pořádání kulturních akcí spojených s extrémními sporty, jakými jsou například skateboarding nebo BMX. 
+    
+    Aktuálně je členem Zastupitelstva Jihočeského kraje, členem krajské komise pro cestovní ruch a členem finančního výboru a dozorčí rady společnosti Bytes s.r.o. ve městě Tábor. 
 - name: Bc. Vojtěch Sázel
   age: 39
   desc: programátor
   img: https://a.pirati.cz/jihocesky/img/tabor/sazel.jpg
+  bio: |-
+    Narodil se v Praze, ale s Táborem je už od dětství spjatý, neboť část jeho rodiny odsud pochází. 
+    
+    Po studiích se spolu s manželkou, táborskou rodačkou, rozhodl v Táboře usadit a založit rodinu. 
+    Studoval na ČVUT FEL a VŠ Unicorn College. 
+    Profesní dráhou softwarový vývojář/programátor, soustředí se na vývoj mobilních aplikací pro systém Android a kyberbezpečnost. 
+    
+    Počítače jsou i jeho koníčkem. Má rád výlety do přírody a hraní deskových her.
 - name: Ing. Pavel Moravec
   age: 42
   desc: IT specialista BI & CRM
   img: https://a.pirati.cz/jihocesky/img/tabor/moravec.jpg
+  bio: |-
+    Vystudoval aplikovanou informatiku a ekonomii.
+    V korporátní a akademické sféře (např. Raiffeisenbank, VŠFS) realizoval několik projektů zaměřených na využití dat a IT k co nejefektivnějšímu fungování organizací a ke komunikaci a udržování dlouhodobých vztahů s klienty.🤝
+    
+    Ve volném čase rád hraje fotbal, jezdí na kole a v zimě lyžuje. Jako trenér se věnuje gymnastice.
+    
+    Je členem dozorčí rady Technických služeb Tábor.
 - name: RNDr. Luděk Šídlo PhD.
   age: 42
   desc: vysokoškolský pedagog

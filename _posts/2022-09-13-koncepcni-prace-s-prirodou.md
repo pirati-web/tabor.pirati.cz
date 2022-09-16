@@ -32,7 +32,8 @@ Jedním z nich je např. zelená střecha na paneláku v Berlínské na Sídliš
 Jsem optimista a myslím, že MZI se etabluje nakonec i v rámci projektů městského úřadu.
 Už nyní je znát posun.
 Ještě dál by to mohla posunout studie MZI pro rozšířené okolí areálů Dvorce, tedy Pražské sídliště.
-Ta by měla zhodnotit možnosti využití TODO.
+Ta by měla zhodnotit možnosti využití srážkové vody a navrhnout konkrétně,
+co pro její odklon z jednotné kanalizace a tudíž ČOV, udělat.
 Jedním z námětů na návazná opatření je i odtrubnění potoka tekoucího pod parkem U popraviště. 
 
 ### Krajina

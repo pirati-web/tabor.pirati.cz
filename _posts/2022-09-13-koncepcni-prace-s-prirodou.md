@@ -1,6 +1,6 @@
 ---
 layout: blog
-published: false
+published: true
 category: CLANKY
 image: https://a.pirati.cz/jihocesky/img/tabor/clanky/praceSDestovkou.jpg
 title: Koncepční práce s přírodou v krajině i ve městě
@@ -40,6 +40,8 @@ Jedním z námětů na návazná opatření je i odtrubnění potoka tekoucího 
 V krajině je největší překážkou poloha [pozemků ve vlastnictví města](https://mapy.mutabor.cz/mapa/katastralni-mapa-g/?c=-734317.95%3A-1120338.1&z=4&lb=of2021&ly=uln%2Cpag%2Cpammg&lbo=1&lyo=).
 Pozemky jsou, po vlnách různých pozemkových reforem, rozdrobené, "rozmetané" do nelogikých útvarů, které neumožňují v krajině realizovat smysluplná opatření.
 
+[![mapa pozemků města](https://a.pirati.cz/jihocesky/img/tabor/clanky/mapaPozemkuTabor.jpg)](https://mapy.mutabor.cz/mapa/katastralni-mapa-g/?c=-734317.95%3A-1120338.1&z=4&lb=of2021&ly=uln%2Cpag%2Cpammg&lbo=1&lyo=)
+
 Existuje možnost, jak to změnit - komplexní pozemkové úpravy.
 Ty jsou velice časově náročné a jejich zahájení vyžaduje velký vlastnický podíl v území.
 Přesto je to cesta.
@@ -52,7 +54,12 @@ Jejich výsledkem může být mj. i dostatečný počet ploch pro liniové výsa
 doprovázející obnovené cesty v krajině, 
 které dnes existují pouze naznačené jako nesouvislé nudličky v katastrální mapě.
 Právě 
-Ojedinělý projekt komunitní výsadby u Sídliště nad Lužnicí
-https://taborcz.eu/lide-v-tabore-vysadili-dve-aleje-letnich-dubu/d-83050
+Ojedinělost [projektu komunitní výsadby aleje dubů u Sídliště nad Lužnicí](https://taborcz.eu/lide-v-tabore-vysadili-dve-aleje-letnich-dubu/d-83050) pramení právě z nedostatku vhodných ploch k výsadbě.
 
-+ obhajoba noveho cloveka na komplexni upravy a klimaticky management.
+Příprava komplexních pozemkových úprav, hledání vhodných míst pro výsadbu se nedaří posouvat tak rychle, jak by si situace zasluhovala.
+Proto budeme usilovat o navýšení kapacit pro tyto i další aktivity, jež lze souhrně nazvat klimatický management.
+Navrhneme posílit nově vzniklou kancelář architekta města (KAM) o odborníka na toto téma.
+Ideální způsobem se nám jeví formulovat projekt, který se tomuto tématu pověnuje a v jeho rámci chtít i personální kapacitu.
+
+Klimatická krize a její řešení je tématem, které rezonuje na všech stupních veřejné správy i orgánech Evropské unie.
+Proto uděláme maximum proto, aby ještě víc rezonovala i v Táboře.

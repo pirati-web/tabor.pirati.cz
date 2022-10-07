@@ -48,7 +48,7 @@ Místní sdružení Piráti Tábor vyhlašuje poptávkové řízení do výborů
 listopad/prosinec 2022 (záleží na schválení zastupitelstvem/radou)
 
 ### Odměna: 
-- dle konkrétního pozice v rozmezí 700 - 2200,- Kč
+- dle konkrétního pozice v rozmezí 700 - 2200,- Kč měsíčně
 
 Přihlášku lze podat elektronicky na e-mail martin.mareda@mutabor.cz do 14.10. 2022 do 23:59. MS Piráti Tábor si vyhrazuje právo termín prodloužit.
 

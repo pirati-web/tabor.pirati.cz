@@ -41,8 +41,8 @@ Místní sdružení Piráti Tábor vyhlašuje poptávkové řízení do výborů
 
 
 ### Podmínkou zařazení do poptávkového řízení je zaslání následujících podkladů:
-1) Stručný profesní životopis z oblasti, která souvisí s výborem/komisí, o který má uchazeč zájem.
-2) Motivační dopis krátkého rozsahu obsahující vizi působení na dané pozici a naplňování priorit pirátského programu.
+- stručný profesní životopis z oblasti, která souvisí s výborem/komisí, o který má uchazeč zájem.
+- motivační dopis krátkého rozsahu obsahující vizi působení na dané pozici a naplňování priorit pirátského programu.
 
 ### Termín nástupu:
 listopad/prosinec 2022 (záleží na schválení zastupitelstvem/radou)

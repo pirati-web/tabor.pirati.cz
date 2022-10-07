@@ -5,7 +5,7 @@ category: CLANKY
 image: /static/media/rada.png
 title: Poptávkové řízení do výborů a komisí města Tábor
 description: Místní sdružení Piráti Tábor vyhlašuje poptávkové řízení do výborů a komisí města Tábor
-tags: komise, bytova, rada, Tabor
+tags: komise, bytova, rada, Tabor, vybor, socialni, doprava, kultura, telovychova, pohledavky, zdrave mesto
 author: Zastupitelský klub
 date: 2022-10-07
 ---

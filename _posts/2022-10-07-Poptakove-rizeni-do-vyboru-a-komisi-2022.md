@@ -45,7 +45,7 @@ Místní sdružení Piráti Tábor vyhlašuje poptávkové řízení do výborů
 - motivační dopis krátkého rozsahu obsahující vizi působení na dané pozici a naplňování priorit pirátského programu.
 
 ### Termín nástupu:
-listopad/prosinec 2022 (záleží na schválení zastupitelstvem/radou)
+- listopad/prosinec 2022 (záleží na schválení zastupitelstvem/radou)
 
 ### Odměna: 
 - dle konkrétního pozice v rozmezí 700 - 2200,- Kč měsíčně

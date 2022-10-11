@@ -46,9 +46,9 @@ Výběrové řízení proběhne vyhodnocením zaslaných podkladů a následným
 Každému uchazeči do týdne od proběhlého VŘ dáme vědět rozhodnutí.
 
 ### Hodnotící kritéria:
-Odbornost 40 %
-Znalost pirátského programu a argumentace 20 %
-Celkový dojem 15 %
-Předchozí zkušenosti 10 %
-Reference členů a příznivců Pirátů 15 %
+- Odbornost 40 %
+- Znalost pirátského programu a argumentace 20 %
+- Celkový dojem 15 %
+- Předchozí zkušenosti 10 %
+- Reference členů a příznivců Pirátů 15 %
 

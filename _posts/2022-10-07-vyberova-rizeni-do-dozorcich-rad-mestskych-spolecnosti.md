@@ -7,7 +7,7 @@ title: Výběrová řízení do dozorčích rad městských společností
 description: Místní sdružení Piráti Tábor vyhlašuje výběrové řízení do dozorčích rad městských společností
 tags: dozorci,rada,bytes,slmt,tzmt,tst, g-centrum
 author: Zastupitelský klub
-date: 2022-10-07
+date: 2022-10-11
 ---
 
 Místní sdružení Piráti Tábor vyhlašuje výběrová řízení do dozorčích rad městských společností.  Jedná se dozorčí rady těchto společností

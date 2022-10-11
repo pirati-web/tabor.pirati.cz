@@ -7,7 +7,7 @@ title: Výběrová řízení do dozorčích rad městských společností
 description: Místní sdružení Piráti Tábor vyhlašuje výběrové řízení do dozorčích rad městských společností
 tags: dozorci,rada,bytes,slmt,tzmt,tst, g-centrum
 author: Zastupitelský klub
-date: 2022-10-07
+date: 2022-10-11
 ---
 
 Místní sdružení Piráti Tábor vyhlašuje výběrová řízení do dozorčích rad městských společností.  Jedná se dozorčí rady těchto společností
@@ -39,7 +39,7 @@ Odborník na příslušný předmět podnikání a činnosti společnosti, audit
 ### Případný termín nástupu:
 - listopad/prosinec 2022 (záleží na schválení zastupitelstvem/radou)
 
-Přihlášku lze podat elektronicky na e-mail martin.mareda@mutabor.cz do __16.10. 2022 do 14:00__. MS Tábor si vyhrazuje právo termín prodloužit a případně i výběrové řízení zrušit.
+Přihlášku lze podat elektronicky na e-mail __martin.mareda@mutabor.cz__ do __16.10. 2022 do 14:00__. MS Tábor si vyhrazuje právo termín prodloužit a případně i výběrové řízení zrušit.
 
 Výběrové řízení proběhne vyhodnocením zaslaných podkladů a následným pohovorem formou osobního pohovoru nebo prostřednictvím videokonference s vybranými uchazeči.
 

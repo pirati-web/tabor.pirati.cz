@@ -13,7 +13,7 @@ date: 2022-10-11
 Místní sdružení Piráti Tábor vyhlašuje výběrová řízení do dozorčích rad městských společností.  Jedná se dozorčí rady těchto společností
 
 - Tělovýchovná zařízení města Tábora s.r.o.
- -Bytes Tábor s.r.o.
+- Bytes Tábor s.r.o.
 - Technické služby Tábor s.r.o
 - G-centrum
 - Správa lesů města Tábora, s.r.o.

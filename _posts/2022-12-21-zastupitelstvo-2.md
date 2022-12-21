@@ -25,4 +25,4 @@ Jedním z prvních menších opatření na úspory je snížení počtu členů 
 Schválili jsme žádost první uchazečky do tohoto dotačního programu, který v minulém volebním období připravoval Martin Mareda. Jedná se o studentku Karlovy univerzity oboru zubní lékařství, která je v současné chvíli ve 4. ročníku.
 
 ### 5. Parkovací dům na Sídlišti nad Lužnicí
-V souvislosti s přípravami realizace parkovacího domu byl schválen nepeněžitý (pozemek)  a peněžitý převod do majetku TST Tábor s.r.o. 
+V souvislosti s přípravami realizace parkovacího domu byl schválen nepeněžitý (pozemek) a peněžitý převod do majetku TST Tábor s.r.o. 

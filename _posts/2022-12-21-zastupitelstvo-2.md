@@ -13,7 +13,7 @@ date: 2022-12-21
 V pondělí 19. prosince se uskutečnilo letošní poslední, tzv. rozpočtové zastupitelstvo. Z nejzajímavějších bodů vybíráme:
 
 ### 1. Schválení rozpočtu pro rok 2023 
-Rozpočet je schodkový a bude částečně kryt úvěrem a fondem rezerv a rozvoje. Provozní přebytek činí 16 % běžných příjmů, podíl kapitálových výdajů je 19 % z celkových výdajů.
+Rozpočet je schodkový a bude kryt jak úvěrem a fondem rezerv a rozvoje. Z důležitých ukazatelů je potřeba zmínit, že provozní přebytek činí 16 % běžných příjm a podíl kapitálových výdajů je 19 % z celkových výdajů.
 
 ### 2. Dotace na dofinancování prokazatelné ztráty z provozu MHD
 Byla schválena každoroční dotace na dofinancování ve výši 78 miliónů. Navyšování ztráty za poslední roky nás nutí hledat opatření na racionalizaci městské hromadné dopravy. Nechápeme ale opozici, která pro tento návrh nehlasovala. Pokud by se dotace neschválila, od 1. ledna 2023 by autobusy MHD nevyjely.

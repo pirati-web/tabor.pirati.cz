@@ -7,7 +7,7 @@ title: Hodnocení zasedání zastupitelstva města Tábor 19.12.22
 description: Krátké hodnocení rozpočtového zastupitelstva města Tábor
 tags: zastupitelstvo, Tabor
 author: zastupitelský klub
-date: 2022-12-20
+date: 2022-12-21
 ---
 
 V pondělí 19. prosince se uskutečnilo letošní poslední, tzv. rozpočtové zastupitelstvo. Z nejzajímavějších bodů vybíráme:

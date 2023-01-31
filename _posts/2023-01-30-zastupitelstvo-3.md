@@ -6,7 +6,7 @@ image: /static/media/tabor-posta-web.jpg
 title: Hodnocení 3. zasedání zastupitelstva města Tábor 30.ledna 20223
 description: Krátké hodnocení lednového zastupitelstva města Tábor
 tags: zastupitelstvo, Tabor
-author: - pms -
+author: -pms-
 date: 2023-01-31
 ---
 

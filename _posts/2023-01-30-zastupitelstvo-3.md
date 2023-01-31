@@ -28,7 +28,8 @@ Komise Zdravého města a MA21: Eva Tilli <br />
 Místostarosta Martin Mareda k odkupu dodává: _„Díky jednáním s Českou poštou se nám podařilo vyjednat přímý odkup za znaleckou cenu  34 miliónů Kč. Cílem využití budovy je propojit ji s vedlejší budovou úřadu čp. 11 a přestěhovat sem část odborů na tzv. Tabačce“._
 
 ### 4. Prošel záměr prodeje pozemků městu Sezimovo Ústí
-Schválili jsme žádost první uchazečky do tohoto dotačního programu, který v minulém volebním období připravoval Martin Mareda. Jedná se o studentku Karlovy univerzity oboru zubní lékařství, která je v současné chvíli ve 4. ročníku.
+Důvodem je obnova rybníčku Nechyba a revitalizace okolí s cílem zvýšit retenční schopnosti, na kterou město Sezimovo Ústí již nechalo vypracovat odbornou studii. Odbor správy majetku nechal na předmětné pozemky zpracovat znalecký posudek na cenu obvyklou, která ve výsledku činí 
+205.550 Kč.
 
 ### 5. Směna pozemků se společností Butterfly Invest
 Nejbouřlivějším tématem byla směna pozemků na Sídlišti nad Lužnici za účelem vybudování nového bytového domu. Diskutovali zastupitelé, investor i kritická veřejnost z této lokality. Tématem na jedné straně byla výstavba nových bytů  a spolupráce města na finálním vyznění  domu, na straně druhé obavy obyvatel ze snížení životního komfortu včetně zhoršení parkovací situace a absence jistoty budoucí podoby domu. Nakonec byl materiál stažen s úkolem nastavit garance toho, co developer postaví.  

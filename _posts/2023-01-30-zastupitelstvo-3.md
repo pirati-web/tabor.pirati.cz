@@ -34,5 +34,5 @@ Důvodem je obnova rybníčku Nechyba a revitalizace okolí s cílem zvýšit re
 ### 5. Směna pozemků se společností Butterfly Invest
 Nejbouřlivějším tématem byla směna pozemků na Sídlišti nad Lužnici za účelem vybudování nového bytového domu. Diskutovali zastupitelé, investor i kritická veřejnost z této lokality. Tématem na jedné straně byla výstavba nových bytů  a spolupráce města na finálním vyznění  domu, na straně druhé obavy obyvatel ze snížení životního komfortu včetně zhoršení parkovací situace a absence jistoty budoucí podoby domu. Nakonec byl materiál stažen s úkolem nastavit garance toho, co developer postaví.  
  <br />
-_„Jednání jak s kritiky, tak s investorem jsou náročná, ale ku prospěchu věci. Investor už zde může stavět na svých pozemcích. Je v našem zájmu, aby město díky směně pozemků mělo jisté možnosti jak případnou výstavbu usměrnit, tak aby byla co nejprospěšnější pro lokalitu. Ať už z hlediska kvality života tak i  dopravní a parkovací  situace“ doplňuje Mareda_
+_„Jednání jak s kritiky, tak s investorem jsou náročná, ale ku prospěchu věci. Investor už zde může stavět na svých pozemcích. Je v našem zájmu, aby město díky směně pozemků mělo jisté možnosti jak případnou výstavbu usměrnit, tak aby byla co nejprospěšnější pro lokalitu. Ať už z hlediska kvality života tak i  dopravní a parkovací  situace“_ doplňuje Mareda
 

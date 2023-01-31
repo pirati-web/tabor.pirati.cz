@@ -3,7 +3,7 @@ layout: blog
 published: true
 category: CLANKY
 image: /static/media/tabor-posta-web-2.jpg
-title: Hodnocení 3. zasedání zastupitelstva města Tábor 30.ledna 20223
+title: Hodnocení 3. zasedání zastupitelstva města Tábor 30.ledna 2023
 description: Krátké hodnocení lednového zastupitelstva města Tábor
 tags: zastupitelstvo, Tabor
 author: -pms-

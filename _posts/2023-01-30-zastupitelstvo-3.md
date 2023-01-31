@@ -19,6 +19,7 @@ Komise sociální: Martin Mareda a Jan Mácha <br />
 Komise kulturní: Jan Příbramský <br />
 Komise pro cestovní ruch: Jiří Roubíček a David Michálek <br />
 Komise tělovýchovy: Martin Kučera <br />
+Komise Zdravého města a MA21: Eva Tilli <br />
 
 ### 2. Schválení dotací v sociální, kulturní, environmentální a sportovní oblasti
 Byla schválena každoroční dotace na dofinancování ztráty ve výši 78 miliónů. Navyšování ztráty za poslední roky nás nutí hledat opatření na racionalizaci městské autobusové dopravy. Nechápeme ale opozici, která pro tento návrh nehlasovala. Pokud by se dotace neschválila, od 1. ledna 2023 by autobusy MHD nevyjely.

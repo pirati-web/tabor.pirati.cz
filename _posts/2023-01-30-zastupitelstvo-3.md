@@ -13,6 +13,9 @@ date: 2023-01-31
 Pondělní táborské zastupitelstvo nabídlo několik zajímavých bodů.
 
 ### 1. Krajský zastupitel a náš člen v dozorčí radě Toulavy
+Náš člen Jiří Roubíček byl jednomyslně zvolen do dozorčí rady společnosti Toulava, o.p.s.
+
+### 2. Schválení dotací v sociální, kulturní, environmentální a sportovní oblasti
 Zastupitelé schválili poskytnutí dotací na základě hodnocení odborných komisí, v nichž mají Piráti své zastoupení:
 
 Komise sociální: Martin Mareda a Jan Mácha <br />
@@ -20,9 +23,6 @@ Komise kulturní: Jan Příbramský <br />
 Komise pro cestovní ruch: Jiří Roubíček a David Michálek <br />
 Komise tělovýchovy: Martin Kučera <br />
 Komise Zdravého města a MA21: Eva Tilli <br />
-
-### 2. Schválení dotací v sociální, kulturní, environmentální a sportovní oblasti
-Byla schválena každoroční dotace na dofinancování ztráty ve výši 78 miliónů. Navyšování ztráty za poslední roky nás nutí hledat opatření na racionalizaci městské autobusové dopravy. Nechápeme ale opozici, která pro tento návrh nehlasovala. Pokud by se dotace neschválila, od 1. ledna 2023 by autobusy MHD nevyjely.
 
 ### 3. Zastupitelstvo jednomyslně schválilo odkup budovy České pošty na Žižkově náměstí
 Místostarosta Martin Mareda k odkupu dodává: _„Díky jednáním s Českou poštou se nám podařilo vyjednat přímý odkup za znaleckou cenu  34 miliónů Kč. Cílem využití budovy je propojit ji s vedlejší budovou úřadu čp. 11 a přestěhovat sem část odborů na tzv. Tabačce“._

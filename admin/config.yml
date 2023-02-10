@@ -2,7 +2,8 @@ backend:
   name: github
   repo: pirati-web/tabor.pirati.cz   # Path to your Github repository
   branch: gh-pages              # Branch to update
-  base_url: https://piraweboauth.herokuapp.com
+  #base_url: https://piraweboauth.herokuapp.com
+  base_url: https://af03-178-255-168-237.eu.ngrok.io
 
 media_folder: "static/media"
 locale: "cs"

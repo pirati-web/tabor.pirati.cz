@@ -2,7 +2,7 @@
 layout: blog
 published: true
 category: CLANKY
-image: /static/media/byty.png
+image: /static/media/byty.jpg
 title: Nesouhlasíme s prodejem městských bytů
 description: Nesouhlas s prodejem mestskych bytu
 tags: zastupitelstvo, Tabor

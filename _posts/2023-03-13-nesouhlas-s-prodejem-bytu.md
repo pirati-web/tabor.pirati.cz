@@ -6,7 +6,7 @@ image: /static/media/byty.jpg
 title: Nesouhlasíme s prodejem městských bytů
 description: Nesouhlas s prodejem mestskych bytu
 tags: zastupitelstvo, Tabor
-author: -zastupitelsky klub -
+author: zastupitelé
 date: 2023-03-13
 ---
 

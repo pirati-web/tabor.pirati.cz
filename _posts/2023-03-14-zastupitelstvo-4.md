@@ -26,7 +26,7 @@ V dalším bodě  zastupitelé schválili poskytnutí daru Charitě Česká Repu
 ### Prodej městských bytů
 Jak jsme již avizovali v minulém příspěvku, nejdůležitějším bodem ZM byla změna deklarace vůle zastupitelstva města prodávat volné bytové jednotky v domech, kde město vlastní dva byty.  
 
-Radní Václav Klecanda k tomu říká: _„Dnes i když se prodejní cena přiblížila trhu, stále rozhodně není ani zdaleka taková, za jakou se postaví byty nové. Takové záměry tu jsou a proto nám určite nedává smysl prodávat, když budeme chtít v budoucnu stavět.“_ 
+Radní Václav Klecanda k tomu říká: _„Ačkoliv se dnes už prodejní cena přiblížila trhu, stále rozhodně není ani zdaleka taková, za jakou se postaví byty nové. Takové záměry tu jsou a proto nám určite nedává smysl prodávat, když budeme chtít v budoucnu stavět.“_ 
 
 Diskuse, která nepostrádala na obou frontách rozumné argumenty, skončila jednoznačným hlasováním, kdy změna v prodeji bytů neprošla. Pro bylo sedm zastupitelů, proti čtrnáct a zdrželi se dva zastupitelé.  
 

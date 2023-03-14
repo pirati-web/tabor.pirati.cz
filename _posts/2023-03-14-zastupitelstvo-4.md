@@ -2,7 +2,7 @@
 layout: blog
 published: true
 category: CLANKY
-image: /static/media/tabor-posta-web-2.jpg
+image: /static/media/venca-martin2.jpg
 title: Čtvrté zastupitelstvo města Tábor přineslo pár výživných bodů
 description: Hodnocení březnového zastupitelstva
 tags: zastupitelstvo, Tabor

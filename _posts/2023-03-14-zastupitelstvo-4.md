@@ -19,6 +19,7 @@ Prvním projednávaným byla modernizace a rozšiřování kamerového systému.
 Zastupitelstvo města prominulo dluh včetně příslušenství  dlužníkovi, který ze sociálních i zdravotních důvodu, není schopen dluh platit. Druhá žádost  dlužnice o prominutí obrovských poplatků z prodlení  bude ještě doplněna a proto byla stažena. 
 
 > „Náš názor k této druhé žádosti je ale jasný: odpustit. V kontextu již dvou proběhlých milostivých lét pro nás není žádná jiná varianta,“
+
 říká k tomu místostarosta Martin Mareda, který se dluhům v minulém volebním období věnoval v Komisi pro pohledávky.
 
 ###  Dar Charitě na pomoc obětem zemětřesení v Turecku a Sýrii

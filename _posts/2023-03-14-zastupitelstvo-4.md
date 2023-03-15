@@ -18,7 +18,8 @@ Prvním projednávaným byla modernizace a rozšiřování kamerového systému.
 
 Zastupitelstvo města prominulo dluh včetně příslušenství  dlužníkovi, který ze sociálních i zdravotních důvodu, není schopen dluh platit. Druhá žádost  dlužnice o prominutí obrovských poplatků z prodlení  bude ještě doplněna a proto byla stažena. 
 
-_„Náš názor k této druhé žádosti je ale jasný: odpustit. V kontextu již dvou proběhlých milostivých lét pro nás není žádná jiná varianta,“_ říká k tomu místostarosta Martin Mareda, který se dluhům v minulém volebním období věnoval v Komisi pro pohledávky.
+> „Náš názor k této druhé žádosti je ale jasný: odpustit. V kontextu již dvou proběhlých milostivých lét pro nás není žádná jiná varianta,“
+říká k tomu místostarosta Martin Mareda, který se dluhům v minulém volebním období věnoval v Komisi pro pohledávky.
 
 ###  Dar Charitě na pomoc obětem zemětřesení v Turecku a Sýrii
 V dalším bodě  zastupitelé schválili poskytnutí daru Charitě Česká Republika na zmírnění škod vzniklých při zemětřesení v Turecku a Sýrii ve výši 200 000 Kč.
@@ -26,7 +27,8 @@ V dalším bodě  zastupitelé schválili poskytnutí daru Charitě Česká Repu
 ### Prodej městských bytů
 Jak jsme již avizovali v minulém příspěvku, nejdůležitějším bodem ZM byla změna deklarace vůle zastupitelstva města prodávat volné bytové jednotky v domech, kde město vlastní dva byty.  
 
-Radní Václav Klecanda k tomu říká: _„Ačkoliv se dnes už prodejní cena přiblížila trhu, stále rozhodně není ani zdaleka taková, za jakou se postaví byty nové. Takové záměry tu jsou a proto nám určite nedává smysl prodávat, když budeme chtít v budoucnu stavět.“_ 
+Radní Václav Klecanda k tomu říká: 
+> „Ačkoliv se dnes už prodejní cena přiblížila trhu, stále rozhodně není ani zdaleka taková, za jakou se postaví byty nové. Takové záměry tu jsou a proto nám určite nedává smysl prodávat, když budeme chtít v budoucnu stavět.“ 
 
 Diskuse, která nepostrádala na obou frontách rozumné argumenty, skončila jednoznačným hlasováním, kdy změna v prodeji bytů neprošla. Pro bylo sedm zastupitelů, proti čtrnáct a zdrželi se dva zastupitelé.  
 

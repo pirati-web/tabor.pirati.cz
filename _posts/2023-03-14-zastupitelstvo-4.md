@@ -3,7 +3,7 @@ layout: blog
 published: true
 category: CLANKY
 image: /static/media/venca-martin2.jpg
-title: Čtvrté zastupitelstvo města Tábor přineslo pár výživných bodů
+title: Čtvrté Zastupitelstvo města Tábor přineslo pár výživných bodů
 description: Hodnocení březnového zastupitelstva
 tags: zastupitelstvo, Tabor
 author: -pms-
@@ -23,7 +23,7 @@ Zastupitelstvo města prominulo dluh včetně příslušenství  dlužníkovi, k
 říká k tomu místostarosta Martin Mareda, který se dluhům v minulém volebním období věnoval v Komisi pro pohledávky.
 
 ###  Dar Charitě na pomoc obětem zemětřesení v Turecku a Sýrii
-V dalším bodě  zastupitelé schválili poskytnutí daru Charitě Česká Republika na zmírnění škod vzniklých při zemětřesení v Turecku a Sýrii ve výši 200 000 Kč.
+V dalším bodě  zastupitelé schválili poskytnutí daru Charitě Česká republika na zmírnění škod vzniklých při zemětřesení v Turecku a Sýrii ve výši 200 000 Kč.
 
 ### Prodej městských bytů
 Jak jsme již avizovali v minulém příspěvku, nejdůležitějším bodem ZM byla změna deklarace vůle zastupitelstva města prodávat volné bytové jednotky v domech, kde město vlastní dva byty.  

@@ -2,7 +2,7 @@
 layout: blog
 published: TRUE
 category: CLANKY
-image: /static/media/venca-martin2.jpg
+image: /static/media/green-money.jpg
 title: Shrnutí dubnového zasedání zastupitelstva v Táboře
 description: Hodnocení březnového zastupitelstva
 tags: zastupitelstvo, Tabor

@@ -41,5 +41,5 @@ Po dvojím stažení materiálu ze zastupitelstva dospěla včera do svého fin�
 
 ### Prodej volného bytu
 
-Na minulém zastupitelstvu se rozhořela zajímavá diskuse o prodeji bytů včetně prolomení podmínky, kdy je možné prodat byt, který je už jediným volným městským bytem v domě. K tomuto prolomení nedošlo, zůstává tedy v platnosti stále usnesení ZM z roku 2019. Piráti tehdy u této dohody byli, a proto včera souhlasili s prodejem konkrétního  posledního bytu v domě. “Dohoda z roku 2019 byla kompromisem. Nám by se jistě líbilo úplné zastavení prodeje bytů. Ctíme ale dohody, proto jsme včera na prodej posledního bytu kývli,” dodal **Mareda**.  
+Na minulém zastupitelstvu se rozhořela zajímavá diskuse o prodeji bytů včetně prolomení podmínky, kdy je možné prodat byt, který je už jediným volným městským bytem v domě. K tomuto prolomení nedošlo, zůstává tedy v platnosti stále usnesení ZM z roku 2019. Piráti tehdy u této dohody byli, a proto včera souhlasili s prodejem konkrétního  posledního bytu v domě. *“Dohoda z roku 2019 byla kompromisem. Nám by se jistě líbilo úplné zastavení prodeje bytů. Ctíme ale dohody, proto jsme včera na prodej posledního bytu kývli,”* dodal **Mareda**.  
 

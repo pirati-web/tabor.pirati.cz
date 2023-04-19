@@ -1,6 +1,6 @@
 ---
 layout: blog
-published: FALSE
+published: TRUE
 category: CLANKY
 image: /static/media/venca-martin2.jpg
 title: Shrnutí dubnového zasedání zastupitelstva v Táboře
